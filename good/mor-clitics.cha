@@ -1,0 +1,18 @@
+@Font:	Arial Unicode MS:12:1
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Timmy Target_Child, LIN Linda Investigator, WIN Winnie Investigator, GEM Gemma Housekeeper
+@ID:	eng|timmy|CHI|2;9.8||||Target_Child|||
+@ID:	eng|timmy|LIN|||||Investigator|||
+@ID:	eng|timmy|WIN|||||Investigator|||
+@ID:	eng|timmy|GEM|||||Housekeeper|||
+*CHI:	it's me !
+%mor:	pro|it~v|be&3S pro|me !
+@Comment:	+ with ~
+*CHI:	you gonna put the choo+choo's wheel on ?
+%mor:	pro|you part|go-PROG~inf|to v|put&ZERO det|the
+	n|+on|choo+on|choo~v:cop|be&3S n|wheel adv:loc|on ? 
+@Comment:	this is not legal for mor
+*CHI:	you gonna put the choo's+choo's wheel on ?
+@End

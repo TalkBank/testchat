@@ -1,0 +1,12 @@
+@UTF8
+@Begin
+@Languages:	eng, zho-nan, nan
+@Participants:	CHI Child, MOT Mother
+@ID:	eng, zho-nan, nan|bates|CHI|1;8.|female|normal||Child|||
+@ID:	eng, zho-nan, nan|bates|MOT|||||Mother|||
+@New Language:	zho-nan
+@Date:	23-JUL-1964
+*CHI:	a foo3 stupid .
+@New Language:	nan
+*CHI:	a foo3 stupid .
+@End

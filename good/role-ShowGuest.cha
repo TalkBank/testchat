@@ -1,0 +1,8 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI ShowGuest
+@ID:	eng|bates|CHI|1;8.|female|normal||ShowGuest|||
+@Comment:	Test role ShowGuest
+*CHI:	foo .
+@End
