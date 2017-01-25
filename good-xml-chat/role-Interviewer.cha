@@ -1,0 +1,8 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Interviewer
+@ID:	eng|bates|CHI|1;8.|female|normal||Interviewer|||
+@Comment:	Test role Interviewer
+*CHI:	foo .
+@End

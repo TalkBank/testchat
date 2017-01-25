@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Timmy Target_Child, LIN Linda Investigator, WIN Winnie Investigator, GEM Gemma Housekeeper
+@Options:	heritage
+@ID:	eng|timmy|CHI|2;9.8||||Target_Child|||
+@ID:	eng|timmy|LIN|||||Investigator|||
+@ID:	eng|timmy|WIN|||||Investigator|||
+@ID:	eng|timmy|GEM|||||Housekeeper|||
+@Media:	tai940505, video
+@Date:	29-FEB-1996
+@Comment:	heritage will never round trip "properly" because of loss
+*CHI:	what's that ? 
+*CHI:	 underline  foo bar . 
+*CHI:	 underline  :  2041689_2042652
+@End

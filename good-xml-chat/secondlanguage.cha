@@ -1,0 +1,10 @@
+@UTF8
+@Begin
+@Languages:	zho, eng
+@Participants:	CHI Child, MOT Mother
+@ID:	zho, eng|bates|CHI|1;8.|female|normal||Child|||
+@ID:	zho, eng|bates|MOT|||||Mother|||
+@Comment:	test use of second language switch
+@New Language:	eng
+*CHI:	this hao3@s:zho hao3@s:zho is stupid !
+@End
