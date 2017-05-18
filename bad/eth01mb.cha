@@ -1,0 +1,672 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	en|providence|CHI|0;11.04|male|||Target_Child||
+@ID:	en|providence|MOT||female|||Mother||
+@Birth of CHI:	12-DEC-2000
+@Date:	16-NOV-2001
+@Coder:	manuela barcelos
+@Comment:	Caregivers' Language is Mother Standard American English (Midwest,
+	Chicago) Father Standard American English (originally from Brooklyn
+	but speaks SAE)
+*MOT:	you wanna [: want to] sit with mommy? %mov:"EVA01"_34413_37325
+*MOT:	you wanna [: want to] sit up? %mov:"EVA01"_37325_38875
+*MOT:	that's a camera. %mov:"EVA01"_38511_40995
+*MOT:	you wanna [: want to] see the camera? %mov:"EVA01"_40996_42356
+*MOT:	see the light? %mov:"EVA01"_42356_44851
+*MOT:	there's a little red light. %mov:"EVA01"_44851_47300
+*MOT:	light. %mov:"EVA01"_47300_49851
+*MOT:	"=m"h=m@u [: mm+hmm], you wanna [: want to] see?
+*MOT:	look. %mov:"EVA01"_49851_54621
+*MOT:	see? %mov:"EVA01"_54621_56316
+*MOT:	see the camera? %mov:"EVA01"_56316_58963
+*MOT:	that's a camera. %mov:"EVA01"_58963_63371
+*MOT:	"h=m@u [: hmm], yeah [: yes]. %mov:"EVA01"_63371_68836
+*MOT:	yeah [: yes] a camera. %mov:"EVA01"_68836_72741
+*MOT:	camera's taking your picture. %mov:"EVA01"_72741_76611
+*MOT:	here's a picture. %mov:"EVA01"_78716_80780
+*MOT:	that's right.
+*MOT:	mm+hmm. %mov:"EVA01"_80780_83291
+*MOT:	are you saying, hi? %mov:"EVA01"_84331_86316
+*MOT:	hi. %mov:"EVA01"_86316_88596
+*MOT:	hi camera. %mov:"EVA01"_88596_90028
+*MOT:	hi camera. %mov:"EVA01"_91294_92673
+*MOT:	you wanna [: want to] look at the book sweetie? %mov:"EVA01"_95993_97959
+*MOT:	you wanna [: want to] finish looking at your book? %mov:"EVA01"_97518_101956
+*MOT:	we start at the beginning. %mov:"EVA01"_101956_105228
+*MOT:	the wheels on the bus go round and round. %mov:"EVA01"_105228_113021
+*MOT:	round and +...
+*MOT:	you wanna [: want to] see the camera? %mov:"EVA01"_113021_116100
+*MOT:	you're fascinated. %mov:"EVA01"_118940_121915
+*MOT:	the wheels on the bus go round and round. %mov:"EVA01"_121915_127275
+*MOT:	you wanna [: want to] look at it? %mov:"EVA01"_127275_129638
+*MOT:	you wanna [: want to] look? %mov:"EVA01"_129638_133075
+*MOT:	yeah [: yes], that's a camera. %mov:"EVA01"_133075_136995
+*MOT:	mm+hmm.
+*MOT:	would you like a cheerio? %mov:"EVA01"_136995_146766
+*MOT:	would you like a cheerio? %mov:"EVA01"_146766_150253
+*MOT:	yummy, yummy. %mov:"EVA01"_150253_155958
+*MOT:	wanna [: want to] put the top on? %mov:"EVA01"_155958_160101
+*MOT:	top off. %mov:"EVA01"_160101_162606
+*MOT:	top on. %mov:"EVA01"_162606_165156
+*MOT:	mm+hmm, that's right. %mov:"EVA01"_165156_173493
+*MOT:	you're staring at the camera. %mov:"EVA01"_173493_177013
+*MOT:	what does that look like? %mov:"EVA01"_177013_181110
+*MOT:	an animal? %mov:"EVA01"_181355_182661
+*MOT:	want some more cheerios? %mov:"EVA01"_184051_185965
+*MOT:	um yeah [: yes], there's a camera sweetie. %mov:"EVA01"_185965_189845
+*MOT:	pop. %mov:"EVA01"_189845_194873
+%sit:	MOT is popping top off of cereal container
+*MOT:	pop, pop, pop. %mov:"EVA01"_194873_197943
+*MOT:	pop, pop, pop. %mov:"EVA01"_197943_200893
+*MOT:	"u@u [: ooh], that was a motorcycle outside. %mov:"EVA01"_200893_207221
+*MOT:	a loud motorcycle. %mov:"EVA01"_207221_211101
+*MOT:	mm+hmm. %mov:"EVA01"_211101_217228
+*MOT:	"ju"hu@u [: yoo+hoo], yoo+hoo. %mov:"EVA01"_217228_219956
+*MOT:	ok. %mov:"EVA01"_219956_227956
+*MOT:	what happens here? %mov:"EVA01"_227956_230796
+*MOT:	the wipers on the bus go swish swish swish. %mov:"EVA01"_230796_237708
+*MOT:	swish swish swish, swish swish swish.
+*MOT:	the wipers on the bus go swish swish swish all over town. %mov:"EVA01"_237928_248326
+*MOT:	gentle, gentle sweetie. %mov:"EVA01"_248549_254010
+*MOT:	yeah [: yes], that's right. %mov:"EVA01"_254011_258644
+*MOT:	"Vʔ"o@u [: uh+oh].
+*MOT:	yeah [: yes], that's a camera. %mov:"EVA01"_258644_262885
+*MOT:	the riders on the bus go "bVmpɪi@u [: bumpity] bump bump, bumpity
+	bump bump, bumpity bump bump.
+*MOT:	the riders on the bus go bumpity bump bump. %mov:"EVA01"_262885_279541
+*MOT:	see it's a wire. %mov:"EVA01"_279541_284430
+*MOT:	uh+huh, yeah [: yes]. %mov:"EVA01"_284430_289013
+*MOT:	that's a camera. %mov:"EVA01"_289013_293110
+*MOT:	what happens here? %mov:"EVA01"_293110_299253
+*MOT:	bumpity bump bump. %mov:"EVA01"_299253_303166
+*MOT:	bumpity bump bump. %mov:"EVA01"_303248_305693
+*MOT:	can you pull it? %mov:"EVA01"_305993_309150
+*MOT:	bumpity bump bump, bumpity bump bump. %mov:"EVA01"_309997_314448
+*MOT:	that's a camera sweetie. %mov:"EVA01"_314788_318445
+*MOT:	we have to get used to it. %mov:"EVA01"_320758_325213
+*MOT:	should we play with a toy? %mov:"EVA01"_325213_328821
+*MOT:	should we get a toy? %mov:"EVA01"_328821_330750
+*MOT:	should we get a toy? %mov:"EVA01"_330750_334150
+*MOT:	do you want a toy? %mov:"EVA01"_334150_336358
+*MOT:	you want your toy over there?%mov:"EVA01"_336358_339343
+*CHI:	xx. %mov:"EVA01"_339343_345455
+%sit:	CHI is pointing to a candle
+*MOT:	the candle. %mov:"EVA01"_345455_348318
+*MOT:	candle. %mov:"EVA01"_348318_350261
+*MOT:	you got [= have] no hands. %mov:"EVA01"_351675_355461
+*MOT:	your hands.
+*MOT:	where are your hands? %mov:"EVA01"_355461_359630
+*MOT:	there we go. %mov:"EVA01"_359630_365966
+*MOT:	"bVŋkə@u [: bunka] bunka "bVŋk@u [: bunk]. %mov:"EVA01"_365966_381125
+%sit:	MOT makes a tapping noise on a candle
+*MOT:	"Vh@u [: uh] it's heavy. %mov:"EVA01"_381125_386341
+*MOT:	you want me to put it up? %mov:"EVA01"_386341_387976
+*MOT:	up you want it? %mov:"EVA01"_387976_392593
+*MOT:	down. %mov:"EVA01"_392593_395153
+*MOT:	mm+hmm.
+*MOT:	you want me to put it back? %mov:"EVA01"_395153_399528
+*MOT:	ok.
+*MOT:	you want it back? %mov:"EVA01"_399528_404161
+*MOT:	here you go. %mov:"EVA01"_404161_409545
+*MOT:	ok.
+*MOT:	you want it again? %mov:"EVA01"_409545_415096
+*MOT:	that's silly. %mov:"EVA01"_415096_419576
+*MOT:	yes, mm+hmm. %mov:"EVA01"_419576_427576
+*MOT:	it's a camera sweetie. %mov:"EVA01"_427576_429753
+*MOT:	no no no no touch. %mov:"EVA01"_429753_435681
+*MOT:	no touch. %mov:"EVA01"_435681_437448
+*MOT:	you can look at it later, ok? %mov:"EVA01"_437448_440296
+*MOT:	mm+hmm. %mov:"EVA01"_440296_446425
+*MOT:	yeah [: yes], it's a camera. %mov:"EVA01"_446425_449496
+*MOT:	it's funny, right? %mov:"EVA01"_449496_454928
+*MOT:	say hi. %mov:"EVA01"_454928_457393
+*MOT:	hi. %mov:"EVA01"_457393_459393
+*MOT:	hi camera. %mov:"EVA01"_459393_460776
+*MOT:	hi camera. %mov:"EVA01"_460776_463096
+*MOT:	does it smell good? %mov:"EVA01"_463096_481785
+*MOT:	clap hands, clap hands, clap hands. %mov:"EVA01"_481785_487791
+*MOT:	mm+hmm. %mov:"EVA01"_487791_500223
+*MOT:	you want your book? %mov:"EVA01"_500223_505663
+*MOT:	you want your book? %mov:"EVA01"_505663_508958
+*MOT:	the driver on the bus says move on back, move on back, move on back.
+	%mov:"EVA01"_510388_520406
+*MOT:	the driver on the bus says +... %mov:"EVA01"_521141_523846
+*MOT:	boo. %mov:"EVA01"_523846_525838
+*MOT:	the people on the bus step in and out, in and out, in and out.
+*MOT:	the people on the bus step in and out all over town. %mov:"EVA01"_525838_538223
+*MOT:	what's that? %mov:"EVA01"_538223_538926
+*MOT:	bananas. %mov:"EVA01"_538926_541951
+*MOT:	a banana. %mov:"EVA01"_541951_544503
+*MOT:	that's what you had for breakfast a banana. %mov:"EVA01"_544503_548791
+*MOT:	should we turn the page? %mov:"EVA01"_548791_552040
+*MOT:	the driver on the bus says move on back, move on back, move on
+	back. %mov:"EVA01"_552040_558920
+*MOT:	can you do it?
+*MOT:	gentle. %mov:"EVA01"_558920_562695
+*MOT:	you can pull it. %mov:"EVA01"_562695_563988
+*MOT:	move on back. %mov:"EVA01"_563988_566228
+*MOT:	it's a camera sweetie. %mov:"EVA01"_566228_572020
+*MOT:	the wipers on bus go swish swish swish, swish swish swish. %mov:"EVA01"_572020_584956
+*MOT:	down and up. %mov:"EVA01"_587956_589653
+*CHI:	up.  %mov:"EVA01"_589653_592256
+%pht:	/"V/
+*MOT:	up. %mov:"EVA01"_591711_592255
+*MOT:	down and up. %mov:"EVA01"_593105_595056
+*MOT:	the wipers on the bus.
+*MOT:	I mean the windows on the bus slide up and down, up and down, up and
+	down. %mov:"EVA01"_595056_604785
+*MOT:	what happens here? %mov:"EVA01"_604785_606505
+*MOT:	bumpity bump bump. %mov:"EVA01"_606505_609440
+*MOT:	bumpity bump bump. %mov:"EVA01"_609440_612465
+*MOT:	bumpity bump bump. %mov:"EVA01"_612465_614296
+*MOT:	bumpity bump bump. %mov:"EVA01"_614296_617951
+*MOT:	bumpity bump bump. %mov:"EVA01"_617951_620761
+*MOT:	that's right. %mov:"EVA01"_620761_622688
+*MOT:	bumpity bump bump. %mov:"EVA01"_622688_625041
+*MOT:	bumpity bump bump. %mov:"EVA01"_625041_627825
+*MOT:	where's what's that? %mov:"EVA01"_627825_637173
+*MOT:	there's the kitty+cat. %mov:"EVA01"_637173_638875
+*MOT:	see. %mov:"EVA01"_638875_640185
+*MOT:	there's the kitty+cat. %mov:"EVA01"_640185_642568
+*MOT:	meow. %mov:"EVA01"_642568_644013
+*MOT:	meow bang bang bang bang bang. %mov:"EVA01"_644013_648425
+*MOT:	there's a camera sweetie. %mov:"EVA01"_648425_651025
+*MOT:	the babies on the bus cry "wɛ@u [: weh] weh weh, weh weh weh, weh
+	weh weh.
+*MOT:	the babies on the bus cry weh weh weh all over town. %mov:"EVA01"_651025_674168
+*MOT:	you gonna [: going too] turn the page? %mov:"EVA01"_674168_677361
+*MOT:	the babies on the bus cry weh weh weh, weh weh weh. %mov:"EVA01"_677361_684941
+*MOT:	and what do the mommies do? %mov:"EVA01"_684941_686875
+*MOT:	the mommies on the bus go ʃ@u [: shh] shh shh, shh shh shh. %mov:"EVA01"_686875_696876
+*MOT:	what do you want? %mov:"EVA01"_696876_703145
+*MOT:	are you sleepy "pUs@u [: puss]? %mov:"EVA01"_703145_704926
+*MOT:	are you sleepy puss? %mov:"EVA01"_704926_707711
+*MOT:	you want me to open it? %mov:"EVA01"_707711_828381
+*MOT:	ok. %mov:"EVA01"_828381_829301
+*MOT:	let's find the other ones. %mov:"EVA01"_829301_836013
+%sit:	MOT and CHI are playing with a bin full of toys
+*MOT:	where are the little ones? %mov:"EVA01"_836013_838676
+*MOT:	here's your kitty+cat. %mov:"EVA01"_838676_841131
+*MOT:	but where are the little dolls? %mov:"EVA01"_841131_845116
+*MOT:	you want your monkey? %mov:"EVA01"_845116_848836
+*MOT:	here's another one. %mov:"EVA01"_848836_850163
+*MOT:	you want it? %mov:"EVA01"_850163_852620
+*MOT:	you wanna [: want to] put him in the pail? %mov:"EVA01"_852620_854900
+*MOT:	here you go. %mov:"EVA01"_854900_857428
+*MOT:	do you want that? %mov:"EVA01"_857428_858651
+*MOT:	in the pail. %mov:"EVA01"_858651_862283
+*MOT:	in the pail. %mov:"EVA01"_862283_864291
+*MOT:	can you shake shake shake? %mov:"EVA01"_864291_866860
+*MOT:	who's in there? %mov:"EVA01"_866860_875396
+*MOT:	"pu@u [: Pooh]. %mov:"EVA01"_875396_876491
+*MOT:	there's Pooh. %mov:"EVA01"_876491_879228
+*MOT:	what's in the bucket? %mov:"EVA01"_879228_881323
+*MOT:	what's in the bucket? %mov:"EVA01"_881323_882963
+*MOT:	yeah [: yes]. %mov:"EVA01"_882963_895613
+*MOT:	can you bang? %mov:"EVA01"_895906_896550
+*MOT:	that's right bang bang bang bang bang on the bucket. %mov:"EVA01"_896653_899723
+*MOT:	bang bang bang bang bang on the bucket. %mov:"EVA01"_900251_902516
+*MOT:	bang bang bang bang on the bucket. %mov:"EVA01"_902516_907080
+*MOT:	bang bang bang bang. %mov:"EVA01"_907383_909331
+*MOT:	you want your kitty+cat? %mov:"EVA01"_916708_932675
+*MOT:	there's a camera, yeah [: yes]. %mov:"EVA01"_932675_934725
+*MOT:	do you want your kitty+cat? %mov:"EVA01"_934725_936565
+*MOT:	where's your kitty+cat? %mov:"EVA01"_936565_938373
+*MOT:	there's your kitty+cat. %mov:"EVA01"_938373_941596
+*MOT:	can I give your kitty+cat a kiss? %mov:"EVA01"_941596_944341
+*MOT:	yeah [: yes], thank you. %mov:"EVA01"_944341_946523
+*MOT:	kisses. %mov:"EVA01"_946523_949011
+*MOT:	kisses. %mov:"EVA01"_949011_950485
+*MOT:	meow meow. %mov:"EVA01"_950485_953885
+*MOT:	meow meow. %mov:"EVA01"_953885_957236
+*MOT:	meow. %mov:"EVA01"_957236_959081
+*MOT:	kitty+cat. %mov:"EVA01"_959081_962045
+*MOT:	meow. %mov:"EVA01"_962045_963988
+*MOT:	meow. %mov:"EVA01"_963988_970251
+*MOT:	meow meow meow meow meow. %mov:"EVA01"_970251_976465
+*MOT:	it's a camera sweetie. %mov:"EVA01"_976465_983056
+*MOT:	we just have to pretend it's not there, "hV@u [: huh]? %mov:"EVA01"_983056_989976
+*MOT:	just pretend, right?
+*MOT:	kitty+cat. %mov:"EVA01"_989976_993128
+*MOT:	kitty+cat. %mov:"EVA01"_993128_994096
+*MOT:	kitty+cat. %mov:"EVA01"_994096_995931
+*MOT:	"ɔ@u [: ow]. %mov:"EVA01"_995931_997675
+*MOT:	kitty+cat. %mov:"EVA01"_997675_998395
+*MOT:	gentle. %mov:"EVA01"_998395_1000080
+*MOT:	kitty+cat says meow. %mov:"EVA01"_1000080_1006955
+*MOT:	meow. %mov:"EVA01"_1006955_1009843
+*MOT:	meow. %mov:"EVA01"_1009843_1011875
+*MOT:	meow bang bang bang on the bucket. %mov:"EVA01"_1011875_1015346
+*MOT:	bang bang bang on the bucket. %mov:"EVA01"_1015346_1018121
+*MOT:	bang bang bang on the bucket.%mov:"EVA01"_1018121_1021355
+*MOT:	bang bang bang bang bang bang bang bang. %mov:"EVA01"_1021355_1026571
+*MOT:	bang bang bang bang bang. %mov:"EVA01"_1026571_1029991
+*MOT:	clap hands clap hands clap hands clap hands clap hands clap hands. %mov:"EVA01"_1029991_1036743
+*MOT:	kitty on the bucket. %mov:"EVA01"_1037791_1043528
+*MOT:	are you hitting the kitty+cat? %mov:"EVA01"_1043528_1049375
+*MOT:	kitty+cat that's right. %mov:"EVA01"_1049375_1053231
+*MOT:	kitty+cat. %mov:"EVA01"_1053231_1054688
+*MOT:	yeah [: yes] it's a camera sweetie. %mov:"EVA01"_1054688_1058455
+*MOT:	say hi. %mov:"EVA01"_1058455_1062543
+*MOT:	don't touch.
+*MOT:	don't touch. %mov:"EVA01"_1062543_1065176
+*MOT:	no touch. %mov:"EVA01"_1065176_1068183
+*MOT:	in the bucket. %mov:"EVA01"_1068183_1091808
+*MOT:	in the bucket. %mov:"EVA01"_1091808_1095423
+*MOT:	where's your shovel? %mov:"EVA01"_1095423_1099248
+*MOT:	where's your shovel, sweetie? %mov:"EVA01"_1099248_1101280
+*MOT:	where's your shovel? %mov:"EVA01"_1101280_1104008
+*MOT:	do we have a shovel? %mov:"EVA01"_1104008_1107328
+*MOT:	where's your shovel? %mov:"EVA01"_1107328_1113288
+*MOT:	there's some blocks. %mov:"EVA01"_1113288_1116320
+*MOT:	here's your shovel. %mov:"EVA01"_1116320_1119048
+*MOT:	"tɑ@u [: tah] "dɑ@u [: dah]. %mov:"EVA01"_1119048_1121743
+*MOT:	tah dah. %mov:"EVA01"_1121743_1123240
+*MOT:	"wUps@u [: woops] be careful. %mov:"EVA01"_1123240_1130296
+*MOT:	bang bang bang bang bang. %mov:"EVA01"_1130296_1134941
+*MOT:	come here. %mov:"EVA01"_1134941_1139216
+*MOT:	come with mommy. %mov:"EVA01"_1139216_1143288
+*MOT:	gentle. %mov:"EVA01"_1143288_1148848
+*MOT:	it's the sun. %mov:"EVA01"_1148848_1155703
+*MOT:	that's the sun. %mov:"EVA01"_1155703_1158216
+*MOT:	it's the sun. %mov:"EVA01"_1158216_1163591
+*MOT:	peek+a+boo. %mov:"EVA01"_1163591_1165520
+*MOT:	peek+a+boo. %mov:"EVA01"_1165520_1168968
+*MOT:	peek+a+boo "ups@u [: oops]! %mov:"EVA01"_1168968_1171675
+*MOT:	the telephone keeps ringing. %mov:"EVA01"_1171675_1174943
+*MOT:	shake shake shake shake shake. %mov:"EVA01"_1174943_1181208
+*MOT:	where's Ethan?
+*MOT:	peek+a+boo. %mov:"EVA01"_1181208_1187328
+*MOT:	where's Ethan? %mov:"EVA01"_1187328_1189791
+*MOT:	peek+a+boo. %mov:"EVA01"_1189791_1191920
+*MOT:	bang bang bang bang bang bang bang. %mov:"EVA01"_1191920_1200051
+*MOT:	want your truck? %mov:"EVA01"_1200051_1203360
+*MOT:	your truck? %mov:"EVA01"_1203360_1205741
+*MOT:	here's your truck. %mov:"EVA01"_1205741_1208560
+*MOT:	where are the wheels Ethan? %mov:"EVA01"_1208560_1212791
+*MOT:	where are the wheels? %mov:"EVA01"_1212791_1214095
+*MOT:	there's the wheels.
+*MOT:	yes, they go round and round. %mov:"EVA01"_1214095_1218743
+*MOT:	round and round. %mov:"EVA01"_1218743_1221081
+*MOT:	round and round. %mov:"EVA01"_1221081_1224831
+*MOT:	look we have some blocks. %mov:"EVA01"_1224831_1233568
+*MOT:	we can put the blocks in the truck. %mov:"EVA01"_1233568_1243711
+*MOT:	look the blocks are in the truck. %mov:"EVA01"_1243711_1248488
+*MOT:	"rum@u [: rumm] rumm rumm rumm rumm rumm rumm rumm rumm rumm.
+*MOT:	ooh kə"bum@u [: kaboom]! %mov:"EVA01"_1248488_1254381
+*MOT:	rumm rumm rumm rumm rumm rumm.
+*MOT:	that's right, put the blocks in the truck. %mov:"EVA01"_1254381_1259155
+*MOT:	and it goes up up up up up boom! %mov:"EVA01"_1259155_1265498
+*MOT:	you wanna [: want to] put the block inside the truck? %mov:"EVA01"_1265498_1269490
+*MOT:	yeah [: yes].
+*MOT:	yeah [: yes] you want the wheels? %mov:"EVA01"_1269490_1274165
+*MOT:	where are the wheels? %mov:"EVA01"_1274165_1275676
+*MOT:	there are the wheels. %mov:"EVA01"_1275676_1280406
+*MOT:	wheels go round and round. %mov:"EVA01"_1280406_1292051
+*MOT:	round and round. %mov:"EVA01"_1292051_1296725
+*MOT:	round and round. %mov:"EVA01"_1296725_1300525
+*MOT:	round and round. %mov:"EVA01"_1300525_1306365
+*MOT:	round and round. %mov:"EVA01"_1306365_1312475
+*MOT:	oops! %mov:"EVA01"_1312475_1323356
+*MOT:	shake shake shake shake shake. %mov:"EVA01"_1323356_1336331
+*MOT:	you have some blocks. %mov:"EVA01"_1336331_1345796
+*MOT:	watch this. %mov:"EVA01"_1345796_1346611
+*MOT:	mommy's gonna [: going to] build a +... %mov:"EVA01"_1346611_1350303
+*MOT:	no no. %mov:"EVA01"_1350303_1364973
+*MOT:	no kaboom! %mov:"EVA01"_1364973_1367726
+*MOT:	kaboom! %mov:"EVA01"_1367726_1369630
+*MOT:	kaboom. %mov:"EVA01"_1369630_1371855
+*MOT:	two uh+oh. %mov:"EVA01"_1371855_1377215
+*MOT:	one, two, three, four, five, six, seven. %mov:"EVA01"_1377215_1391181
+*MOT:	eight, nine.  %mov:"EVA01"_1391181_1393708
+*MOT:	ten. %mov:"EVA01"_1397550_1401358
+*MOT:	ah kaboom! %mov:"EVA01"_1401358_1406118
+*MOT:	kaboom! %mov:"EVA01"_1406118_1407685
+*MOT:	ok, there they are. %mov:"EVA01"_1407685_1410845
+*MOT:	here's the kitty cat. %mov:"EVA01"_1410845_1412413
+*MOT:	ready? %mov:"EVA01"_1412413_1413973
+*MOT:	one, two. %mov:"EVA01"_1413973_1418686
+*MOT:	are you giving the kitty cat the block? %mov:"EVA01"_1418686_1420486
+*MOT:	that's very nice. %mov:"EVA01"_1420486_1423038
+*MOT:	meow. %mov:"EVA01"_1423038_1424518
+*MOT:	meow. %mov:"EVA01"_1424518_1425790
+*MOT:	meow. %mov:"EVA01"_1425790_1427310
+*MOT:	meow meow meow meow meow. %mov:"EVA01"_1427310_1430608
+*MOT:	mmmm yummy. %mov:"EVA01"_1430608_1436941
+*MOT:	you're gonna [: going to] eat it now too? %mov:"EVA01"_1436941_1439941
+*MOT:	yucky. %mov:"EVA01"_1439941_1442341
+*MOT:	one two three, four, five, six, seven. %mov:"EVA01"_1442341_1456653
+*MOT:	eight, nine uh+oh. %mov:"EVA01"_1456653_1464141
+*MOT:	ten, ah kaboom! %mov:"EVA01"_1464141_1467110
+*MOT:	one, two, three, four, five, six, seven, eight, nine kaboom! %mov:"EVA01"_1467110_1508988
+*MOT:	kisses. %mov:"EVA01"_1508988_1516380
+*MOT:	kisses. %mov:"EVA01"_1516380_1517673
+*MOT:	kisses. %mov:"EVA01"_1517673_1520673
+*MOT:	yeah [: yes], is that a block? %mov:"EVA01"_1521392_1523673
+*MOT:	bang bang bang the blocks. %mov:"EVA01"_1524048_1528687
+%sit:	MOT is singing and banging blocks together
+*MOT:	bang bang bang the blocks. %mov:"EVA01"_1528723_1530523
+*MOT:	bang bang bang the blocks.%mov:"EVA01"_1530523_1532715
+*MOT:	you want your truck? %mov:"EVA01"_1532715_1544613
+*MOT:	oops be careful! %mov:"EVA01"_1544613_1546006
+*MOT:	be careful. %mov:"EVA01"_1546006_1547108
+*MOT:	"bVp@u [: bup] bee do be doo bah bah bah. %mov:"EVA01"_1547108_1567416
+%sit:	MOT is singing and drumming on a bucket
+*MOT:	bup bee do be doo doo doo. %mov:"EVA01"_1567416_1573288
+*MOT:	yeah [: yes]. %mov:"EVA01"_1573288_1578608
+*MOT:	you wanna [: want to] give mommy the block? %mov:"EVA01"_1578608_1580448
+*MOT:	give mommy the block. %mov:"EVA01"_1580448_1584231
+*MOT:	block. %mov:"EVA01"_1584231_1586728
+*MOT:	aah fell down! %mov:"EVA01"_1586728_1590985
+*MOT:	it fell down. %mov:"EVA01"_1590985_1599680
+*MOT:	thank you. %mov:"EVA01"_1599680_1604576
+*MOT:	thank you. %mov:"EVA01"_1604576_1608078
+*MOT:	got it. %mov:"EVA01"_1608078_1612576
+*MOT:	careful of the kitty cat. %mov:"EVA01"_1612576_1618078
+*MOT:	I'm gonna [: going to] turn on the light, ok? %mov:"EVA01"_1618078_1619606
+*MOT:	turn on the light. %mov:"EVA01"_1619606_1622425
+*MOT:	lights on. %mov:"EVA01"_1622425_1628481
+*MOT:	here we go. %mov:"EVA01"_1628481_1630741
+*MOT:	lights on. %mov:"EVA01"_1630741_1632410
+*MOT:	thank you. %mov:"EVA01"_1632410_1633568
+*MOT:	we'll build some blocks on here uh+huh. %mov:"EVA01"_1633568_1635226
+*MOT:	one, two, three, four oh! %mov:"EVA01"_1635226_1643843
+*MOT:	uh+oh. %mov:"EVA01"_1643843_1646210
+*MOT:	five. %mov:"EVA01"_1646210_1647300
+*MOT:	aah kaboom! %mov:"EVA01"_1647300_1648715
+*MOT:	there's your book. %mov:"EVA01"_1648715_1655388
+*MOT:	the babies on the bus cry weh weh weh, weh weh weh, weh weh weh. %mov:"EVA01"_1655388_1664580
+*MOT:	the babies on the bus cry weh weh weh all over town. %mov:"EVA01"_1664580_1671260
+*MOT:	put the block on the book. %mov:"EVA01"_1671260_1675955
+*MOT:	oops be careful sweetie. %mov:"EVA01"_1675955_1678851
+*MOT:	did that hurt? %mov:"EVA01"_1678851_1687235
+*MOT:	did that hurt? %mov:"EVA01"_1687235_1689451
+*MOT:	you wanna [: want to] see something? %mov:"EVA01"_1689451_1693628
+*MOT:	look at this. %mov:"EVA01"_1693628_1694851
+*MOT:	look at this. %mov:"EVA01"_1694851_1696556
+*MOT:	what's that? %mov:"EVA01"_1696556_1701475
+*MOT:	what's that funny thing? %mov:"EVA01"_1701475_1705123
+*MOT:	a purple backpack. %mov:"EVA01"_1705123_1708836
+*MOT:	you wanna [: want to] put a block inside? %mov:"EVA01"_1708836_1713043
+*MOT:	you wanna [: want to] put a block inside? %mov:"EVA01"_1713043_1717020
+*MOT:	thump. %mov:"EVA01"_1717020_1722873
+*MOT:	where's the block? %mov:"EVA01"_1722873_1725995
+*MOT:	you want me to get it? %mov:"EVA01"_1725995_1728011
+*MOT:	there you go. %mov:"EVA01"_1728011_1731963
+*MOT:	what's inside? %mov:"EVA01"_1731963_1755900
+*MOT:	yeah [: yes] it's a backpack. %mov:"EVA01"_1755900_1761108
+*MOT:	look at this. %mov:"EVA01"_1761108_1767180
+*MOT:	can you see mommy's hand inside? %mov:"EVA01"_1767180_1772020
+*MOT:	"wu@u [: woo]. %mov:"EVA01"_1772020_1776141
+*MOT:	"upsi@u [: oopsy]. %mov:"EVA01"_1776141_1787115
+*MOT:	here's a zipper. %mov:"EVA01"_1787115_1789475
+*MOT:	that's a zipper. %mov:"EVA01"_1789475_1791043
+*MOT:	fingers. %mov:"EVA01"_1791043_1820523
+*MOT:	fingers. %mov:"EVA01"_1820523_1822963
+*MOT:	thank you. %mov:"EVA01"_1822963_1830883
+*MOT:	thank you. %mov:"EVA01"_1830883_1832380
+*MOT:	see the straps. %mov:"EVA01"_1832380_1836035
+*MOT:	you wanna [: want to] try it on? %mov:"EVA01"_1836035_1837043
+*MOT:	wanna [: want to] try it on Ev? %mov:"EVA01"_1837043_1841380
+*MOT:	now it's on Ethan. %mov:"EVA01"_1841380_1844580
+*MOT:	it's on your back. %mov:"EVA01"_1844580_1847491
+*MOT:	it's on your back. %mov:"EVA01"_1847491_1849386
+*MOT:	do you want it off? %mov:"EVA01"_1849386_1850098
+*MOT:	I'll take it off. %mov:"EVA01"_1850098_1851483
+*MOT:	there you go. %mov:"EVA01"_1851483_1853970
+*MOT:	there you go sweetie. %mov:"EVA01"_1853970_1858410
+*MOT:	shake shake shake shake shake shake shake shake shake shake. %mov:"EVA01"_1858410_1869755
+*MOT:	zipper. %mov:"EVA01"_1869755_1878300
+*MOT:	it's a zipper. %mov:"EVA01"_1878300_1881458
+*MOT:	zipper. %mov:"EVA01"_1881458_1883890
+*MOT:	light. %mov:"EVA01"_1883890_1885741
+*MOT:	oh, you think zipper is picture. %mov:"EVA01"_1885741_1890080
+*MOT:	zipper. %mov:"EVA01"_1890080_1893386
+*MOT:	here's a block. %mov:"EVA01"_1893386_1899795
+*MOT:	where's Pooh? %mov:"EVA01"_1899795_1904490
+*MOT:	wanna [: want to] put Pooh inside? %mov:"EVA01"_1904490_1906875
+*MOT:	hi Ethan. %mov:"EVA01"_1906875_1910675
+*MOT:	hi Ethan, I'm Pooh. %mov:"EVA01"_1910675_1912498
+*MOT:	you want him out of the bag? %mov:"EVA01"_1912498_1916290
+*MOT:	there's Pooh. %mov:"EVA01"_1916290_1920930
+*MOT:	kisses. %mov:"EVA01"_1920930_1924085
+*MOT:	kiss. %mov:"EVA01"_1924085_1927041
+*MOT:	blocks. %mov:"EVA01"_1927041_1956770
+*MOT:	blocks. %mov:"EVA01"_1956770_1959226
+*MOT:	are you having fun with that bag? %mov:"EVA01"_1959226_1963250
+*MOT:	two, three. %mov:"EVA01"_1963250_1984441
+*MOT:	four. %mov:"EVA01"_1984441_1985346
+*MOT:	five. %mov:"EVA01"_1985346_1988523
+*MOT:	boom. %mov:"EVA01"_1988523_1991513
+*MOT:	you made it go boom. %mov:"EVA01"_1991513_1993683
+*MOT:	two blocks Ethan. %mov:"EVA01"_1993683_2003850
+*MOT:	mm+hmm sweetie. %mov:"EVA01"_2003850_2007475
+*MOT:	you wanna [: want to] look at a different book? %mov:"EVA01"_2007475_2012628
+*MOT:	should we look at a different book? %mov:"EVA01"_2012628_2015721
+*MOT:	here, here's this book. %mov:"EVA01"_2015721_2019778
+*MOT:	this book. %mov:"EVA01"_2019778_2022906
+*MOT:	baby. %mov:"EVA01"_2022906_2027355
+*MOT:	baby says, clap hands. %mov:"EVA01"_2027355_2033665
+*MOT:	you need two hands to do that. %mov:"EVA01"_2033665_2035080
+*MOT:	that's right. %mov:"EVA01"_2035080_2035875
+*MOT:	clap hands. %mov:"EVA01"_2035875_2037820
+*MOT:	clap hands. %mov:"EVA01"_2037820_2038760
+*MOT:	baby says, peek+a+boo. %mov:"EVA01"_2038760_2041360
+*MOT:	peek+a+boo. %mov:"EVA01"_2041360_2045121
+*MOT:	clap hands. %mov:"EVA01"_2045121_2046393
+*MOT:	clap hands. %mov:"EVA01"_2046393_2047370
+*MOT:	clap hands, clap hands. %mov:"EVA01"_2047370_2049844
+*MOT:	peek+a+boo. %mov:"EVA01"_2049844_2051750
+*MOT:	he's going like this. %mov:"EVA01"_2051750_2053764
+*MOT:	peek+a+boo. %mov:"EVA01"_2053764_2055675
+*MOT:	peek+a+boo. %mov:"EVA01"_2055675_2057836
+*MOT:	peek+a+boo. %mov:"EVA01"_2057836_2060573
+*MOT:	say, up mommy. %mov:"EVA01"_2060573_2068173
+*MOT:	up mommy. %mov:"EVA01"_2068173_2070540
+*MOT:	he's saying, go away. %mov:"EVA01"_2070540_2074143
+*MOT:	go away. %mov:"EVA01"_2074143_2075581
+*MOT:	up mommy. %mov:"EVA01"_2075581_2078701
+*MOT:	clap hands, clap hands, clap hands. %mov:"EVA01"_2078701_2082358
+*MOT:	clap hands. %mov:"EVA01"_2082358_2084881
+*MOT:	he's saying, go away. %mov:"EVA01"_2084881_2088590
+*MOT:	go away. %mov:"EVA01"_2088590_2092621
+*MOT:	clap hands, clap hands +... %mov:"EVA01"_2092621_2097530
+*MOT:	peek+a+boo. %mov:"EVA01"_2097530_2100570
+*MOT:	peek+a+boo. %mov:"EVA01"_2100570_2101996
+*MOT:	that's right. %mov:"EVA01"_2101996_2103365
+*MOT:	that's right. %mov:"EVA01"_2103365_2105660
+*MOT:	peek+a+boo clap hands, clap hands, clap hands. %mov:"EVA01"_2105660_2109753
+*MOT:	what about this one? %mov:"EVA01"_2109753_2113551
+*MOT:	up mommy. %mov:"EVA01"_2113551_2115585
+*MOT:	up mommy.  %mov:"EVA01"_2116888_2118065
+*MOT:	go away go away. %mov:"EVA01"_2118065_2122168
+*MOT:	no. %mov:"EVA01"_2122168_2126208
+*MOT:	I'm hungry. %mov:"EVA01"_2126208_2129688
+*MOT:	I'm hungry gimme a cookie. %mov:"EVA01"_2129688_2133475
+*MOT:	gimme a cheerio. %mov:"EVA01"_2133475_2137225
+*MOT:	I don't know. %mov:"EVA01"_2137225_2140328
+*MOT:	I don't know. %mov:"EVA01"_2140328_2141368
+*MOT:	I don't know. %mov:"EVA01"_2141368_2142656
+*MOT:	see that little boy? %mov:"EVA01"_2142656_2144141
+*MOT:	that boy says, yes please. %mov:"EVA01"_2144141_2146265
+*MOT:	yes please. %mov:"EVA01"_2146265_2148551
+*MOT:	yes please. %mov:"EVA01"_2148551_2151345
+*MOT:	I'm sad. %mov:"EVA01"_2151345_2157168
+*MOT:	it's a sad baby. %mov:"EVA01"_2157168_2161080
+*MOT:	I'm happy. %mov:"EVA01"_2161080_2164228
+*MOT:	yay! %mov:"EVA01"_2164228_2165741
+*MOT:	he's a happy baby. %mov:"EVA01"_2165741_2168093
+*MOT:	yay! %mov:"EVA01"_2168093_2170060
+*MOT:	tah dah! %mov:"EVA01"_2170060_2171811
+*MOT:	yay tah dah! %mov:"EVA01"_2171811_2175220
+*MOT:	tah dah. %mov:"EVA01"_2175220_2178211
+*MOT:	what do you see? %mov:"EVA01"_2178211_2179996
+*MOT:	what do you see? %mov:"EVA01"_2179996_2181996
+*MOT:	you see outside? %mov:"EVA01"_2181996_2185053
+*MOT:	yeah [: yes], that's outside. %mov:"EVA01"_2185053_2188451
+*MOT:	I'm sleepy. %mov:"EVA01"_2188451_2192748
+*MOT:	I'm sleepy. %mov:"EVA01"_2192748_2195228
+*MOT:	and he's saying, goodbye, bye+bye. %mov:"EVA01"_2195228_2198696
+*MOT:	bye+bye. %mov:"EVA01"_2198696_2199648
+*MOT:	bye+bye. %mov:"EVA01"_2199648_2203210
+*MOT:	bye+bye. %mov:"EVA01"_2203210_2204560
+*MOT:	the end. %mov:"EVA01"_2204560_2208616
+*MOT:	the end. %mov:"EVA01"_2208616_2210040
+*MOT:	there's another baby there. %mov:"EVA01"_2210040_2213448
+*MOT:	and another baby there. %mov:"EVA01"_2213448_2215456
+*MOT:	look at that baby. %mov:"EVA01"_2215456_2217785
+*MOT:	that's a funny baby, huh? %mov:"EVA01"_2217785_2223420
+*MOT:	wanna [: want to] look at it yourself? %mov:"EVA01"_2223420_2229185
+*MOT:	you want me to read it?
+*MOT:	ok. %mov:"EVA01"_2229185_2231848
+*MOT:	clap hands. %mov:"EVA01"_2231848_2235345
+*MOT:	clap hands. %mov:"EVA01"_2235345_2237506
+*MOT:	peek+a+boo. %mov:"EVA01"_2237506_2241626
+*MOT:	peek+a+boo. %mov:"EVA01"_2241626_2244148
+*MOT:	boo boo. %mov:"EVA01"_2244148_2246770
+*MOT:	peek+a+boo.
+*MOT:	are you playing peek+a+boo? %mov:"EVA01"_2246770_2249058
+*MOT:	where's Ethan? %mov:"EVA01"_2249058_2250706
+*MOT:	where's Ethan? %mov:"EVA01"_2250706_2252770
+*MOT:	peek+a+boo. %mov:"EVA01"_2252770_2254675
+*MOT:	clap hands. %mov:"EVA01"_2254675_2255995
+*MOT:	up mommy. %mov:"EVA01"_2255995_2257906
+*MOT:	up mommy. %mov:"EVA01"_2257906_2259761
+*MOT:	go away. %mov:"EVA01"_2259761_2263083
+*MOT:	go away. %mov:"EVA01"_2263083_2264810
+*MOT:	no. %mov:"EVA01"_2264810_2269395
+*MOT:	no no no no no. %mov:"EVA01"_2269395_2272250
+*MOT:	yeah [: yes]. %mov:"EVA01"_2272250_2276546
+*MOT:	oh you know that I say no when you go to the television. %mov:"EVA01"_2276546_2281570
+*MOT:	yeah [: yes]. %mov:"EVA01"_2281570_2284810
+*MOT:	that's a camera sweetie. %mov:"EVA01"_2284810_2287218
+*MOT:	yeah [: yes] sweetie. %mov:"EVA01"_2287218_2294676
+*MOT:	you wanna [: want to] finish the rest of the book? %mov:"EVA01"_2294676_2298153
+*MOT:	I'm hungry. %mov:"EVA01"_2298153_2300561
+*MOT:	I'm hungry. %mov:"EVA01"_2300561_2302850
+*MOT:	what? %mov:"EVA01"_2302850_2305415
+*MOT:	are you hungry? %mov:"EVA01"_2305415_2306288
+*MOT:	are you hungry? %mov:"EVA01"_2306288_2309158
+*MOT:	hi. %mov:"EVA01"_2309158_2313806
+*MOT:	yes. %mov:"EVA01"_2313806_2315856
+*MOT:	say, hi. %mov:"EVA01"_2315856_2316958
+*MOT:	hi. %mov:"EVA01"_2316958_2318408
+*MOT:	hi. %mov:"EVA01"_2318408_2319815
+*MOT:	it's a camera. %mov:"EVA01"_2319815_2322326
+*MOT:	it's a big camera. %mov:"EVA01"_2322326_2328943
+*MOT:	you see the light? %mov:"EVA01"_2328943_2335775
+*MOT:	see the little red light? %mov:"EVA01"_2335775_2339376
+*MOT:	there's your picture. %mov:"EVA01"_2343375_2345151
+*MOT:	I don't know. %mov:"EVA01"_2345151_2358808
+*MOT:	yes, please. %mov:"EVA01"_2358808_2362711
+*MOT:	yeah [: yes]. %mov:"EVA01"_2362711_2364408
+*MOT:	bump. %mov:"EVA01"_2364408_2366086
+*MOT:	I'm sad. %mov:"EVA01"_2366086_2370381
+*MOT:	I'm gonna [: going to] cry. %mov:"EVA01"_2370381_2372966
+*MOT:	I'm happy! %mov:"EVA01"_2372966_2375766
+*MOT:	I'm happy! %mov:"EVA01"_2375766_2377741
+*MOT:	yay Ethan! %mov:"EVA01"_2377741_2379678
+*MOT:	yay Ethan! %mov:"EVA01"_2379678_2382095
+*MOT:	yay Ethan! %mov:"EVA01"_2382095_2384350
+*MOT:	are you sleepy sweetie. %mov:"EVA01"_2384350_2388903
+*MOT:	are you sleepy? %mov:"EVA01"_2388903_2392080
+*MOT:	oops oops! %mov:"EVA01"_2392080_2395846
+*MOT:	you want your toy? %mov:"EVA01"_2395846_2401415
+*MOT:	round and around. %mov:"EVA01"_2401415_2407118
+*MOT:	oops! %mov:"EVA01"_2407118_2408598
+*MOT:	woops! %mov:"EVA01"_2408598_2411318
+*MOT:	round round and around. %mov:"EVA01"_2411318_2418638
+*MOT:	where did it go? %mov:"EVA01"_2418638_2422886
+*MOT:	where did it go? %mov:"EVA01"_2422886_2425318
+*MOT:	you want a cheerio? %mov:"EVA01"_2425318_2431013
+*MOT:	you want up up? %mov:"EVA01"_2431013_2435646
+*MOT:	up. %mov:"EVA01"_2435646_2436813
+*MOT:	should we get another toy? %mov:"EVA01"_2436813_2441675
+*MOT:	what about this? %mov:"EVA01"_2441675_2444171
+*MOT:	"tɛ@u [: teh] "dɛ@u [: deh] deh teh deh teh deh deh teh deh. %mov:"EVA01"_2444558_2454010
+%sit:	MOT is blowing into a bottle and making noise
+*MOT:	more? %mov:"EVA01"_2456835_2459531
+*MOT:	I can't do it when your fingers are there. %mov:"EVA01"_2460840_2465265
+*MOT:	how (a)bout a cheerio. %mov:"EVA01"_2465225_2468593
+*MOT:	are you hungry? %mov:"EVA01"_2468593_2474593
+*MOT:	are you hungry sweetie? %mov:"EVA01"_2474593_2479856
+*MOT:	here you go. %mov:"EVA01"_2479856_2483153
+*MOT:	here you go. %mov:"EVA01"_2483153_2485608
+*MOT:	here you go. %mov:"EVA01"_2485608_2493635
+*MOT:	how (a)bout a cheerio? %mov:"EVA01"_2493635_2501785
+*MOT:	no cheerios. %mov:"EVA01"_2501785_2507225
+*MOT:	no cheerios. %mov:"EVA01"_2507225_2508433
+*MOT:	ok up. %mov:"EVA01"_2508433_2515440
+*MOT:	you want your book? %mov:"EVA01"_2515440_2518088
+*MOT:	oh. %mov:"EVA01"_2518088_2521345
+*MOT:	somebody's tired. %mov:"EVA01"_2521345_2523711
+*MOT:	ok. %mov:"EVA01"_2523711_2532320
+*MOT:	you want the pail? %mov:"EVA01"_2532320_2534728
+*MOT:	bang bang bang bang bang bang bang bang bang bang bang bang bang
+	bang. %mov:"EVA01"_2534728_2540208
+*MOT:	bang bang bang bang bang bang bang bang bang bang bang bang bang
+	bang.%mov:"EVA01"_2540208_2544141
+*MOT:	where are your shoes? %mov:"EVA01"_2544141_2545296
+*MOT:	where are your shoes? %mov:"EVA01"_2545296_2547680
+*MOT:	can we find your shoes? %mov:"EVA01"_2547680_2551408
+*MOT:	I see your shoes. %mov:"EVA01"_2551408_2556785
+*MOT:	I see your shoes. %mov:"EVA01"_2556785_2559545
+*MOT:	is there a ball on your shoe? %mov:"EVA01"_2559545_2562208
+*MOT:	ball? %mov:"EVA01"_2562208_2565675
+*MOT:	I think so we've lost your hand. %mov:"EVA01"_2565675_2568631
+*MOT:	you wanna [: want to] hold your shoe? %mov:"EVA01"_2568631_2571608
+*MOT:	"pi"ju@u [: peeyou]! %mov:"EVA01"_2571608_2573728
+*MOT:	sticky. %mov:"EVA01"_2573728_2580216
+*MOT:	it's sticky. %mov:"EVA01"_2580216_2582416
+*MOT:	see open shut. %mov:"EVA01"_2582416_2585840
+*MOT:	open shut. %mov:"EVA01"_2585840_2587511
+*MOT:	open shut. %mov:"EVA01"_2587511_2589783
+*MOT:	sticky. %mov:"EVA01"_2589783_2591416
+*MOT:	sticky. %mov:"EVA01"_2591416_2602328
+*MOT:	can you open it? %mov:"EVA01"_2602328_2608763
+*MOT:	open. %mov:"EVA01"_2608763_2609475
+*MOT:	are you gonna [: going to] eat it? %mov:"EVA01"_2609475_2625006
+*MOT:	yucky. %mov:"EVA01"_2625006_2627986
+*MOT:	clap hands clap hands. %mov:"EVA01"_2627986_2643843
+*MOT:	doo dee doo dee doo clap hands. %mov:"EVA01"_2643843_2647235
+*MOT:	doo dee doo dee doo. %mov:"EVA01"_2647235_2650515
+*MOT:	can you open it? %mov:"EVA01"_2650515_2654435
+*MOT:	there you go. %mov:"EVA01"_2654435_2656660
+*MOT:	yeah [: yes] open. %mov:"EVA01"_2656660_2660371
+*MOT:	sticky I can't do it. %mov:"EVA01"_2660371_2664628
+*CHI:	yy. %mov:"EVA01"_2664690_2666515
+%pht:	/"V/
+*MOT:	uh that's right uh. %mov:"EVA01"_2666515_2668340
+*MOT:	uh there. %mov:"EVA01"_2668341_2671523
+*MOT:	and shut it. %mov:"EVA01"_2671523_2676580
+*MOT:	yeah [: yes] sweetie. %mov:"EVA01"_2676580_2690080
+*MOT:	you're silly. %mov:"EVA01"_2690080_2693186
+*MOT:	you're silly. %mov:"EVA01"_2693186_2695906
+*MOT:	cheerio? %mov:"EVA01"_2695906_2702380
+*MOT:	crunch crunch crunch crunch. %mov:"EVA01"_2702380_2706980
+*MOT:	click. %mov:"EVA01"_2706980_2714586
+*MOT:	you like your shoe? %mov:"EVA01"_2714586_2716820
+*MOT:	there's Pooh. %mov:"EVA01"_2716820_2726608
+*MOT:	Pooh. %mov:"EVA01"_2726608_2728795
+*MOT:	Pooh with a ball. %mov:"EVA01"_2728795_2732875
+*MOT:	Pooh has a ball. %mov:"EVA01"_2732875_2735306
+*MOT:	ball. %mov:"EVA01"_2735306_2741341
+*MOT:	ball. %mov:"EVA01"_2741341_2745475
+*MOT:	uh+huh. %mov:"EVA01"_2745475_2748658
+*MOT:	that's right sweetie. %mov:"EVA01"_2748658_2751795
+*MOT:	ball. %mov:"EVA01"_2751795_2754236
+*MOT:	where's your ball? %mov:"EVA01"_2754236_2755011
+*MOT:	where's your ball? %mov:"EVA01"_2755011_2757700
+*MOT:	I don't know where your ball is.
+*MOT:	there's a ball. %mov:"EVA01"_2757700_2761475
+*MOT:	I found your car. %mov:"EVA01"_2761475_2770013
+*MOT:	car. %mov:"EVA01"_2770013_2774061
+*MOT:	the wheels on the car go round and round, round and round, round and
+	round. %mov:"EVA01"_2774061_2782325
+*MOT:	bubble gum. %mov:"EVA01"_2782325_2791810
+*MOT:	round and round. %mov:"EVA01"_2791810_2793561
+*MOT:	want me to give it to you? %mov:"EVA01"_2793561_2794961
+*MOT:	ready? %mov:"EVA01"_2794961_2796368
+@End

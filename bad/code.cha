@@ -1,0 +1,10 @@
+@UTF8
+@Begin
+@Languages:	zh-yue,en
+@Participants:	CHI Child, MOT Mother
+@ID:	zh-yue,en|bates|CHI|1;8. - 1;9.|female|normal||Child||
+@ID:	zh-yue,en|bates|MOT|||||Mother||
+@Code:	junk|foo|bar
+@New Language:	zh-yue
+*CHI:	ha6 foo7 .
+@End

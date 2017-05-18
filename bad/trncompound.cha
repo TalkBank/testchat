@@ -1,0 +1,312 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	CHI Naomi Target_Child, MOT Mother, FAT Father
+@ID:	en|sachs|CHI|1;11.18||||Target_Child||
+@ID:	en|sachs|MOT|||||Mother||
+@ID:	en|sachs|FAT|||||Father||
+@Situation:	looking at a book
+@Date:	26-MAY-1970
+*CHI:	calves going to sleep ?
+%trn:	n|calf&PL part|go-PROG inf|to v|sleep ?
+@Tape Location:	282
+*MOT:	calves are going to sleep yes .
+@Tape Location:	286
+*CHI:	calves going sleep .
+%trn:	n|calf&PL part|go-PROG v|sleep .
+*CHI:	xxx going sleep .
+%trn:	unk|xxx part|go-PROG v|sleep .
+*MOT:	colt .
+*MOT:	colt's going to sleep .
+*MOT:	horsie .
+*CHI:	horsie going sleep ?
+%spa:	$IMIT
+%gpx:	NAO looks at the book
+%trn:	n|horse-DIM part|go-PROG v|sleep ?
+*MOT:	yes .
+*CHI:	piggie # going sleep .
+%trn:	n|pig-DIM part|go-PROG v|sleep .
+*MOT:	piggie is going to sleep too .
+*CHI:	xxx .
+%trn:	unk|xxx .
+*MOT:	a sheepdog .
+*CHI:	sheepdog .
+%spa:	$IMIT
+%trn:	n|sheepdog .
+*CHI:	xxx sheep .
+%trn:	unk|xxx n|sheep .
+*CHI:	what's this ?
+%trn:	pro:wh|what~v|be&3S pro:dem|this ?
+*MOT:	a sheep .
+*CHI:	a sheep .
+%spa:	$IMIT
+%trn:	det|a n|sheep .
+*CHI:	my sheep .
+%trn:	pro:poss:det|my n|sheep .
+*CHI:	what's this ?
+%trn:	pro:wh|what~v|be&3S pro:dem|this ?
+*MOT:	do you remember what the name of that is # Nomi ?
+*CHI:	shadow .
+%trn:	n|shadow .
+*MOT:	shadow # that's right .
+@Tape Location:	313
+*CHI:	what's that ?
+%trn:	pro:wh|what~v|be&3S pro:dem|that ?
+*CHI:	what's that ?
+%trn:	pro:wh|what~v|be&3S pro:dem|that ?
+*MOT:	a goose .
+*CHI:	what's a goose # name ?
+%trn:	pro:wh|what~v|be&3S det|a n|goose n|name ?
+*MOT:	what's the goose's name ?
+*CHI:	the goose name ?
+%spa:	$IMIT
+%trn:	det|the n|goose n|name ?
+*MOT:	um # Gander ["] .
+*MOT:	the goose's name is Gander ["] .
+*CHI:	Gander .
+%spa:	$IMIT
+%trn:	n:prop|gander .
+*CHI:	look at the Gander .
+%trn:	v|look prep|at det|the n:prop|gander .
+*CHI:	look at the Gander .
+%trn:	v|look prep|at det|the n:prop|gander .
+*CHI:	look at the Gander .
+%trn:	v|look prep|at det|the n:prop|gander .
+*CHI:	kitty .
+%trn:	n|kitty .
+*MOT:	it's a kitty with the baby kitties .
+*CHI:	going sleep .
+%trn:	part|go-PROG v|sleep .
+*MOT:	what's the kitty's name ?
+*CHI:	where's kitty ?
+%trn:	adv:wh|where~v|be&3S n|kitty ?
+*CHI:	where's kitty ?
+%trn:	adv:wh|where~v|be&3S n|kitty ?
+*CHI:	where's kitty ?
+%trn:	adv:wh|where~v|be&3S n|kitty ?
+*FAT:	kitt(en)'s downstairs # Nomi .
+*FAT:	the kitty's name is Pearl ["] .
+*CHI:	name Pearl .
+%spa:	$IMIT
+%trn:	n|name n:prop|Pearl .
+*FAT:	want to name all the kittens # too ?
+*CHI:	where's kitty ?
+%trn:	adv:wh|where~v|be&3S n|kitty ?
+*FAT:	just before the dogs .
+*FAT:	turn back the other way from the dogs .
+*FAT:	other way .
+*CHI:	0 .
+%act:	NAO turned the book right side up, it had been upside+down
+*FAT:	there they are .
+*CHI:	there's kitty .
+%trn:	pro:exist|there~v|be&3S n|kitty .
+@Tape Location:	344
+*CHI:	kitty's tired .
+%trn:	n|kitty~v:aux|be&3S adj|tired .
+*CHI:	kitty's tired .
+%trn:	n|kitty~v:aux|be&3S adj|tired .
+*CHI:	kitty's tired .
+%trn:	n|kitty~v:aux|be&3S adj|tired .
+*CHI:	the kitty going night+night ?
+%trn:	det|the n|kitty part|go-PROG co|night+co|night ?
+*CHI:	the kitty going night+night ?
+%trn:	det|the n|kitty part|go-PROG co|night+co|night ?
+*CHI:	the kitty tired .
+%trn:	det|the n|kitty adj|tired .
+*CHI:	the kitty tired .
+%trn:	det|the n|kitty adj|tired .
+*CHI:	the kitty tired .
+%trn:	det|the n|kitty adj|tired .
+*FAT:	the kitty is very sleepy .
+*CHI:	sleepy .
+%spa:	$IMIT
+%trn:	adj|sleepy .
+*CHI:	what's goose name ?
+%trn:	pro:wh|what~v|be&3S n|goose n|name ?
+*CHI:	what's goose name ?
+%trn:	pro:wh|what~v|be&3S n|goose n|name ?
+*CHI:	a shadow .
+%trn:	det|a n|shadow .
+*CHI:	a shadow .
+%trn:	det|a n|shadow .
+*CHI:	a shadow .
+%trn:	det|a n|shadow .
+*CHI:	that's shadow .
+%trn:	pro:dem|that~v|be&3S n|shadow .
+*FAT:	yeah # that's another shadow .
+*CHI:	(a)nother shadow .
+%spa:	$IMIT
+%trn:	det|another n|shadow .
+*CHI:	(a)nother shadow .
+%trn:	det|another n|shadow .
+*CHI:	can do this !
+%trn:	v:aux|can v|do pro:dem|this !
+*FAT:	what's the Mommy horse doing # Nomi ?
+*CHI:	what's this ?
+%trn:	pro:wh|what~v|be&3S pro:dem|this ?
+*CHI:	what's horsie's name ?
+%trn:	pro:wh|what~v|be&3S n|horse-DIM-POSS n|name ?
+*CHI:	what's horsie's name ?
+%trn:	pro:wh|what~v|be&3S n|horse-DIM-POSS n|name ?
+*FAT:	the horsie's name is Meg ["] .
+*CHI:	Meg .
+%spa:	$IMIT
+%trn:	n:prop|Meg .
+*FAT:	what's the Mommy horse doing ?
+@Tape Location:	369
+*CHI:	Meg .
+%trn:	n:prop|Meg .
+*FAT:	the Mommy horse is nuzzling .
+*CHI:	nuzzling .
+%spa:	$IMIT
+%trn:	part|nuzzle-PROG .
+*FAT:	nuzzling .
+*CHI:	nuzzling .
+%spa:	$IMIT
+%trn:	part|nuzzle-PROG .
+*FAT:	do you see some flowers ?
+*CHI:	look a that .
+%trn:	v|look det|a pro:dem|that .
+*CHI:	look a that .
+%trn:	v|look det|a pro:dem|that .
+*CHI:	monkey[?] .
+%trn:	n|monkey .
+*CHI:	monkey[?] .
+%trn:	n|monkey .
+*CHI:	monkey[?] .
+%trn:	n|monkey .
+*FAT:	chipmunk .
+*CHI:	chipmunk .
+%spa:	$IMIT
+%trn:	n|chipmunk .
+*CHI:	chipmunk .
+%trn:	n|chipmunk .
+*CHI:	chipmunk .
+%trn:	n|chipmunk .
+*CHI:	look at chipmunk .
+%trn:	v|look prep|at n|chipmunk .
+*CHI:	look at chipmunk .
+%trn:	v|look prep|at n|chipmunk .
+*CHI:	look at chipmunk .
+%trn:	v|look prep|at n|chipmunk .
+*CHI:	chipmunk .
+%trn:	n|chipmunk .
+*CHI:	baby .
+%trn:	n|baby .
+*CHI:	baby .
+%trn:	n|baby .
+*CHI:	baby .
+%trn:	n|baby .
+*CHI:	baby .
+%trn:	n|baby .
+*CHI:	can read this ?
+%trn:	v:aux|can v|read pro:dem|this ?
+*FAT:	yes # you can read the other book .
+*CHI:	<take it> [/] # take it .
+%trn:	v|take pro|it .
+*FAT:	all right # I'll put it down here .
+*CHI:	can I read this book ?
+%trn:	v:aux|can pro|I v|read det|this n|book ?
+*CHI:	can I read this book ?
+%trn:	v:aux|can pro|I v|read det|this n|book ?
+*FAT:	yes # you can read this book .
+%act:	NAO is now thumbing through it--left hand to release pages and has
+	her right hand flat on table
+*CHI:	look at that .
+%trn:	v|look prep|at pro:dem|that .
+*CHI:	look at that !
+%trn:	v|look prep|at pro:dem|that !
+*CHI:	a balloon .
+%trn:	det|a n|balloon .
+*FAT:	a balloon .
+*CHI:	man holding balloon ?
+%trn:	n|man part|hold-PROG n|balloon ?
+*CHI:	man holding balloon ?
+%trn:	n|man part|hold-PROG n|balloon ?
+*FAT:	yes # man is holding the balloon .
+*CHI:	holding[?] .
+%com:	FAT doesn't think he's ever heard her say "holding" before
+%trn:	part|hold-PROG .
+*CHI:	look at the bunny .
+%trn:	v|look prep|at det|the n|bunny .
+*CHI:	look at the rabbit .
+%com:	NAO knows bunny and rabbit are synonymous
+%trn:	v|look prep|at det|the n|rabbit .
+*FAT:	where's the camel ?
+*CHI:	here's the camel .
+%trn:	adv:loc|here~v|be&3S det|the n|camel .
+*CHI:	I find camel .
+%trn:	pro|I v|find n|camel .
+*CHI:	here's camel .
+%trn:	adv:loc|here~v|be&3S n|camel .
+*CHI:	here's camel .
+%trn:	adv:loc|here~v|be&3S n|camel .
+*CHI:	here's camel .
+%trn:	adv:loc|here~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	that's camel .
+%trn:	pro:dem|that~v|be&3S n|camel .
+*CHI:	look at that .
+%trn:	v|look prep|at pro:dem|that .
+@Tape Location:	450
+*CHI:	look at that .
+%trn:	v|look prep|at pro:dem|that .
+*FAT:	Nomi # can you find a kitty with no balloon ?
+*FAT:	it's way toward the front of the book .
+*CHI:	here's kitty .
+%trn:	adv:loc|here~v|be&3S n|kitty .
+*CHI:	here's kitty .
+%trn:	adv:loc|here~v|be&3S n|kitty .
+*FAT:	yes # there's a kitty on the see+saw .
+*CHI:	there's kitty .
+%spa:	$IMIT
+%trn:	pro:exist|there~v|be&3S n|kitty .
+*CHI:	kitty # no+no .
+%trn:	n|kitty co|+co|no+co|no .
+*CHI:	kitty # no+no .
+%trn:	n|kitty co|+co|no+co|no .
+*CHI:	kitty # no+no .
+%trn:	n|kitty co|+co|no+co|no .
+*FAT:	yes # that's true # Nomi # those kitties don't have any balloons .
+*CHI:	no balloons .
+%spa:	$IMIT
+%trn:	qn|no n|balloon-PL .
+*CHI:	that kitty .
+%trn:	det|that n|kitty .
+*CHI:	that kitty .
+%trn:	det|that n|kitty .
+*FAT:	yes # does that kitty have a balloon ?
+*CHI:	have balloon ?
+%spa:	$IMIT
+%trn:	v|have n|balloon ?
+*CHI:	no balloon .
+%trn:	qn|no n|balloon .
+*CHI:	I find no balloon .
+%trn:	pro|I v|find qn|no n|balloon .
+*CHI:	xxx .
+%trn:	unk|xxx .
+*FAT:	you did ?
+*CHI:	is hand table ?
+%trn:	v|be&3S n|hand n|table ?
+*CHI:	is hand table ?
+%trn:	v|be&3S n|hand n|table ?
+*CHI:	is hand table ?
+%trn:	v|be&3S n|hand n|table ?
+*CHI:	is hand table ?
+%com:	repeats--no one understands . is hand on table, FAT bets is what she
+	meant
+%trn:	v|be&3S n|hand n|table ?
+*FAT:	is your hand on the table # Nomi ?
+@Tape Location:	498
+*CHI:	on table .
+%trn:	prep|on n|table .
+@End

@@ -1,0 +1,10 @@
+@Font:	Arial Unicode MS:12:1
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	en|sample|CHI|1;10.4||||Target_Child||
+@ID:	en|sample|MOT|||||Mother||
+@Comment:	missing terminator when not CA
+*CHI:	missing terminator
+@End

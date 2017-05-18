@@ -1,0 +1,13 @@
+@Font:	Arial Unicode MS:12:1
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Timmy Target_Child, LIN Linda Investigator, WIN Winnie Investigator, GEM Gemma Housekeeper
+@ID:	es|timmy|CHI|2;9.8||||Target_Child||
+@ID:	es|timmy|LIN|||||Investigator||
+@ID:	es|timmy|WIN|||||Investigator||
+@ID:	es|timmy|GEM|||||Housekeeper||
+@Date:	29-FEB-1996
+*CHI:	(ah)ora pegaselas con el Resistol .
+%mor:	adv|ahora=now vimpsh|pega=hit_adhere&2S-IMP~pro:clit|3S~pro:clit|OBJ&FEM&PL prep|con=with det:art|el=the&MASC n:prop|Resistol .
+@End

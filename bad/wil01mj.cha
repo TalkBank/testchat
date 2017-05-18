@@ -1,0 +1,1637 @@
+@UTF8
+@Begin
+@Languages:	english
+@Participants:	CHI Target_Child, MOT Mother, OPE Camera_Operator, FRI
+	Family_Friend, ADU Adult
+@ID:	en|providence|CHI|1;4.10|male|||Target_Child||
+@ID:	en|providence|MOT|||||Mother||
+@ID:	en|providence|OPE|||||Camera_Operator||
+@ID:	en|providence|FRI|||||Family_Friend||
+@ID:	en|providence|ADU|||||Adult||
+@Birth of CHI:	08-FEB-2001
+@Date:	20-JUN-2002
+@Coder:	sarah mckim and mike jackson
+@Comment:	Language of Caregivers is Mother Standard American
+	English, Father Standard American English
+@Comment:	often hard to distinguish b/m, U/V, o/u, s/S,
+@Comment:	part of file takes place outside
+@Comment:	Camera_Operator is Jessica
+*MOT:	where's the train that goes on there William? %mov:"WIL01"_0_4368
+*MOT:	can we find the train? %mov:"WIL01"_4368_9508
+*MOT:	can we find the train? %mov:"WIL01"_9508_13561
+*MOT:	wanna [: want to] stay here with Mommy? %mov:"WIL01"_13561_16056
+*MOT:	oh you stay here with Mommy. %mov:"WIL01"_16056_18633
+%sit:	William is crying
+*MOT:	can you stay with Mommy? %mov:"WIL01"_18633_19763
+*MOT:	o:h, you stay with Mommy, come on. %mov:"WIL01"_19763_23300
+*MOT:	c'mon. %mov:"WIL01"_23300_24511
+*MOT:	okay. %mov:"WIL01"_24511_26715
+*MOT:	hi. %mov:"WIL01"_26715_27778
+*MOT:	hi. %mov:"WIL01"_27778_29385
+*MOT:	hi. %mov:"WIL01"_29385_31520
+*CHI:	xx. %mov:"WIL01"_31520_33978
+*MOT:	who's that?
+*CHI:	James. %mov:"WIL01"_33978_36105
+%pht:	/"=m/
+*MOT:	"dʒeɪmz@u [: James]?
+*MOT:	yeah. %mov:"WIL01"_36105_37038
+*MOT:	who's that? %mov:"WIL01"_37038_37931
+*CHI:	Katie! %mov:"WIL01"_37931_40368
+%pht:	/"keIji/
+*MOT:	"keɪɾi@u [: Katie], yes.
+*MOT:	n' [: and] who's that? %mov:"WIL01"_40368_41585
+*CHI:	Katie. %mov:"WIL01"_41585_43311
+%pht:	/"ki/
+*MOT:	who's that?
+*CHI:	Sarah. %mov:"WIL01"_43311_45248
+%pht:	/"f{/
+*MOT:	"særV@u [: Sarah], yeah.
+*MOT:	Sarah, James, n' [: and] Katie. %mov:"WIL01"_45248_49700
+*CHI:	Katie. %mov:"WIL01"_49700_52100
+%pht:	/"keI/
+*MOT:	that's right.
+*CHI:	yy. %mov:"WIL01"_52100_54300
+%pht:	/"=n/
+*MOT:	James, yes, n' [: and] who's that? %mov:"WIL01"_54300_56550
+*CHI:	yy. %mov:"WIL01"_56550_59396
+%pht:	/"bE/
+*MOT:	Sarah, that's right.
+*CHI:	ball? %mov:"WIL01"_59396_60778
+%pht:	/"bO/
+*MOT:	ball?
+*MOT:	yes, this is a ball. %mov:"WIL01"_60778_63045
+*MOT:	here it is, what color's [: color is] the ball? %mov:"WIL01"_63045_65190
+*MOT:	o:h, it bounces. %mov:"WIL01"_65190_69970
+*MOT:	it bounce:s. %mov:"WIL01"_69970_73235
+*MOT:	can I see, "V@u [: uh], uh! %mov:"WIL01"_73235_77381
+*MOT:	ya [: you] wanna [: want to] catch? %mov:"WIL01"_77381_78701
+*MOT:	catch. %mov:"WIL01"_78701_80063
+*MOT:	catch. %mov:"WIL01"_80063_80855
+*CHI:	yy! %mov:"WIL01"_80855_83051
+%pht:	/"hA/
+*MOT:	o:h!
+*MOT:	this one's bigger isn't it. %mov:"WIL01"_83051_84906
+*MOT:	uh. %mov:"WIL01"_84906_90240
+*MOT:	mː@u [: mm]. %mov:"WIL01"_90240_97055
+*CHI:	ball. %mov:"WIL01"_97055_101183
+%pht:	/"bo/
+%com:	initial consonant is difficult to distinguish if it is /m/ or /b/
+*MOT:	ball. %mov:"WIL01"_101183_102115
+*MOT:	yes. %mov:"WIL01"_102115_103361
+*CHI:	yy. %mov:"WIL01"_103361_105833
+%pht:	/"V?/
+*MOT:	that's okay. %mov:"WIL01"_105833_106773
+*MOT:	here, oo:h. %mov:"WIL01"_106773_108713
+*MOT:	you: wanna [: want to] +//.
+*MOT:	wanna [: want to] play a song? %mov:"WIL01"_108713_113713
+*MOT:	wanna [: want to] sing a song? %mov:"WIL01"_113713_114778
+*MOT:	if you're happy and you know it +...
+*CHI:	yy! %mov:"WIL01"_114778_118778
+%pht:	/"SwU/
+*MOT:	sing?
+*MOT:	yeah. %mov:"WIL01"_118778_120108
+*MOT:	you wanna [: want to] sing? %mov:"WIL01"_120108_121236
+*CHI:	yy yy. %mov:"WIL01"_121236_124836
+%pht:	/"sU "hu/
+*MOT:	oh.
+*CHI:	yy? %mov:"WIL01"_124836_125833
+%pht:	/"hu/
+*CHI:	yy? %mov:"WIL01"_125833_128650
+%pht:	/"sU/
+*MOT:	sing, not swing, we'll do the swing later.
+*CHI:	yy. %mov:"WIL01"_128650_130376
+%pht:	/"O:/
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_130376_133058
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_133058_137236
+*MOT:	if you're happy and ya [: you] know it and you really wanna [: want
+	to] show it. %mov:"WIL01"_137236_141366
+*MOT:	i:f you're happy and you know it clap yer [: your] hands. %mov:"WIL01"_141366_144766
+*MOT:	if you're happy and ya [: you] know it say tɑ"dɑ@u [: tada]. %mov:"WIL01"_144766_148260
+*MOT:	tada:! %mov:"WIL01"_148260_149968
+*MOT:	if you're happy and ya [: you] know it say tada. %mov:"WIL01"_149968_153236
+*MOT:	tada:!
+*CHI:	xx. %mov:"WIL01"_153236_156433
+*MOT:	where's William? %mov:"WIL01"_156433_157766
+*MOT:	where is he?
+*MOT:	where is he +//.
+*MOT:	peek+a+boo! %mov:"WIL01"_157766_160901
+*MOT:	oh what is that? %mov:"WIL01"_160901_163161
+*CHI:	xx. %mov:"WIL01"_163161_170000
+%sit:	crying
+*CHI:	yy. %mov:"WIL01"_170000_171760
+%pht:	/"=nsI?/
+*MOT:	twinkle, twinkle +... %mov:"WIL01"_171760_174516
+*MOT:	all right, here. %mov:"WIL01"_174516_175980
+*MOT:	o:h boy. %mov:"WIL01"_175980_178505
+*MOT:	o:h boy. %mov:"WIL01"_178505_181178
+*MOT:	where's Spot? %mov:"WIL01"_181178_183321
+*MOT:	where's Spot? %mov:"WIL01"_183321_184456
+*MOT:	oh boy. %mov:"WIL01"_184456_187975
+*MOT:	meltdown, huh? %mov:"WIL01"_187975_189238
+*MOT:	a:w, honey, it's okay. %mov:"WIL01"_189238_192583
+*MOT:	shh:. %mov:"WIL01"_192583_197986
+*MOT:	all right. %mov:"WIL01"_197986_199301
+*MOT:	"=m"h=m@u [: mm+hmm]. %mov:"WIL01"_199301_209236
+*MOT:	yea:h. %mov:"WIL01"_209236_210590
+*MOT:	all ri:ght. %mov:"WIL01"_210590_211908
+*MOT:	where's the ball? %mov:"WIL01"_211908_215060
+*MOT:	let's do this. %mov:"WIL01"_215060_219658
+*MOT:	comere [: come here]. %mov:"WIL01"_219658_223368
+*MOT:	where's Spot? %mov:"WIL01"_223368_224965
+*MOT:	where's Spot? %mov:"WIL01"_224965_226833
+*MOT:	where's Spot? %mov:"WIL01"_226833_229106
+*MOT:	oh, I guess you don't wanna [: want to] play that right now. %mov:"WIL01"_229106_234315
+*MOT:	ball, pink ball. %mov:"WIL01"_234315_248375
+*MOT:	oo:h, a yellow ball. %mov:"WIL01"_248375_252115
+*MOT:	pink ball again. %mov:"WIL01"_252115_257095
+*MOT:	yellow ball. %mov:"WIL01"_257095_261235
+*MOT:	yellow n' [: and] green. %mov:"WIL01"_261235_265166
+*MOT:	mm. %mov:"WIL01"_265166_273833
+*MOT:	"u@u [: ooh], pink. %mov:"WIL01"_273833_276851
+*MOT:	yellow. %mov:"WIL01"_276851_278708
+*MOT:	red n' [: and] white. %mov:"WIL01"_278708_282500
+*MOT:	pink n' [: and] white. %mov:"WIL01"_282500_284431
+*MOT:	yellow. %mov:"WIL01"_284431_287905
+*MOT:	blue n' [: and] yellow. %mov:"WIL01"_287905_292988
+*MOT:	gree:n. %mov:"WIL01"_292988_294573
+*MOT:	whoop! %mov:"WIL01"_294573_298431
+*MOT:	what color's [: color is] that? %mov:"WIL01"_298431_300453
+*MOT:	xx pink, yellow. %mov:"WIL01"_300453_302235
+*MOT:	blu:e. %mov:"WIL01"_302235_306973
+*MOT:	pink, n' [: and] blue. %mov:"WIL01"_306973_312176
+*MOT:	yello:w n' [: and] blue. %mov:"WIL01"_312176_317793
+*MOT:	pink. %mov:"WIL01"_317793_325000
+*CHI:	yy! %mov:"WIL01"_325000_329313
+%pht:	/"AnviE/
+*MOT:	o:h, yeah?
+*MOT:	xx see it? %mov:"WIL01"_329313_333843
+*CHI:	yy! %mov:"WIL01"_333843_336778
+%pht:	/"Ah/
+*MOT:	oh, one. %mov:"WIL01"_336778_338843
+*MOT:	yeah. %mov:"WIL01"_338843_355000
+*CHI:	car? %mov:"WIL01"_355000_357595
+%pht:	/k@"gA:/
+*CHI:	car. %mov:"WIL01"_357595_359656
+%pht:	/kIkI"kA:/
+*MOT:	car? %mov:"WIL01"_359656_360765
+*MOT:	yeah? %mov:"WIL01"_360765_361648
+*MOT:	are you clapping? %mov:"WIL01"_361648_363431
+*CHI:	yy. %mov:"WIL01"_363431_371331
+%pht:	/"U/
+*MOT:	where's Spot, what is this? %mov:"WIL01"_371331_373845
+*MOT:	what is this? %mov:"WIL01"_373845_374988
+*MOT:	what is that xx? %mov:"WIL01"_374988_377990
+*MOT:	I don't understand that # sound. %mov:"WIL01"_377990_380645
+*MOT:	can you use your words please? %mov:"WIL01"_380645_383435
+*CHI:	up [?]? %mov:"WIL01"_383435_384715
+%pht:	/A"V?/
+*MOT:	up? %mov:"WIL01"_384715_385635
+*CHI:	up. %mov:"WIL01"_385635_388103
+%pht:	/"V?/
+*MOT:	up?
+*MOT:	oh gotta [: got to] go +//.
+*MOT:	we'll go up later. %mov:"WIL01"_388103_391051
+*MOT:	here, where's Spot? %mov:"WIL01"_391051_393711
+*MOT:	where is Spot, is he behind the door? %mov:"WIL01"_393711_397126
+*MOT:	is he behind the door? %mov:"WIL01"_397126_400040
+*MOT:	is he behind the door? %mov:"WIL01"_400040_402661
+*MOT:	no:, that's a brown bear eating honey behind the door. %mov:"WIL01"_402661_407433
+*MOT:	is he inside the clock? %mov:"WIL01"_407433_411596
+*MOT:	no that's a s:nake, s:nake inside the clock. %mov:"WIL01"_411596_417721
+*MOT:	is he in the piano, is he in that pink piano? %mov:"WIL01"_417721_422656
+*MOT:	no no no. %mov:"WIL01"_422656_424320
+*MOT:	that's a hippo with a little bird, in the piano. %mov:"WIL01"_424320_428913
+*MOT:	is he under the stairs? %mov:"WIL01"_428913_431850
+*MOT:	no:. %mov:"WIL01"_431850_433300
+*MOT:	what's that? %mov:"WIL01"_433300_434183
+*CHI:	yy. %mov:"WIL01"_434183_437245
+%pht:	/=n"dV/
+*MOT:	what do they say, what's a lion say?
+*MOT:	what's the lion say? %mov:"WIL01"_437245_438790
+*MOT:	what's the lion say? %mov:"WIL01"_438790_440848
+*MOT:	what's the lion say? %mov:"WIL01"_440848_443836
+*MOT:	huh? %mov:"WIL01"_443836_445301
+*MOT:	a:h, we'll come back to that. %mov:"WIL01"_445301_447833
+*MOT:	xx, is he in the closet? %mov:"WIL01"_447833_451366
+*MOT:	is he in the closet? %mov:"WIL01"_451366_453508
+*MOT:	no! %mov:"WIL01"_453508_455463
+*MOT:	there's a monkey in the closet. %mov:"WIL01"_455463_458366
+*MOT:	"ɔ@u [: aw]. %mov:"WIL01"_458366_460565
+*MOT:	is he xx? %mov:"WIL01"_460565_466766
+*MOT:	no: there's a crocodile under the bed. %mov:"WIL01"_466766_470300
+*MOT:	is he in the box? %mov:"WIL01"_470300_472298
+*MOT:	no no no. %mov:"WIL01"_472298_474240
+*MOT:	no no no, he's not in the box. %mov:"WIL01"_474240_477441
+*MOT:	is +//.
+*MOT:	there's Spot! %mov:"WIL01"_477441_479571
+*MOT:	there's Spot he's under the rug, you see him? %mov:"WIL01"_479571_481710
+*MOT:	let's see. %mov:"WIL01"_481710_482910
+*MOT:	it's a turtle n' [: and] he's saying try the basket. %mov:"WIL01"_482910_487963
+*MOT:	try the basket! %mov:"WIL01"_487963_489796
+*MOT:	huh, there's the basket. %mov:"WIL01"_489796_491533
+*MOT:	what do you think? %mov:"WIL01"_491533_493165
+*MOT:	let's see, let's see. %mov:"WIL01"_493165_494450
+*MOT:	huh, oh, who's that?
+*CHI:	that [?]! %mov:"WIL01"_494450_497381
+%pht:	/"dItH/
+*MOT:	who's that?
+*CHI:	Spot? %mov:"WIL01"_497381_500183
+%pht:	/"bV/
+*MOT:	Spot, yes.
+*MOT:	that's Spot.
+*MOT:	in the basket. %mov:"WIL01"_500183_503511
+*MOT:	oh boy. %mov:"WIL01"_503511_505111
+*MOT:	we found him. %mov:"WIL01"_505111_507723
+*MOT:	we: found him. %mov:"WIL01"_507723_510700
+*MOT:	what about "meɪziz@u [: Maisy's] panda, where's Maisy's panda? %mov:"WIL01"_510700_515174
+*MOT:	where is Maisy's panda. %mov:"WIL01"_515174_517845
+*MOT:	can you find it? %mov:"WIL01"_517845_520166
+*MOT:	where's +//.
+*MOT:	where's Maisy's panda, where's the book?
+*MOT:	where is it? %mov:"WIL01"_520166_523511
+*MOT:	can you get that book for Mommy? %mov:"WIL01"_523511_525298
+*MOT:	can we find that book?
+*CHI:	up [?]. %mov:"WIL01"_525298_527840
+%pht:	/"V?/
+*MOT:	up?
+*CHI:	up [?]. %mov:"WIL01"_527840_531043
+%pht:	/"Ab=m/
+*MOT:	uh, this +//.
+*MOT:	oh, who's hiding?
+*MOT:	o:h, okay. %mov:"WIL01"_531043_534435
+*MOT:	who is hiding behind the rock? %mov:"WIL01"_534435_537451
+*MOT:	who is hiding behind the rock? %mov:"WIL01"_537451_541105
+*MOT:	huh, what's that? %mov:"WIL01"_541105_543303
+*CHI:	yy. %mov:"WIL01"_543303_544985
+%pht:	/"bA/
+*MOT:	a frog.
+*MOT:	yeah. %mov:"WIL01"_544985_545568
+*MOT:	who is hiding behind the snail? %mov:"WIL01"_545568_548041
+*MOT:	what's that? %mov:"WIL01"_548041_550098
+*CHI:	snail. %mov:"WIL01"_550098_552656
+%pht:	/"SnI/
+%com:	initial consonant is between /s/ and /S/
+*MOT:	another snail, mm+hmm.
+*MOT:	yeah. %mov:"WIL01"_552656_556051
+*MOT:	who is hiding in the ground? %mov:"WIL01"_556051_558631
+*MOT:	what's that? %mov:"WIL01"_558631_560501
+*CHI:	a worm. %mov:"WIL01"_560501_562565
+%pht:	/"A: "wu/
+*MOT:	a worm.
+*CHI:	a worm. %mov:"WIL01"_562565_566113
+%pht:	/"AwU/
+*MOT:	yeah.
+*MOT:	and who is hiding in the nest? %mov:"WIL01"_566113_568631
+*MOT:	what's that?
+*CHI:	yy. %mov:"WIL01"_568631_571588
+%pht:	/"V/
+*CHI:	yy. %mov:"WIL01"_571588_573706
+%pht:	/"wVv/
+*MOT:	a bi:rd.
+*MOT:	who's hiding in the honeycomb? %mov:"WIL01"_573706_577900
+*MOT:	huh, what's that? %mov:"WIL01"_577900_580928
+*CHI:	a Z. %mov:"WIL01"_580928_584700
+%pht:	/"z:I4i/
+*MOT:	bee, that's right, "zː@u [: zz], a bee.
+*MOT:	n' [: and] who is hiding among the flowers? %mov:"WIL01"_584700_588251
+*MOT:	what's that?
+*CHI:	yy. %mov:"WIL01"_588251_595050
+%pht:	/haI:/
+*MOT:	butterfly:, we have a book about a butterfly, don't we.
+*MOT:	who's hiding in the mound? %mov:"WIL01"_595050_597385
+*MOT:	a mo:le. %mov:"WIL01"_597385_598968
+*CHI:	a mole. %mov:"WIL01"_598968_601565
+%pht:	/"A "ul/
+*MOT:	yeah.
+*CHI:	a mole. %mov:"WIL01"_601565_603768
+%pht:	/@"bo/
+*MOT:	a mole.
+*MOT:	n [: and] who is hiding in the grass? %mov:"WIL01"_603768_607965
+*MOT:	it's called a grasshopper. %mov:"WIL01"_607965_612161
+*MOT:	hop hop, n [: and] who's hiding behind the plant pot? %mov:"WIL01"_612161_616498
+*MOT:	a slug. %mov:"WIL01"_616498_618636
+*MOT:	who do you see in the garden, is that everyone?
+*MOT:	where's the bee? %mov:"WIL01"_618636_625788
+*CHI:	xx. %mov:"WIL01"_625788_627810
+*MOT:	can you show Mommy the bee?
+*MOT:	"b=zː@u [: bzz:], is that the bee? %mov:"WIL01"_627810_631250
+*MOT:	what about the butterfly, how bout [: about] this one? %mov:"WIL01"_631250_635131
+*MOT:	the ve:ry hungry caterpillar. %mov:"WIL01"_635131_638858
+*MOT:	in the light of the moon. %mov:"WIL01"_638858_646221
+*MOT:	where's the moon? %mov:"WIL01"_646221_647360
+*CHI:	a moon [?]. %mov:"WIL01"_647360_650585
+%pht:	/"VmU/
+*MOT:	moo:n, look at the moon.
+*MOT:	little egg lay on a leaf, you see that? %mov:"WIL01"_650585_654758
+*MOT:	turn the page, huh. %mov:"WIL01"_654758_659311
+*MOT:	what's that? %mov:"WIL01"_659311_660365
+*MOT:	what's that? %mov:"WIL01"_660365_661823
+*CHI:	yy. %mov:"WIL01"_661823_662315
+%pht:	/"bV/
+*MOT:	the sun.
+*MOT:	one sunday morning the warm sun came up n [: and] pop! %mov:"WIL01"_662315_666900
+*MOT:	out of the egg. %mov:"WIL01"_666900_668410
+*MOT:	came a tiny n [: and] ve:ry hungry caterpillar. %mov:"WIL01"_668410_671493
+*MOT:	he started to look for some food, oh, yep. %mov:"WIL01"_671493_675526
+*MOT:	there we go. %mov:"WIL01"_675526_676853
+*MOT:	he was very hungry, n [: and] he kept eating, he kept eating n [:
+	and] eating n [: and] eating n [: and], huh, here we go! %mov:"WIL01"_676853_684990
+*MOT:	on saturday he ate through one piece of chocolate cake. %mov:"WIL01"_684990_688595
+*MOT:	yep, that's a cherry pie n [: and] cupcake. %mov:"WIL01"_688595_691511
+*MOT:	right? %mov:"WIL01"_691511_693520
+*MOT:	where's the pickle? %mov:"WIL01"_693520_694906
+*MOT:	can you show Mommy the pickle? %mov:"WIL01"_694906_696498
+*MOT:	that's the lollipop. %mov:"WIL01"_696498_698218
+*MOT:	that's the pickle. %mov:"WIL01"_698218_699565
+*CHI:	yy. %mov:"WIL01"_699565_700788
+%pht:	/"V/
+*MOT:	mm+hmm. %mov:"WIL01"_700788_701648
+*MOT:	that's right. %mov:"WIL01"_701648_702426
+*MOT:	one lollipop +//.
+*MOT:	where's the cherry +//.
+*MOT:	where's the piece of cherry pie? %mov:"WIL01"_702426_705653
+*CHI:	yy. %mov:"WIL01"_705653_707176
+%pht:	/"dV?/
+*MOT:	that's the salami. %mov:"WIL01"_707176_709101
+*MOT:	how bout [: about] the watermelon? %mov:"WIL01"_709101_710820
+*CHI:	yy. %mov:"WIL01"_710820_712641
+%pht:	/"dV/
+*MOT:	that's a sausage, that's the cupcake, n [: and] this is the
+	watermelon. %mov:"WIL01"_712641_716903
+*MOT:	mm:. %mov:"WIL01"_716903_719318
+*MOT:	the next day was sunday n [: and] he ate through one nice green
+	leaf. %mov:"WIL01"_719318_722931
+*CHI:	yy. %mov:"WIL01"_722931_725820
+%pht:	/=n"dI/
+*MOT:	yep.
+*MOT:	n [: and] then +...
+*CHI:	xx. %mov:"WIL01"_725820_727516
+*MOT:	okay. %mov:"WIL01"_727516_728763
+*CHI:	yy. %mov:"WIL01"_728763_732040
+%pht:	/"V?/
+*MOT:	uh.
+*CHI:	yy. %mov:"WIL01"_732040_737920
+%pht:	/"V?"pA#kH/
+*MOT:	mm+hmm.
+*MOT:	what happens in the end? %mov:"WIL01"_737920_740040
+*CHI:	xx. %mov:"WIL01"_740040_741958
+%com:	William squeaks untranscribably.
+*MOT:	show Mama.
+*MOT:	okay. %mov:"WIL01"_741958_744113
+*MOT:	uh, what's this? %mov:"WIL01"_744113_747498
+*MOT:	what's this one? %mov:"WIL01"_747498_751263
+*CHI:	yy. %mov:"WIL01"_751263_755725
+%pht:	/"=m"=m"=m/
+*MOT:	oh that's right, choo choo:.
+*MOT:	sun's up, morning's here, up n [: and] at em [: them], engineer. %mov:"WIL01"_755725_761383
+*MOT:	"tʃVgV@u [: chugga] chugga choo choo, whistle blowing, woo ooh
+	woo:. %mov:"WIL01"_761383_767913
+*MOT:	hurry hurry, load the freight, to the city, can't be late. %mov:"WIL01"_767913_772713
+*MOT:	through the country, on the loose. %mov:"WIL01"_772713_777265
+*MOT:	where's the engine? %mov:"WIL01"_777265_779160
+*CHI:	caboose. %mov:"WIL01"_779160_784028
+%pht:	/haI"bu/
+*MOT:	yeah [: yes] engine black n [: and] # re:d caboose.
+*MOT:	round the mountains, high n [: and] steep, through the valleys, low
+	n [: and] deep. %mov:"WIL01"_784028_789833
+*MOT:	into tunnels underground, see the darkness, hear the sound. %mov:"WIL01"_789833_795448
+*MOT:	chugga chugga choo choo:, echo calling, woo ooh woo:, ooh woo:. %mov:"WIL01"_795448_802718
+*MOT:	cross the river, swift n [: and] wide, a bridge goes to the other
+	side. %mov:"WIL01"_802718_816051
+*MOT:	chugga chugga choo choo, there's the city, woo ooh woo:. %mov:"WIL01"_816051_821225
+*MOT:	in the station workers wait, ready to unload the freight. %mov:"WIL01"_821225_826328
+*MOT:	boxcars empty one by one, the sun is setting, job well done. %mov:"WIL01"_826328_831681
+*MOT:	tired tired choo choo, night is falling. %mov:"WIL01"_831681_834441
+*MOT:	woo ooh woo:. %mov:"WIL01"_834441_837363
+*MOT:	to the roundhouse you are bound, goodnight engine, safe n [: and]
+	sound. %mov:"WIL01"_837363_845175
+*MOT:	sleepy sleepy choo choo, till tomorrow, woo ooh woo:. %mov:"WIL01"_845175_851218
+*MOT:	mm.
+*CHI:	mm. %mov:"WIL01"_851218_855080
+%pht:	/"m=m/
+*MOT:	yeah [: yes].
+*CHI:	mm? %mov:"WIL01"_855080_856678
+%pht:	/"=m/
+*CHI:	yy? %mov:"WIL01"_856678_859523
+%pht:	/"V?/
+*MOT:	o:h.
+*MOT:	o:h. %mov:"WIL01"_859523_862526
+*MOT:	how bout [: about] this one? %mov:"WIL01"_862526_863655
+*MOT:	brown +//.
+*MOT:	brown bear, brown bear, what do you see? %mov:"WIL01"_863655_877633
+*MOT:	I see a +...
+*MOT:	what's that? %mov:"WIL01"_877633_880878
+*CHI:	xx. %mov:"WIL01"_880878_884291
+*MOT:	red bird lookin [: looking] at me.
+*MOT:	red bird, red bird, what do you see? %mov:"WIL01"_884291_886515
+*MOT:	I see a +... %mov:"WIL01"_886515_890485
+*MOT:	what's that? %mov:"WIL01"_890485_892578
+*CHI:	yy. %mov:"WIL01"_892578_896946
+%pht:	/"=l"kV/
+*MOT:	yellow duck lookin [: looking] at me.
+*MOT:	what's the yellow duck say?
+*CHI:	quack quack! %mov:"WIL01"_896946_899165
+%pht:	/gU"kw{/
+*MOT:	quack quack.
+*MOT:	yellow duck, yellow duck, what do you see? %mov:"WIL01"_899165_902038
+*MOT:	I: see a +... %mov:"WIL01"_902038_903961
+*MOT:	is that a blue horse? %mov:"WIL01"_903961_907968
+*MOT:	what's the horse +//.
+*CHI:	horsey. %mov:"WIL01"_907968_910516
+%pht:	/"Vsi/
+*MOT:	horsey, what's the horsey say?
+*CHI:	yy! %mov:"WIL01"_910516_913435
+%pht:	/"n=m/
+*MOT:	"neɪː@u [: nei:gh], that's right.
+*MOT:	lookin [: looking] at me.
+*MOT:	blue horse, blue horse, what do you see? %mov:"WIL01"_913435_917301
+*MOT:	I see a +... %mov:"WIL01"_917301_919423
+*MOT:	what's that? %mov:"WIL01"_919423_920650
+*CHI:	frog. %mov:"WIL01"_920650_924106
+%pht:	/"fAps/
+*MOT:	green frog, what's the frog say?
+*CHI:	xx. %mov:"WIL01"_924106_927296
+*MOT:	ribbit, ribbit, I know, you don't know that yet.
+*MOT:	green frog green frog what do you see? %mov:"WIL01"_927296_929711
+*MOT:	I see a purpl:e +... %mov:"WIL01"_929711_932230
+*MOT:	what's that? %mov:"WIL01"_932230_934285
+*CHI:	cat. %mov:"WIL01"_934285_937993
+%pht:	/du"t{/
+*MOT:	cat lookin [: looking] at me, what's the cat say?
+*CHI:	xx. %mov:"WIL01"_937993_941060
+*MOT:	meow.
+*MOT:	meo:w. %mov:"WIL01"_941060_942895
+*MOT:	purple cat purple cat whadyou [: what are you] see?
+*MOT:	what's that? %mov:"WIL01"_942895_945596
+*CHI:	doggie. %mov:"WIL01"_945596_948225
+%pht:	/"dV"ti/
+*MOT:	doggie, what's the doggie say?
+*CHI:	yy. %mov:"WIL01"_948225_948930
+%pht:	/"=m/
+*MOT:	what's the doggie say? %mov:"WIL01"_948930_950330
+*CHI:	xx. %mov:"WIL01"_950330_954261
+*MOT:	aw:, woof woof.
+*MOT:	white +//.
+*MOT:	white dog, white dog, what do you see? %mov:"WIL01"_954261_957453
+*MOT:	I see a black sheep. %mov:"WIL01"_957453_959765
+*MOT:	what's the sheep say? %mov:"WIL01"_959765_961213
+*CHI:	yy, the teacher [?]. %mov:"WIL01"_961213_965058
+%pht:	/"V d@"ti/
+*MOT:	teacher, yes.
+*CHI:	yy. %mov:"WIL01"_965058_967753
+%pht:	/"tV "teI/
+*MOT:	uh+huh what's this?
+*MOT:	is that children? %mov:"WIL01"_967753_970855
+*MOT:	can you show Mommy +//.
+*MOT:	where's the brown bear? %mov:"WIL01"_970855_976840
+*CHI:	yy. %mov:"WIL01"_976840_979435
+%pht:	/d@"dwV/
+*MOT:	that's the cat, yes.
+*CHI:	yy! %mov:"WIL01"_979435_980886
+%pht:	/"dV/
+%com:	initial consonant is difficult to determine, it is an alveolar sound
+*MOT:	bird.
+*MOT:	mm+hmm, that's the frog. %mov:"WIL01"_980886_982490
+*MOT:	where's the duck? %mov:"WIL01"_982490_983365
+*MOT:	how bout [: about] the dog? %mov:"WIL01"_983365_986505
+*MOT:	woof woof, where's the dog? %mov:"WIL01"_986505_988686
+*MOT:	that's the sheep, "bæ@u [: baa]. %mov:"WIL01"_988686_991243
+*CHI:	duck [?]. %mov:"WIL01"_991243_993531
+%pht:	/"bV/
+*MOT:	duck, mm+hmm.
+*CHI:	yy. %mov:"WIL01"_993531_994580
+%pht:	/"bU:/
+*CHI:	yy. %mov:"WIL01"_994580_997188
+%pht:	/"lV/
+*MOT:	what's the duck +//.
+*MOT:	what does that say?
+*CHI:	quack quack [?]. %mov:"WIL01"_997188_1001086
+%pht:	/@"bwU?kA/
+*MOT:	quack quack, that's right.
+%com:	William also sounded like a turkey gobbling.
+*MOT:	n [: and] how bout [: about] this, what does that say? %mov:"WIL01"_1001086_1002771
+*CHI:	doggie! %mov:"WIL01"_1002771_1004855
+%pht:	/dA"ti/
+*MOT:	doggie, yeah [: yes].
+*MOT:	what's a +//.
+*MOT:	what does the +//.
+*CHI:	xx xx xx xx. %mov:"WIL01"_1004855_1008016
+*MOT:	that's right, woof woof, mm+hmm.
+*CHI:	yy. %mov:"WIL01"_1008016_1010441
+%pht:	/"bup/
+*MOT:	good jo:b.
+*CHI:	yy yy! %mov:"WIL01"_1010441_1012756
+%pht:	/"{l@ "{d{/
+*MOT:	yeah [: yes]? %mov:"WIL01"_1012756_1013778
+*MOT:	dyou [: do you] wanna [: want to] get Mommy a book? %mov:"WIL01"_1013778_1016563
+*CHI:	yy yy. %mov:"WIL01"_1016563_1021458
+%pht:	/"=m "=m/
+*MOT:	mm:. %mov:"WIL01"_1021458_1022580
+*CHI:	yy. %mov:"WIL01"_1022580_1026420
+%pht:	/"V?/
+*MOT:	yeah [: yes], let's take this out of the way, whoops.
+*MOT:	here, can you give Mommy the ball? %mov:"WIL01"_1026420_1028493
+*MOT:	you wanna [: want to] give Mama the ball? %mov:"WIL01"_1028493_1031988
+*CHI:	yy. %mov:"WIL01"_1031988_1033714
+%pht:	/"V?=m/
+*MOT:	ball, yeah [: yes]. %mov:"WIL01"_1033714_1035089
+*MOT:	o:h, thank you. %mov:"WIL01"_1035089_1037974
+*MOT:	thank you:!
+*CHI:	ball. %mov:"WIL01"_1037974_1042130
+%pht:	/"bO:/
+*MOT:	ball?
+*MOT:	yeah [: yes].
+*MOT:	xx take that out of the way, good job William. %mov:"WIL01"_1042130_1044631
+*CHI:	yy. %mov:"WIL01"_1044631_1046583
+%pht:	/"bwu/
+*MOT:	mm+hmm. %mov:"WIL01"_1046583_1047963
+*CHI:	yy. %mov:"WIL01"_1047963_1049248
+%pht:	/"bU:/
+*MOT:	o:h okay, this is a good idea. %mov:"WIL01"_1049248_1051901
+*MOT:	this is a good idea, William. %mov:"WIL01"_1051901_1055780
+*MOT:	c'mere [: come here], lemme [: let me] see. %mov:"WIL01"_1055780_1057316
+*MOT:	all right? %mov:"WIL01"_1057316_1059155
+*MOT:	here. %mov:"WIL01"_1059155_1063243
+*MOT:	meet "tɑməs@u [: Thomas] and his friends. %mov:"WIL01"_1063243_1065906
+*CHI:	yy. %mov:"WIL01"_1065906_1067593
+%pht:	/"V?/
+*MOT:	meet Thomas and his friends. %mov:"WIL01"_1067593_1076481
+*MOT:	who is coming under the bridge? %mov:"WIL01"_1076481_1080386
+*MOT:	beep beep, says Thomas, it's me. %mov:"WIL01"_1080386_1087025
+*MOT:	who is behind the cloud? %mov:"WIL01"_1087025_1091483
+*MOT:	hello says "hɛr=ld@u [: Harold], I like flying in the sky. %mov:"WIL01"_1091483_1094028
+*CHI:	sky! %mov:"WIL01"_1094028_1095038
+%pht:	/"gaI/
+*MOT:	sky, that's right. %mov:"WIL01"_1095038_1096813
+*MOT:	who is waiting at the crossing? %mov:"WIL01"_1096813_1104306
+*MOT:	it's me, says "bɜr'di@u [: Birdie], I'm waiting for Thomas to go by.
+*MOT:	who is in the engine shed? %mov:"WIL01"_1104306_1110190
+*MOT:	toot toot, says "pɜr'si@u [: Percy]. %mov:"WIL01"_1110190_1112951
+*MOT:	thanks for opening the door. %mov:"WIL01"_1112951_1114660
+*MOT:	who is behind Thomas? %mov:"WIL01"_1114660_1117621
+*MOT:	I hope you really like my useful engines says sir "tɑp=nhæt@u [:
+	Toppenhat]. %mov:"WIL01"_1117621_1122573
+*CHI:	beep beep! %mov:"WIL01"_1122573_1125478
+%pht:	/"bi:p "bi:/
+*MOT:	beep.
+*CHI:	beep. %mov:"WIL01"_1125478_1127330
+%pht:	/"bi?/
+%com:	initial consonant is between /m/ and /b/
+*MOT:	beep beep. %mov:"WIL01"_1127330_1129031
+*CHI:	beep beep. %mov:"WIL01"_1129031_1131230
+%pht:	/"bi? "mi:t/
+*CHI:	xx. %mov:"WIL01"_1131230_1134303
+*MOT:	yeah [: yes]?
+*CHI:	up. %mov:"WIL01"_1134303_1136301
+%pht:	/"V?/
+*CHI:	xx yy. %mov:"WIL01"_1136301_1138581
+%pht:	/"V?"V/
+*MOT:	how bout [: about] you get +//.
+*MOT:	where's the wheels on the bus? %mov:"WIL01"_1138581_1141238
+*MOT:	the wheels on the bus +... %mov:"WIL01"_1141238_1143765
+*MOT:	the wheels on the bus +//.
+*MOT:	can you get Mommy that book? %mov:"WIL01"_1143765_1146691
+*MOT:	the wheels on the bus go round and round +//.
+*MOT:	where's the book? %mov:"WIL01"_1146691_1150565
+*CHI:	yy. %mov:"WIL01"_1150565_1154025
+%pht:	/O"I?/
+*MOT:	that's right. %mov:"WIL01"_1154025_1155250
+*MOT:	yes, oo:h, you like this one. %mov:"WIL01"_1155250_1160021
+*MOT:	xx, you wanna [: want to] do it this way? %mov:"WIL01"_1160021_1162235
+*MOT:	the wheels on the bus go round and round, round and round, round and
+	and round. %mov:"WIL01"_1162235_1170150
+*MOT:	the wheels on the bus go round and round. %mov:"WIL01"_1170150_1173101
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1173101_1175851
+*MOT:	the driver on the bus +//.
+*MOT:	what's the driver on the bus say? %mov:"WIL01"_1175851_1179441
+*MOT:	that's right, move on back. %mov:"WIL01"_1179441_1181948
+*MOT:	move on back, move on back, the driver on the bus says move on
+	back. %mov:"WIL01"_1181948_1187860
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1187860_1190710
+*MOT:	what's the horn do?
+*MOT:	the horn on the bus goes +... %mov:"WIL01"_1190710_1195515
+*MOT:	that's right, beep beep beep. %mov:"WIL01"_1195515_1197308
+*MOT:	beep beep beep. %mov:"WIL01"_1197308_1199461
+*MOT:	beep beep beep, the horn on the bus goes beep beep beep. %mov:"WIL01"_1199461_1203968
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1203968_1206708
+*MOT:	what do the wipers on the bus +//.
+*MOT:	the wipers on the bus go +... %mov:"WIL01"_1206708_1209966
+*MOT:	swish swish swish, what do they do? %mov:"WIL01"_1209966_1212416
+*MOT:	swish swish swish, swish swish swish. %mov:"WIL01"_1212416_1215701
+*MOT:	wipers on the bus go swish swish swish. %mov:"WIL01"_1215701_1218890
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1218890_1221916
+*MOT:	what do the riders on the bus go? %mov:"WIL01"_1221916_1225778
+*MOT:	riders on the bus go +... %mov:"WIL01"_1225778_1228145
+*MOT:	what do the riders on the bus do? %mov:"WIL01"_1228145_1230815
+*CHI:	mack [?]. %mov:"WIL01"_1230815_1232120
+%pht:	/"m{?/
+*MOT:	"bVmpəɾi@u [: bumpety] bump. %mov:"WIL01"_1232120_1233441
+*MOT:	bumpety bump. %mov:"WIL01"_1233441_1235033
+*MOT:	bumpety bump, the riders on the bus go bumpety bump. %mov:"WIL01"_1235033_1239723
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1239723_1242635
+*MOT:	how bout [: about] the babies? %mov:"WIL01"_1242635_1244315
+*MOT:	the babies on the bus go wah wah wah. %mov:"WIL01"_1244315_1247893
+*MOT:	wah wah wah.
+*CHI:	xx. %mov:"WIL01"_1247893_1251328
+%com:	William makes a creaky, squeaky, untranscribable utterance
+*MOT:	wah wah wah.
+*MOT:	the babies on the bus go wah wah wah. %mov:"WIL01"_1251328_1255290
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1255290_1258165
+*MOT:	what about the wheels? %mov:"WIL01"_1258165_1260881
+*MOT:	the wheels on the bus go +... %mov:"WIL01"_1260881_1263478
+*MOT:	that's right. %mov:"WIL01"_1263478_1264853
+*MOT:	how bout [: about] this way, round and round. %mov:"WIL01"_1264853_1267515
+*MOT:	round and round. %mov:"WIL01"_1267515_1269226
+*MOT:	round and round, the wheels on the bus go round and round. %mov:"WIL01"_1269226_1274431
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1274431_1277650
+*CHI:	again [?]. %mov:"WIL01"_1277650_1279220
+%pht:	/"gE/
+*MOT:	again?
+*MOT:	okay. %mov:"WIL01"_1279220_1280398
+*MOT:	o:h you like that, here we can snap it, n [: and] do this. %mov:"WIL01"_1280398_1290193
+*MOT:	oo:h. %mov:"WIL01"_1290193_1307000
+*MOT:	where's the +//.
+*CHI:	xx! %mov:"WIL01"_1307000_1309460
+*MOT:	yep.
+*CHI:	yy! %mov:"WIL01"_1309461_1311915
+%pht:	/"V:?/
+*MOT:	uh. %mov:"WIL01"_1311915_1312796
+*MOT:	kay [: okay]. %mov:"WIL01"_1312796_1313766
+*MOT:	we'll do it one more time, n [: and] then we can read Maisy's colors.
+*CHI:	xx. %mov:"WIL01"_1313766_1317395
+*MOT:	what do the wheels do, the wheels on the bus go round and round,
+	that's right, round and round. %mov:"WIL01"_1317395_1322705
+*MOT:	round and round, the wheels on the bus go round and round. %mov:"WIL01"_1322705_1327653
+*MOT:	a:ll through the to:wn. %mov:"WIL01"_1327653_1330416
+*MOT:	wanna [: want to] turn the page? %mov:"WIL01"_1330416_1332513
+*MOT:	thank you. %mov:"WIL01"_1332513_1334768
+*MOT:	the driver on the bus says +... %mov:"WIL01"_1334768_1336896
+*MOT:	what does the driver +//.
+*MOT:	move on back. %mov:"WIL01"_1336896_1339250
+*MOT:	move on back. %mov:"WIL01"_1339250_1340628
+*MOT:	move on back. %mov:"WIL01"_1340628_1341930
+*MOT:	that's a good job William. %mov:"WIL01"_1341930_1343353
+*MOT:	the driver on the bus says move on back.
+*CHI:	yy boat [?] yy boat [?] yy boat [?]. %mov:"WIL01"_1343353_1348213
+%pht:	/"V "mu "V "bu "V? "bu/
+*CHI:	yy boat [?]. %mov:"WIL01"_1348213_1350346
+%pht:	/"V? "bo/
+*MOT:	oh yeah [: yes]?
+*CHI:	yy boat [?]. %mov:"WIL01"_1350346_1353900
+%pht:	/"A: "bu:/
+*MOT:	o:h.
+*CHI:	yy boat [?]. %mov:"WIL01"_1353900_1356816
+%pht:	/"aU "mo/
+*MOT:	what's that?
+*CHI:	yy boat [?]. %mov:"WIL01"_1356816_1358913
+%pht:	/"{t "bo/
+*MOT:	boats, that's right.
+*CHI:	yy. %mov:"WIL01"_1358913_1360235
+%pht:	/"V?/
+*MOT:	xx seven boats. %mov:"WIL01"_1360235_1365161
+*MOT:	on the water. %mov:"WIL01"_1365161_1367945
+*MOT:	there goes # a rowboat, huh. %mov:"WIL01"_1367945_1371161
+*MOT:	there's a sailboat. %mov:"WIL01"_1371161_1372703
+*MOT:	n [: and] the:re's a motorboat. %mov:"WIL01"_1372703_1375430
+*MOT:	speeding through the waves. %mov:"WIL01"_1375430_1379221
+*MOT:	and a fire+boat rushes to put out a fire. %mov:"WIL01"_1379221_1383050
+*MOT:	n [: and] there's a ferryboat carrying people n [: and] cars. %mov:"WIL01"_1383050_1385983
+*MOT:	n [: and] here comes a cruise+ship, into the harbor. %mov:"WIL01"_1385983_1388853
+*MOT:	n [: and] here's a tugboat to help the ship dock. %mov:"WIL01"_1388853_1392463
+*MOT:	n [: and] the ship is at the dock. %mov:"WIL01"_1392463_1394255
+*MOT:	n [: and] here's the workers loading the ship. %mov:"WIL01"_1394255_1398548
+*MOT:	here are the people. %mov:"WIL01"_1398548_1401046
+*MOT:	going on board. %mov:"WIL01"_1401046_1407000
+*CHI:	yy boat xx. %mov:"WIL01"_1407000_1417000
+%pht:	/"A "mo:/
+*CHI:	mommy [?]. %mov:"WIL01"_1417000_1419125
+%pht:	/"daI/
+*MOT:	yeah [: yes]?
+*MOT:	whoop. %mov:"WIL01"_1419125_1420525
+*MOT:	what's this? %mov:"WIL01"_1420525_1422530
+*MOT:	what's that? %mov:"WIL01"_1422530_1425226
+*CHI:	yy. %mov:"WIL01"_1425226_1427835
+%pht:	/"V?/
+*MOT:	squeezing it? %mov:"WIL01"_1427835_1437520
+*MOT:	squeeze it again. %mov:"WIL01"_1437520_1438416
+*MOT:	oh good job. %mov:"WIL01"_1438416_1441710
+*MOT:	try again. %mov:"WIL01"_1441710_1442835
+*MOT:	try again. %mov:"WIL01"_1442835_1444301
+*MOT:	here push it right there, push it right in the middle. %mov:"WIL01"_1444301_1447925
+*MOT:	you gotta [: got to] squeeze it quick, xx. %mov:"WIL01"_1447925_1454145
+*MOT:	oh, gentle. %mov:"WIL01"_1454145_1460356
+*MOT:	gentle. %mov:"WIL01"_1460356_1463635
+*MOT:	okay. %mov:"WIL01"_1463635_1466905
+*MOT:	how bout [: about] Doctor "susɪz@u [: Seuss's] +//.
+*MOT:	oh, what's that one? %mov:"WIL01"_1466905_1474750
+*MOT:	how bout [: about] Doctor Seuss's A B C. %mov:"WIL01"_1474750_1487000
+*CHI:	yy. %mov:"WIL01"_1487000_1489506
+%pht:	/"sIz/
+*CHI:	xx. %mov:"WIL01"_1489508_1492218
+*MOT:	mm+hmm. %mov:"WIL01"_1492218_1493233
+*CHI:	C. %mov:"WIL01"_1493233_1494970
+%pht:	/"si?/
+*MOT:	yes.
+*CHI:	A, B? %mov:"WIL01"_1494970_1497898
+%pht:	/"heI "vi/
+*MOT:	A: B C.
+*CHI:	B, C? %mov:"WIL01"_1497898_1500168
+%pht:	/"bI  "si/
+*CHI:	hey [?]. %mov:"WIL01"_1500168_1502326
+%pht:	/"hE:"hi/
+*CHI:	yy. %mov:"WIL01"_1502326_1510000
+%pht:	/"S{:zI?/
+*MOT:	yeah [: yes].
+*CHI:	yy. %mov:"WIL01"_1510000_1513460
+%pht:	/"aU4iju "gEzIzi:/
+*MOT:	I know, that page you ripped out.
+*MOT:	right at the end. %mov:"WIL01"_1513460_1514595
+*MOT:	here. %mov:"WIL01"_1514595_1516391
+*MOT:	what's that? %mov:"WIL01"_1516391_1519793
+*CHI:	yy. %mov:"WIL01"_1519793_1522633
+%pht:	/h@"sIg/
+*MOT:	A:, big A little A.
+*CHI:	yy. %mov:"WIL01"_1522633_1523848
+%pht:	/"A?/
+*MOT:	uh, you gonna [: going to] do it? %mov:"WIL01"_1523848_1525568
+*MOT:	ooh, ooh. %mov:"WIL01"_1525568_1527393
+*MOT:	you want me to hold it, is that your way of telling me you want
+	Mommy to hold it? %mov:"WIL01"_1527393_1534963
+*MOT:	big A little A, what begins with A? %mov:"WIL01"_1534963_1537495
+*MOT:	aunt "æniz@u [: Annie's] alligator. %mov:"WIL01"_1537495_1539853
+*MOT:	A A A.
+*CHI:	xx. %mov:"WIL01"_1539853_1541863
+*MOT:	big B little B, what begins with B? %mov:"WIL01"_1541863_1547731
+*MOT:	barber, baby, bubbles, and a "bVmb=l"bi@u [: bumblebee]. %mov:"WIL01"_1547731_1551191
+*CHI:	yy. %mov:"WIL01"_1551191_1552611
+%pht:	/"si/
+*MOT:	what +//.
+*MOT:	what +//.
+*MOT:	what's that?
+*CHI:	C. %mov:"WIL01"_1552611_1553520
+%pht:	/"si/
+*MOT:	yes, C comes next. %mov:"WIL01"_1553520_1555181
+*MOT:	big C little C. %mov:"WIL01"_1555181_1556713
+*MOT:	what begins with C? %mov:"WIL01"_1556713_1558348
+*MOT:	camel on the ceiling. %mov:"WIL01"_1558348_1560451
+*MOT:	C C C. %mov:"WIL01"_1560451_1562800
+*MOT:	big D, little D. %mov:"WIL01"_1562800_1565710
+*MOT:	"deɪvɪd@u [: David] "dɑn=ld@u [: Donald] Doo. %mov:"WIL01"_1565710_1568156
+*MOT:	dreamed a dozen donuts and a duck+dog too. %mov:"WIL01"_1568156_1571223
+*MOT:	what's that? %mov:"WIL01"_1571223_1574435
+*CHI:	yy. %mov:"WIL01"_1574435_1576463
+%pht:	/"tHV"tI/
+*MOT:	E.
+*MOT:	A B C D E. %mov:"WIL01"_1576463_1578620
+*MOT:	E, E. %mov:"WIL01"_1578620_1579898
+*MOT:	ear, egg, elephant. %mov:"WIL01"_1579898_1581450
+*MOT:	E, E, E. %mov:"WIL01"_1581450_1583123
+*MOT:	big F little F. %mov:"WIL01"_1583123_1585520
+*MOT:	F F F. %mov:"WIL01"_1585520_1586628
+*MOT:	four fluffy feathers on a fifer feffer "fɛf@u [: feff]. %mov:"WIL01"_1586628_1589431
+*MOT:	A B C D E F G. %mov:"WIL01"_1589431_1594310
+*MOT:	goat, girl, goo+goo goggles. %mov:"WIL01"_1594310_1597315
+*MOT:	G, G, G. %mov:"WIL01"_1597315_1600386
+*MOT:	can you say G? %mov:"WIL01"_1600386_1601460
+*CHI:	yy. %mov:"WIL01"_1601460_1604921
+%pht:	/A"heI/
+*MOT:	hi:.
+*MOT:	big H little H! %mov:"WIL01"_1604921_1606906
+*MOT:	hungry horse hay. %mov:"WIL01"_1606906_1608768
+*MOT:	hen in a hat. %mov:"WIL01"_1608768_1610636
+*MOT:	hoora:y, hoora:y! %mov:"WIL01"_1610636_1612488
+*MOT:	big I little I, I I I. %mov:"WIL01"_1612488_1615948
+*MOT:	"ɪkəbɑd@u [: Ichabod] is itchy. %mov:"WIL01"_1615948_1617511
+*MOT:	so am I. %mov:"WIL01"_1617511_1618425
+*MOT:	big J little J, what begins with J? %mov:"WIL01"_1618425_1621518
+*MOT:	"dʒɛri@u [: Jerry] "dʒɑɜ'rd=nz@u [: Jordan's] jelly jar n [: and]
+	jam begin that way. %mov:"WIL01"_1621518_1624325
+*CHI:	yy. %mov:"WIL01"_1624000_1625435
+%pht:	/"hV/
+*MOT:	oh, yes I know, this is your favorite thing in the world. %mov:"WIL01"_1625435_1628645
+*MOT:	big K, little K, kitten kangaroo. %mov:"WIL01"_1628645_1631850
+*MOT:	kick a kettle kite n [: and] a king's kɜr"tʃu@u [: kerchoo]. %mov:"WIL01"_1631850_1634900
+*MOT:	big L little L, little "lolV@u [: Lola] Lop. %mov:"WIL01"_1634900_1639591
+*MOT:	left leg lazy lion licks a lollipop. %mov:"WIL01"_1639591_1642636
+*MOT:	big M, little M. %mov:"WIL01"_1642693_1645988
+*MOT:	many mumbling mice. %mov:"WIL01"_1645988_1647226
+*MOT:	are making midnight music in the moonlight, mighty nice. %mov:"WIL01"_1647226_1651116
+*MOT:	big N little N, what begins with those? %mov:"WIL01"_1651116_1655966
+*MOT:	nine new neckties n [: and] a nightshirt and a +... %mov:"WIL01"_1655966_1659098
+*MOT:	what's that? %mov:"WIL01"_1659098_1660565
+*CHI:	yy. %mov:"WIL01"_1660565_1662383
+%pht:	/g@"tu/
+*MOT:	what's that?
+*CHI:	yy. %mov:"WIL01"_1662383_1664766
+%pht:	/"{p"bu/
+*MOT:	no:se.
+*MOT:	where's yer [: your] nose? %mov:"WIL01"_1664766_1666730
+*CHI:	eye! %mov:"WIL01"_1666730_1668880
+%pht:	/"aI/
+*MOT:	that's yer [: your] nose, this is yer [: your] eye. %mov:"WIL01"_1668880_1671106
+*MOT:	you're funny. %mov:"WIL01"_1671106_1673948
+*MOT:	O is very useful. %mov:"WIL01"_1673948_1675575
+*MOT:	you use it when you say, "ɑskɜ'rz@u [: Oscar's] only ostrich
+	oiled an orange owl today. %mov:"WIL01"_1675575_1679503
+*MOT:	ah+ha:. %mov:"WIL01"_1679503_1681283
+*MOT:	looks like we ripped some more, "h=m@u [: hmm]? %mov:"WIL01"_1681283_1684411
+*MOT:	A B +//.
+*MOT:	let's see if we can find that, I thought I saw that somewhere. %mov:"WIL01"_1684411_1689220
+*MOT:	A B C D E F G. %mov:"WIL01"_1689220_1693773
+*MOT:	H I J K, you can't see it anymore, L M N O: +... %mov:"WIL01"_1693773_1699451
+*MOT:	P:! %mov:"WIL01"_1699451_1701215
+*MOT:	painting pink pajamas, policeman in a pail. %mov:"WIL01"_1701215_1706346
+*MOT:	"pitɜ'r@u [: Peter] Pepper's puppy n [: and] now Papa's [: Papa is]
+	in the pail. %mov:"WIL01"_1706346_1709558
+*MOT:	big Q little Q, what begins with Q? %mov:"WIL01"_1709558_1715478
+*MOT:	the quick queen of "kwɪnsi@u [: Quincy] and her "kwækɪŋg@u
+	[: quacking] kwækɜ'"ru@u [: quackeroo]. %mov:"WIL01"_1715478_1718613
+*MOT:	quack quack. %mov:"WIL01"_1718613_1719648
+*MOT:	big R, little R, Rosy Robin "rɑs@u [: Ross]. %mov:"WIL01"_1719648_1725060
+*MOT:	Rosy's [: Rosy is] going riding on her red rhinoceros. %mov:"WIL01"_1725060_1728631
+*MOT:	big S, little S. %mov:"WIL01"_1728631_1732186
+*MOT:	silly xx slick. %mov:"WIL01"_1732186_1734098
+*MOT:	sipped six sodas n [: and] got sick, sick, sick. %mov:"WIL01"_1734098_1737881
+*MOT:	T T T T, what begins with T? %mov:"WIL01"_1737881_1742776
+*MOT:	ten tired turtles on a tuttle+tuttle tree. %mov:"WIL01"_1742776_1745231
+*MOT:	big U little U, what begins with U? %mov:"WIL01"_1745231_1748345
+*MOT:	Uncle xx umbrella and his underwear too. %mov:"WIL01"_1748345_1751235
+*MOT:	big V:, little V. %mov:"WIL01"_1751235_1755018
+*MOT:	"vɛrV@u [: Vera] Violet "vɪn@u [: Vin] is very, very, very awful. %mov:"WIL01"_1755018_1759220
+*MOT:	on her violin. %mov:"WIL01"_1759220_1760426
+*MOT:	what's that? %mov:"WIL01"_1760426_1763548
+*CHI:	Rosy [?]! %mov:"WIL01"_1763548_1766700
+%pht:	/"gV"Zi/
+*MOT:	yeah [: yes], whose name begins with that?
+*CHI:	ours [?]? %mov:"WIL01"_1766700_1769120
+%pht:	/"bAz/
+*MOT:	that's right, William's, that's yours. %mov:"WIL01"_1769120_1771385
+*MOT:	W W W, "wɪli@u [: Willy] Waterloo. %mov:"WIL01"_1771385_1774700
+*MOT:	washes "wɔɜ'r=n@u [: Warren] "wɪgɪnz@u [: Wiggins] who is washing
+	"wɑldo@u [: Waldo] Woo.
+*CHI:	xx. %mov:"WIL01"_1774700_1778196
+*MOT:	what's up?
+*CHI:	hey [?]. %mov:"WIL01"_1778196_1779843
+%pht:	/"hi/
+*MOT:	I know, C's +//.
+*MOT:	you gotta [: got to] go back for C.
+*CHI:	C [?]. %mov:"WIL01"_1779843_1781685
+%pht:	/"hi/
+*CHI:	C [?]. %mov:"WIL01"_1781685_1784243
+%pht:	/"hi:/
+*MOT:	how bout [: about] X is very useful.
+*MOT:	if your name is "nɪksi@u [: Nixi] Knox, it also comes in handy
+	spelling axe n [: and] extra fox. %mov:"WIL01"_1784243_1789018
+*MOT:	okay, are you finished, let's finish this book then. %mov:"WIL01"_1789018_1793586
+*MOT:	all done? %mov:"WIL01"_1793586_1794900
+*MOT:	all done. %mov:"WIL01"_1794900_1796033
+*MOT:	all done. %mov:"WIL01"_1796033_1797721
+*MOT:	let's sing a song. %mov:"WIL01"_1797721_1799125
+*MOT:	c'mon [: come on]. %mov:"WIL01"_1799125_1800015
+*MOT:	look at Mommy. %mov:"WIL01"_1800015_1801748
+*CHI:	sing [?]? %mov:"WIL01"_1801748_1803615
+%pht:	/"s=n/
+*MOT:	you wanna [: want to] sing?
+*MOT:	xx. %mov:"WIL01"_1803615_1805748
+*MOT:	c'mere [: come here]. %mov:"WIL01"_1805748_1807495
+*MOT:	let's sing. %mov:"WIL01"_1807495_1810158
+*MOT:	sing. %mov:"WIL01"_1810158_1810990
+*MOT:	twinkle twinkle +... %mov:"WIL01"_1810990_1813631
+*MOT:	honey. %mov:"WIL01"_1813631_1815288
+*MOT:	c'mon [: come on], I shouldn't've [: should not have] said it it
+	rhymes too much with the other word, doesn't it. %mov:"WIL01"_1815288_1818905
+*MOT:	o:h. %mov:"WIL01"_1818905_1821038
+*MOT:	the itsy bitsy spider climbed up the water spout. %mov:"WIL01"_1821038_1826716
+*MOT:	down came the rain and washed the spider out. %mov:"WIL01"_1826716_1832513
+*MOT:	out came the sun n [: and] dried up all the rain. %mov:"WIL01"_1832513_1838183
+*MOT:	and the itsy bitsy spider climbed up the spout again. %mov:"WIL01"_1838183_1844111
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_1844111_1846925
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_1846925_1850236
+*MOT:	beep beep beep+beep, beep beep be+deep. %mov:"WIL01"_1850236_1854585
+*MOT:	beep beep beep+beep beep. %mov:"WIL01"_1854585_1857185
+*MOT:	be+dee+deep beep beep. %mov:"WIL01"_1857185_1859358
+*MOT:	hey, please don't do that. %mov:"WIL01"_1859358_1862833
+*MOT:	uh! %mov:"WIL01"_1862833_1883501
+*MOT:	bom bom bah+dom bom bom bom. %mov:"WIL01"_1883501_1887526
+*MOT:	o:h. %mov:"WIL01"_1887526_1892945
+*MOT:	where's Maisy's panda? %mov:"WIL01"_1892945_1895250
+*MOT:	where is Maisy's panda? %mov:"WIL01"_1895250_1898313
+*MOT:	hmm? %mov:"WIL01"_1898313_1900188
+*MOT:	tell Mommy, where's Maisy's panda? %mov:"WIL01"_1900188_1903460
+*MOT:	Maisy's lost panda, can you help her find him? %mov:"WIL01"_1903460_1908130
+*MOT:	is panda in the washing machine? %mov:"WIL01"_1908130_1911150
+*MOT:	oh, not there! %mov:"WIL01"_1911150_1913026
+*MOT:	is panda in the toilet? %mov:"WIL01"_1913026_1919151
+*MOT:	uh, not there. %mov:"WIL01"_1919151_1921561
+*MOT:	is panda under the sink? %mov:"WIL01"_1921561_1926715
+*MOT:	ooh, not there. %mov:"WIL01"_1926715_1929230
+*MOT:	is +//.
+*MOT:	is +//.
+*MOT:	is panda in the laundry basket? %mov:"WIL01"_1929230_1935755
+*MOT:	uh, not there. %mov:"WIL01"_1935755_1938046
+*MOT:	is panda on the toy+box? %mov:"WIL01"_1938046_1940651
+*MOT:	yes!
+*MOT:	where's panda?
+*MOT:	show Mommy. %mov:"WIL01"_1940651_1949131
+*CHI:	yy. %mov:"WIL01"_1949131_1951451
+%pht:	/"O?/
+*MOT:	where's panda?
+*MOT:	can you show Mommy where panda is? %mov:"WIL01"_1951451_1954240
+*MOT:	not today? %mov:"WIL01"_1954240_1956693
+*CHI:	yy. %mov:"WIL01"_1956693_1959373
+%pht:	/"V?/
+*MOT:	okay.
+*CHI:	yy. %mov:"WIL01"_1959373_1961240
+%pht:	/"O?/
+*CHI:	xx. %mov:"WIL01"_1961240_1962900
+*MOT:	mm:, little attitude. %mov:"WIL01"_1962900_1967641
+*MOT:	one, two, three. %mov:"WIL01"_1967641_1971768
+*MOT:	one is good for a quiet walk. %mov:"WIL01"_1971768_1974768
+*MOT:	two is right for a quiet talk. %mov:"WIL01"_1974768_1977063
+*MOT:	three is nice for having tea. %mov:"WIL01"_1977063_1980331
+*MOT:	or for counting, one, two, three. %mov:"WIL01"_1980331_1983353
+*MOT:	and when you want to go explore, the number you should have is
+	four. %mov:"WIL01"_1983353_1988320
+*MOT:	one two three four. %mov:"WIL01"_1988320_1990110
+*MOT:	five works well for a ride in the car, as long as the car ride isn't
+	too far. %mov:"WIL01"_1990110_1995155
+*MOT:	six is fun for running a race, except for the one who gets sixth
+	place. %mov:"WIL01"_1995155_1999930
+*MOT:	seven is perfect for a play. %mov:"WIL01"_1999930_2002848
+*MOT:	eight makes a very fine class in ballet. %mov:"WIL01"_2002848_2006991
+*MOT:	you need nine players strong n [: and] quick, to field a team for
+	piggly+stick. %mov:"WIL01"_2006991_2012843
+*MOT:	ten makes a celebration lou:d, loud, loud. %mov:"WIL01"_2012843_2018170
+*MOT:	and one is wonderful after a crowd. %mov:"WIL01"_2018170_2021516
+*CHI:	after [?] 0a crowd [?]. %mov:"WIL01"_2021516_2023983
+%pht:	/"aU#"tV"gO/
+*MOT:	yeah [: yes].
+*CHI:	xx. %mov:"WIL01"_2023983_2027448
+*MOT:	xx.
+*CHI:	yy. %mov:"WIL01"_2027448_2030913
+%pht:	/"=mb@/
+*MOT:	up+ah.
+*MOT:	bah.
+*CHI:	xx. %mov:"WIL01"_2030913_2033153
+*MOT:	bah.
+*CHI:	yy. %mov:"WIL01"_2033153_2036576
+%pht:	/"A:/
+*MOT:	a:h.
+*MOT:	where's yer [: your] toes? %mov:"WIL01"_2036576_2038573
+*CHI:	yy. %mov:"WIL01"_2038573_2040896
+%pht:	/"psi/
+*MOT:	where're [: where are] your toes? %mov:"WIL01"_2040896_2043230
+*MOT:	where's William's toes? %mov:"WIL01"_2043230_2045285
+*CHI:	yy. %mov:"WIL01"_2045223_2047098
+%pht:	/"kIp/
+*MOT:	mm+hmm.
+*CHI:	feet. %mov:"WIL01"_2046726_2050085
+%pht:	/"fI?/
+*MOT:	feet, that's right, that's yer [: your] feet.
+*CHI:	feet. %mov:"WIL01"_2050085_2054786
+%pht:	/"fi/
+*MOT:	mm+hmm.
+*MOT:	yeah [: yes], where's yer [: your] eye?
+*CHI:	eyes. %mov:"WIL01"_2054786_2057278
+%pht:	/"aI/
+*MOT:	eyes, yeah [: yes].
+*MOT:	how bout [: about] your nose? %mov:"WIL01"_2057278_2058574
+*CHI:	eye. %mov:"WIL01"_2058574_2062656
+%pht:	/"aI/
+*MOT:	that's yer [: your] eye, that's right.
+*CHI:	yy? %mov:"WIL01"_2062656_2065711
+%pht:	/"V/
+*MOT:	what's this? %mov:"WIL01"_2065711_2067718
+*MOT:	what's this one William? %mov:"WIL01"_2067718_2070081
+*CHI:	doggy. %mov:"WIL01"_2070081_2073611
+%pht:	/"dV"ti/
+*MOT:	doggies.
+*CHI:	xx. %mov:"WIL01"_2073611_2076648
+*MOT:	doggies, uh.
+*CHI:	look  [?]. %mov:"WIL01"_2076648_2079121
+%pht:	/"Uk/
+*CHI:	car. %mov:"WIL01"_2079121_2080556
+%pht:	/"kA/
+*MOT:	car?
+*MOT:	here. %mov:"WIL01"_2080556_2082123
+*CHI:	car. %mov:"WIL01"_2082123_2083416
+%pht:	/"kA/
+*MOT:	o:h okay. %mov:"WIL01"_2083416_2084973
+*MOT:	the tractor. %mov:"WIL01"_2084973_2087411
+*MOT:	here you go. %mov:"WIL01"_2087411_2088931
+*CHI:	yy car. %mov:"WIL01"_2088931_2094163
+%pht:	/"V "kA/
+*MOT:	ca:r.
+*CHI:	xx. %mov:"WIL01"_2094163_2097483
+*MOT:	oh, that's not nice.
+*MOT:	don't throw. %mov:"WIL01"_2097483_2099420
+*MOT:	kay [: okay]? %mov:"WIL01"_2099420_2101348
+*MOT:	take you riding in the car, car. %mov:"WIL01"_2101348_2105195
+%sit:	singing
+*MOT:	take you riding in the car, car. %mov:"WIL01"_2105195_2107476
+*MOT:	take you riding in the car, car, take you riding in the car. %mov:"WIL01"_2107476_2112235
+*MOT:	what's the engine go? %mov:"WIL01"_2112235_2114371
+*MOT:	engine it goes +... %mov:"WIL01"_2114371_2115923
+*CHI:	"bɜ@u [: brrm] brrm. %mov:"WIL01"_2115923_2120251
+%pht:	/"b3` "b3`/
+*MOT:	"br=m@u [: brrm] brrm, that's right, engine it goes +...
+*MOT:	brrm brrm. %mov:"WIL01"_2120251_2122963
+*MOT:	brrm brrm, brrm brrm brr:m, take you riding in the car. %mov:"WIL01"_2122963_2139000
+*CHI:	car! %mov:"WIL01"_2139000_2141140
+%pht:	/"kA/
+*MOT:	"kɑ@u [: car2]? %mov:"WIL01"_2141141_2142623
+*CHI:	yy car. %mov:"WIL01"_2142623_2144318
+%pht:	/"aU "kV4@/
+*CHI:	xx! %mov:"WIL01"_2144318_2147383
+*MOT:	no? %mov:"WIL01"_2147383_2148141
+*CHI:	yy? %mov:"WIL01"_2148141_2150055
+%pht:	/o"V/
+*MOT:	huh?
+*CHI:	xx. %mov:"WIL01"_2150055_2155956
+*MOT:	blue n' [: and] red?
+*MOT:	uh, how bout [: about] +//.
+*MOT:	what's this one? %mov:"WIL01"_2155956_2159036
+*MOT:	wanna [: want to] look at this one?
+*CHI:	xx. %mov:"WIL01"_2159036_2160891
+*MOT:	doggies. %mov:"WIL01"_2160891_2162965
+*MOT:	doggi:es, no? %mov:"WIL01"_2162965_2166411
+*MOT:	not that one. %mov:"WIL01"_2166411_2168195
+*MOT:	how bout [: about] +//.
+*MOT:	xx tell Mommy whatcha [: what you] want. %mov:"WIL01"_2168195_2170473
+*MOT:	dya [: do you] want some juice? %mov:"WIL01"_2170473_2171898
+*MOT:	wouldja [: would you] like some juice? %mov:"WIL01"_2171898_2174721
+*MOT:	wouldja [: would you] like some juice? %mov:"WIL01"_2174721_2186363
+*MOT:	no?
+*MOT:	okay. %mov:"WIL01"_2186363_2189921
+*CHI:	xx. %mov:"WIL01"_2189921_2203000
+*CHI:	yy. %mov:"WIL01"_2203000_2204920
+%pht:	/"E/
+*MOT:	no?
+*MOT:	okay. %mov:"WIL01"_2204921_2206723
+*MOT:	lemme [: let me] put William right xx. %mov:"WIL01"_2206723_2209345
+*MOT:	in William's chair. %mov:"WIL01"_2209345_2211328
+*MOT:	the itsy bitsy spider +... %mov:"WIL01"_2211328_2233583
+*MOT:	what do you want? %mov:"WIL01"_2233583_2234576
+*MOT:	tell Mommy what you want, camere [: come here]. %mov:"WIL01"_2234576_2236116
+*MOT:	camere [: come here], camere [: come here]. %mov:"WIL01"_2236116_2238196
+*MOT:	o:h. %mov:"WIL01"_2238196_2240085
+*MOT:	camere [: come here], all right. %mov:"WIL01"_2240085_2241596
+*MOT:	all right, all ri:ght. %mov:"WIL01"_2241596_2243690
+*MOT:	o:ka:y. %mov:"WIL01"_2243690_2247881
+*MOT:	okay. %mov:"WIL01"_2247881_2261608
+*MOT:	shh:. %mov:"WIL01"_2261608_2265545
+*MOT:	Jessica? %mov:"WIL01"_2265545_2276608
+*MOT:	yeah [: yes]? %mov:"WIL01"_2276608_2280976
+*MOT:	is it possible for us to go outside? %mov:"WIL01"_2280976_2285156
+*OPE:	yeah.
+*MOT:	that's why he's having a meltdown, he wants to go out on the S W
+	I N G. %mov:"WIL01"_2285156_2288756
+*OPE:	yeah [: yes], that's fine, lemme [: let me] just +...
+*MOT:	I keep trying to # track him +//.
+*MOT:	you know, I keep trying to +... %mov:"WIL01"_2288756_2293188
+*MOT:	direct him in another +//. %mov:"WIL01"_2293188_2300741
+*MOT:	but he sees +//.
+*MOT:	he's eventually just +//.
+*MOT:	he's +//.
+*MOT:	my +//.
+*MOT:	my husband left the back door open, n' [: and] he keeps seeing that.
+*OPE:	okay, no that's fine.
+*MOT:	he sees the light coming through and I'm like uh +... %mov:"WIL01"_2300741_2303051
+*MOT:	I don't know, well it's not much longer anyway, right? %mov:"WIL01"_2303051_2312196
+*OPE:	yeah [: yes], twenty minutes.
+*MOT:	yeah [: yes]. %mov:"WIL01"_2312196_2315125
+*MOT:	I think # he'll be happier, he's just +//.
+*MOT:	he's not +//.
+*MOT:	he's +... %mov:"WIL01"_2315125_2318021
+*MOT:	he's, as you can hear, he's +... %mov:"WIL01"_2318021_2320630
+*OPE:	no, it's really okay.
+*MOT:	okay great. %mov:"WIL01"_2320630_2322750
+*MOT:	so +... %mov:"WIL01"_2322750_2324453
+*OPE:	go out +...
+*MOT:	this way. %mov:"WIL01"_2324453_2326340
+*OPE:	okay.
+*MOT:	here. %mov:"WIL01"_2326340_2354000
+*CHI:	xx. %mov:"WIL01"_2354000_2355945
+*MOT:	this is pretty permanent, this one I usually just keep up, but +... %mov:"WIL01"_2355946_2359101
+*MOT:	I just +... %mov:"WIL01"_2359101_2360916
+*CHI:	mm! %mov:"WIL01"_2360916_2366438
+%pht:	/"=m/
+*CHI:	mm. %mov:"WIL01"_2366438_2368825
+%pht:	/"=m/
+*MOT:	mm:.
+*FRI:	I just took a few xx leaves from you.
+*MOT:	okay. %mov:"WIL01"_2368825_2376063
+*FRI:	xx I'm making "kæɜ'rlV@u [: Carla] a bouquet for her prom tonight.
+*MOT:	no problem. %mov:"WIL01"_2376063_2380126
+*FRI:	thanks.
+*MOT:	sure. %mov:"WIL01"_2380126_2381231
+*CHI:	mm. %mov:"WIL01"_2381231_2383120
+%pht:	/"=m/
+*CHI:	mm. %mov:"WIL01"_2383120_2385640
+%pht:	/"=m/
+*MOT:	mm:.
+*MOT:	mm +//.
+*MOT:	oh I have to get yer [: your] hat William.
+*CHI:	xx. %mov:"WIL01"_2387600_2388568
+*MOT:	Mommy has to get yer [: your] hat, the sun's right there.
+*CHI:	mm mm. %mov:"WIL01"_2388568_2391240
+%pht:	/"=m "=m/
+*CHI:	mm. %mov:"WIL01"_2391240_2393553
+%pht:	/"=m/
+*MOT:	I'll be right back out, get his hat. %mov:"WIL01"_2393553_2398585
+*OPE:	that's okay.
+*MOT:	I think, um +... %mov:"WIL01"_2398585_2403353
+*MOT:	something +... %mov:"WIL01"_2403353_2406248
+*CHI:	cup [?]? %mov:"WIL01"_2406048_2407213
+%pht:	/"kA/
+	%mov:"WIL01"_2407113_2424000
+*CHI:	up. %mov:"WIL01"_2424000_2425950
+%pht:	/"V?/
+*CHI:	yy. %mov:"WIL01"_2425951_2427153
+%pht:	/"{:/
+*CHI:	xx. %mov:"WIL01"_2427153_2432413
+*CHI:	xx xx xx. %mov:"WIL01"_2432413_2437058
+*CHI:	yy yy yy yy. %mov:"WIL01"_2437058_2441893
+%pht:	/"snI "snE "s=n "s=n/
+*CHI:	xx xx xx. %mov:"WIL01"_2441893_2445411
+*CHI:	mommy [?]. %mov:"WIL01"_2445411_2448751
+%pht:	/"=m"mV/
+*CHI:	sit [?]. %mov:"WIL01"_2448751_2450928
+%pht:	/"tsI/
+*CHI:	sit [?]. %mov:"WIL01"_2450928_2451831
+%pht:	/"sI?/
+*CHI:	sit [?]. %mov:"WIL01"_2451831_2452865
+%pht:	/"tI?/
+*MOT:	woo:! %mov:"WIL01"_2452865_2458640
+*CHI:	hat [?]. %mov:"WIL01"_2458640_2461121
+%pht:	/"hV/
+*OPE:	much happier out here.
+*MOT:	hat, hat. %mov:"WIL01"_2461121_2462976
+*MOT:	hat. %mov:"WIL01"_2462976_2464415
+*CHI:	yy yy. %mov:"WIL01"_2464415_2467840
+%pht:	/"wi: i"eI/
+*MOT:	thank you.
+*CHI:	xx hat. %mov:"WIL01"_2467840_2479170
+%pht:	/"{:/
+*MOT:	hat, yes, it's +//.
+*MOT:	the sun's out, huh?
+*MOT:	you need yer [: your] hat on.
+*CHI:	yy. %mov:"WIL01"_2479170_2480775
+%pht:	/"V/
+*MOT:	hot. %mov:"WIL01"_2480775_2481983
+*MOT:	hot.
+*CHI:	hot. %mov:"WIL01"_2481983_2485448
+%pht:	/"hA/
+*CHI:	"wi@u [: whee]. %mov:"WIL01"_2485448_2488983
+%pht:	/"wi:/
+*MOT:	whee:.
+*CHI:	whee. %mov:"WIL01"_2488983_2491698
+%pht:	/"hi:/
+*MOT:	whee.
+*CHI:	up [?]. %mov:"WIL01"_2491698_2498170
+%pht:	/"V?/
+*MOT:	hot.
+*CHI:	up [?] yy up [?] yy. %mov:"WIL01"_2498170_2501058
+%pht:	/"Vp "wi: "Vp "i:/
+*CHI:	hot [?]. %mov:"WIL01"_2501058_2505098
+%pht:	/"A:/
+*MOT:	hot.
+*CHI:	hot. %mov:"WIL01"_2505098_2509275
+%pht:	/hAt=s:/
+*MOT:	yeah [: yes], hot, "sː@u [: ss].
+*CHI:	yy hot yy. %mov:"WIL01"_2509275_2512561
+%pht:	/"i: "hAt"hi "hi/
+*CHI:	sit [?]. %mov:"WIL01"_2512561_2515826
+%pht:	/"hI/
+*MOT:	whadya [: what do you] do here?
+*CHI:	sit. %mov:"WIL01"_2515826_2518721
+%pht:	/"sI/
+*MOT:	sit, yes.
+*CHI:	sit.
+%pht:	/"hI/
+*MOT:	sit. %mov:"WIL01"_2518721_2519530
+*MOT:	woo:. %mov:"WIL01"_2519530_2522368
+*MOT:	woo:. %mov:"WIL01"_2522368_2525385
+*MOT:	you're very funny.
+*CHI:	up. %mov:"WIL01"_2525385_2527225
+%pht:	/"V?/
+*MOT:	up. %mov:"WIL01"_2527225_2528585
+*MOT:	yep, you can get yourself up. %mov:"WIL01"_2528585_2530225
+*MOT:	hold on, Mommy wants ta [: to] +... %mov:"WIL01"_2530225_2531828
+*MOT:	camere [: come here] William. %mov:"WIL01"_2531828_2537328
+*MOT:	xx camere [: come here] funny boy. %mov:"WIL01"_2537328_2541728
+*MOT:	camere [: come here]. %mov:"WIL01"_2541728_2543383
+*MOT:	okay. %mov:"WIL01"_2543383_2544695
+*CHI:	whee. %mov:"WIL01"_2544695_2553823
+%pht:	/"wi:/
+*MOT:	whee:.
+*MOT:	what're you doing, are you climbing up the stairs? %mov:"WIL01"_2553823_2557048
+*MOT:	climbing up the stairs? %mov:"WIL01"_2557048_2560151
+*CHI:	stairs. %mov:"WIL01"_2560151_2562720
+%pht:	/dUk"deI/
+*MOT:	stairs, yeah [: yes]. %mov:"WIL01"_2562720_2564191
+*MOT:	go ahead. %mov:"WIL01"_2564191_2566263
+*MOT:	can you go up? %mov:"WIL01"_2566263_2569151
+*CHI:	up. %mov:"WIL01"_2569151_2570623
+%pht:	/"hrVp/
+*MOT:	up.
+*CHI:	yy. %mov:"WIL01"_2570623_2572523
+%pht:	/"A:/
+*CHI:	yy. %mov:"WIL01"_2572523_2574883
+%pht:	/"A?/
+*CHI:	yy. %mov:"WIL01"_2574883_2576621
+%pht:	/"V? "A/
+*CHI:	yy yy yy. %mov:"WIL01"_2576621_2592000
+%pht:	/"A "A "{?/
+*CHI:	whee. %mov:"WIL01"_2592000_2593826
+%pht:	/"i:/
+*CHI:	whee. %mov:"WIL01"_2593828_2594956
+%pht:	/@"i:/
+*CHI:	whee. %mov:"WIL01"_2594956_2596213
+%pht:	/"i:/
+*MOT:	go ahead. %mov:"WIL01"_2596213_2600610
+*MOT:	whee:. %mov:"WIL01"_2600610_2605163
+*MOT:	ya:y. %mov:"WIL01"_2605163_2616000
+*CHI:	yy yy. %mov:"WIL01"_2616000_2618850
+%pht:	/"gV "{/
+*CHI:	yy. %mov:"WIL01"_2618851_2622410
+%pht:	/"dA/
+*MOT:	go ahead. %mov:"WIL01"_2622410_2630000
+*CHI:	up. %mov:"WIL01"_2630000_2631370
+%pht:	/"A?/
+*MOT:	go ahead. %mov:"WIL01"_2631370_2636546
+*CHI:	xx. %mov:"WIL01"_2636546_2645000
+*CHI:	yy. %mov:"WIL01"_2645000_2646705
+%pht:	/"=mv@/
+*CHI:	yy yy. %mov:"WIL01"_2646705_2649208
+%pht:	/"tI "eI/
+*CHI:	xx. %mov:"WIL01"_2649208_2656806
+*MOT:	go ahead.
+*MOT:	I'm comin [: coming] down, okay. %mov:"WIL01"_2656806_2660513
+*CHI:	xx. %mov:"WIL01"_2660513_2662233
+*MOT:	xx plastic doing here?
+*CHI:	whee! %mov:"WIL01"_2662233_2666625
+%pht:	/"bi:/
+*MOT:	whee:, good job.
+*MOT:	ya:y!
+*CHI:	sit? %mov:"WIL01"_2666625_2668960
+%pht:	/"sI/
+*MOT:	sit, that's right.
+*CHI:	xx. %mov:"WIL01"_2668960_2670448
+*MOT:	n' [: and] you sat, that was a good job. %mov:"WIL01"_2670448_2672663
+*CHI:	yy. %mov:"WIL01"_2672663_2675568
+%pht:	/"s:V/
+*MOT:	mm+hmm.
+*CHI:	yy? %mov:"WIL01"_2675568_2677343
+%pht:	/"t=n/
+*CHI:	yy yy. %mov:"WIL01"_2677343_2679850
+%pht:	/"tU "SIS/
+*CHI:	yy yy yy? %mov:"WIL01"_2679850_2685456
+%pht:	/"sU "tU "sU/
+*CHI:	swing? %mov:"WIL01"_2685456_2686945
+%pht:	/"s=n/
+*MOT:	swing? %mov:"WIL01"_2686945_2687881
+*MOT:	you wanna [: want to] go on the swing? %mov:"WIL01"_2687881_2690090
+*CHI:	yes [?]. %mov:"WIL01"_2690090_2692025
+%pht:	/"eI/
+*MOT:	dyou [: do you] wanna [: want to] push it?
+*CHI:	up? %mov:"WIL01"_2692025_2698751
+%pht:	/"V?/
+*MOT:	up?
+*MOT:	okay. %mov:"WIL01"_2698751_2699973
+*MOT:	that's a good way to ask, William.
+*CHI:	xx. %mov:"WIL01"_2699973_2704316
+*MOT:	that's a good way to ask.
+*MOT:	to come up, for Mommy to pick you up. %mov:"WIL01"_2704316_2707460
+*CHI:	xx. %mov:"WIL01"_2707460_2709045
+*MOT:	yes.
+*MOT:	that was a good job. %mov:"WIL01"_2709045_2711168
+*CHI:	yy? %mov:"WIL01"_2711168_2713383
+%pht:	/"dI/
+*MOT:	yeah [: yes].
+*MOT:	xx just pick ya [: you] up a little bit, there ya [: you] go. %mov:"WIL01"_2713383_2716743
+*MOT:	woo! %mov:"WIL01"_2716743_2753613
+*MOT:	woo! %mov:"WIL01"_2753613_2755255
+*MOT:	woo! %mov:"WIL01"_2755255_2757745
+*MOT:	woo! %mov:"WIL01"_2757745_2760295
+*MOT:	gonna [: going to] getcher [: get your] feet, gonna [: going to]
+	getcher [: get your] feet! %mov:"WIL01"_2760295_2763166
+*MOT:	a:h, gonna [: going to] getcher [: get your] xx! %mov:"WIL01"_2763166_2766343
+*CHI:	yy. %mov:"WIL01"_2766343_2770095
+%pht:	/"hwE/
+*CHI:	yy. %mov:"WIL01"_2770095_2772285
+%pht:	/E"wV/
+*MOT:	what?
+*CHI:	yy. %mov:"WIL01"_2772285_2775020
+%pht:	/"V/
+*MOT:	is that a tree? %mov:"WIL01"_2775020_2777060
+*MOT:	tree? %mov:"WIL01"_2777060_2779420
+*CHI:	tree? %mov:"WIL01"_2779420_2781523
+%pht:	/"ti/
+*MOT:	that's a tree. %mov:"WIL01"_2781523_2782900
+*MOT:	this. %mov:"WIL01"_2782900_2784611
+*MOT:	tree. %mov:"WIL01"_2784611_2787116
+*CHI:	tree. %mov:"WIL01"_2787116_2789660
+%pht:	/"ki/
+*MOT:	tree.
+*MOT:	where's the sky? %mov:"WIL01"_2789660_2791763
+*CHI:	sky. %mov:"WIL01"_2791763_2794388
+%pht:	/"skaI/
+*MOT:	sky, that's right.
+*MOT:	what're you in, what is this? %mov:"WIL01"_2794388_2799278
+*CHI:	yy. %mov:"WIL01"_2799078_2801586
+%pht:	/"steIw/
+*MOT:	what's this?
+*CHI:	yy. %mov:"WIL01"_2801586_2802971
+%pht:	/"kU/
+*MOT:	swing? %mov:"WIL01"_2802971_2804196
+*MOT:	can you say swing? %mov:"WIL01"_2804196_2805653
+*CHI:	swing. %mov:"WIL01"_2805653_2808796
+%pht:	/"swE/
+*MOT:	swi:ng.
+*MOT:	I'm gonna [: going to] getcha [: get you], I'm gonna [: going to]
+	getcha [: get you]! %mov:"WIL01"_2808796_2822968
+*MOT:	I'm gonna [: going to] getcha [: get you] xx! %mov:"WIL01"_2822968_2825246
+*MOT:	hey. %mov:"WIL01"_2825246_2876825
+*CHI:	yy. %mov:"WIL01"_2876825_2880121
+%pht:	/"h=n?"hUw@/
+*CHI:	xx. %mov:"WIL01"_2880121_2887791
+*MOT:	zoo! %mov:"WIL01"_2887793_2897818
+*MOT:	zoo:! %mov:"WIL01"_2897818_2900721
+*CHI:	yy swing, swing? %mov:"WIL01"_2900721_2905921
+%pht:	/"keIjV "sw=n "swI/
+*MOT:	swing? %mov:"WIL01"_2905921_2907170
+*MOT:	oh, you wanna [: want to] swing on there? %mov:"WIL01"_2907170_2909418
+*MOT:	wanna [: want to] go up the slide?
+*MOT:	go down the slide? %mov:"WIL01"_2909418_2913016
+*MOT:	what's that? %mov:"WIL01"_2913016_2917030
+*MOT:	oh don't cry, tell Mommy xx +...
+*MOT:	o:kay. %mov:"WIL01"_2917030_2922211
+*MOT:	don't cry, use yer [: your] words, love. %mov:"WIL01"_2922211_2925838
+*MOT:	tell Mommy. %mov:"WIL01"_2925838_2927501
+*MOT:	don't stop, Mommy. %mov:"WIL01"_2927501_2929638
+*MOT:	swing me please. %mov:"WIL01"_2929638_2931686
+*MOT:	what's xx. %mov:"WIL01"_2931686_2952000
+*CHI:	yy. %mov:"WIL01"_2952000_2953781
+%pht:	/"heIj@/
+*MOT:	is that what you're tryin [: trying] to tell me? %mov:"WIL01"_2953783_2960446
+*MOT:	mm: zoo! %mov:"WIL01"_2960446_2963178
+*MOT:	zoo! %mov:"WIL01"_2963178_2965816
+*MOT:	zoo! %mov:"WIL01"_2965816_2968520
+*MOT:	zoo! %mov:"WIL01"_2968520_2970953
+*MOT:	zoo! %mov:"WIL01"_2970953_2973811
+*MOT:	the itsy bitsy spider climbed up the water spout. %mov:"WIL01"_2973811_2983811
+*MOT:	down came +//.
+*MOT:	oh you wanna [: want to] do twinkle twinkle? %mov:"WIL01"_2983811_2987058
+*MOT:	twinkle, twinkle, little star. %mov:"WIL01"_2987058_2991761
+*MOT:	how I wonder what you are.
+*CHI:	yay. %mov:"WIL01"_2991761_2997360
+%pht:	/"eI:/
+*MOT:	up +//.
+*MOT:	yay!
+*MOT:	above the world so high. %mov:"WIL01"_2997360_3001960
+*MOT:	like a diamond in the sky. %mov:"WIL01"_3001960_3005968
+*MOT:	twinkle, twinkle, little star. %mov:"WIL01"_3005968_3010385
+*MOT:	how I wonder what you are. %mov:"WIL01"_3010385_3014358
+*CHI:	yay! %mov:"WIL01"_3014358_3018446
+%pht:	/"eI:/
+*MOT:	ya:y!
+*MOT:	ya:y! %mov:"WIL01"_3018446_3024461
+*CHI:	up. %mov:"WIL01"_3024461_3027415
+%pht:	/"hO?/
+*MOT:	up. %mov:"WIL01"_3027415_3028375
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_3028375_3035731
+*MOT:	if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_3035731_3039611
+*MOT:	if you're happy and ya [: you] know it and you really want to show
+	it, if you're happy and ya [: you] know it clap yer [: your] hands. %mov:"WIL01"_3039611_3046883
+*MOT:	if you're happy and ya [: you] know it say tada. %mov:"WIL01"_3046883_3050498
+*MOT:	tada:. %mov:"WIL01"_3050498_3052098
+*MOT:	if you're happy and ya [: you] know it say tada. %mov:"WIL01"_3052098_3054850
+*MOT:	tada:. %mov:"WIL01"_3054850_3056331
+*MOT:	if you're happy and you know it and you really want to show it if
+	you're happy and ya [: you] know it say tada. %mov:"WIL01"_3056331_3063315
+*MOT:	tada:! %mov:"WIL01"_3063315_3065390
+*MOT:	i:f you:'re happy and ya [: you] know it beep yer [: your] nose. %mov:"WIL01"_3065390_3071078
+*MOT:	beep beep. %mov:"WIL01"_3071078_3072998
+*MOT:	if you're happy and ya [: you] know if beep yer [: your] nose. %mov:"WIL01"_3072998_3075415
+*MOT:	beep beep. %mov:"WIL01"_3075415_3077190
+*MOT:	if you're happy and ya [: you] know it and you really want to show
+	it if you're happy and ya [: you] know it beep yer [: your] nose. %mov:"WIL01"_3077190_3084686
+*MOT:	beep beep. %mov:"WIL01"_3084686_3086998
+*CHI:	yy? %mov:"WIL01"_3086998_3089888
+%pht:	/"s=n/
+*MOT:	yea:h. %mov:"WIL01"_3089888_3106105
+*MOT:	what's that? %mov:"WIL01"_3106105_3118841
+*CHI:	car. %mov:"WIL01"_3118841_3119856
+%pht:	/"kA/
+*MOT:	that's a truck. %mov:"WIL01"_3119856_3121288
+*MOT:	that's a truck backing up. %mov:"WIL01"_3121288_3123096
+*CHI:	car. %mov:"WIL01"_3123096_3124970
+%pht:	/"kA/
+*MOT:	yeah [: yes].
+*MOT:	car. %mov:"WIL01"_3124970_3126353
+*CHI:	car. %mov:"WIL01"_3126353_3129028
+%pht:	/"kA/
+*MOT:	car:.
+*MOT:	it's hot in the sun William. %mov:"WIL01"_3129028_3132983
+*CHI:	yy. %mov:"WIL01"_3132983_3135276
+%pht:	/"AS/
+*MOT:	yeah [: yes], hot.
+*MOT:	Mommy's [: Mommy is] hot standing in the sun. %mov:"WIL01"_3135276_3137411
+*MOT:	aren't you hot? %mov:"WIL01"_3137411_3138566
+*CHI:	yy. %mov:"WIL01"_3138566_3141183
+%pht:	/@S"bi/
+*MOT:	hot?
+*CHI:	hot. %mov:"WIL01"_3141183_3144783
+%pht:	/"AtS/
+*MOT:	you wanna [: want to] go down the slide?
+*MOT:	it won't be so hot. %mov:"WIL01"_3144783_3146408
+*MOT:	uh?
+*MOT:	no? %mov:"WIL01"_3146408_3148486
+*MOT:	just say no. %mov:"WIL01"_3148486_3149855
+*MOT:	not right now Mommy. %mov:"WIL01"_3149855_3161000
+*CHI:	yy. %mov:"WIL01"_3161000_3162146
+%pht:	/"A/
+*CHI:	car. %mov:"WIL01"_3162146_3164388
+%pht:	/"kA/
+*MOT:	hot.
+*MOT:	swi:ng.
+*CHI:	swing. %mov:"WIL01"_3164388_3170275
+%pht:	/"Si/
+*MOT:	swi:ng. %mov:"WIL01"_3170275_3171550
+*CHI:	yy yy. %mov:"WIL01"_3171550_3175013
+%pht:	/"peI "p=n/
+*MOT:	yeah [: yes].
+*CHI:	mama [?]. %mov:"WIL01"_3175013_3176478
+%pht:	/"mVm=m/
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3176478_3189061
+*MOT:	how does it go? %mov:"WIL01"_3189061_3191383
+*CHI:	I O. %mov:"WIL01"_3191383_3195210
+%pht:	/"aIj@/
+*MOT:	yeah [: yes], E I E I O.
+*MOT:	and on that farm +//.
+*MOT:	what did he have on the farm? %mov:"WIL01"_3195210_3198210
+*CHI:	swing. %mov:"WIL01"_3198210_3199368
+%pht:	/"s=n/
+*MOT:	what does that say?
+*CHI:	swing. %mov:"WIL01"_3199368_3201231
+%pht:	/"swi/
+*MOT:	that's a swing. %mov:"WIL01"_3201231_3202638
+*MOT:	how bout [: about] a pig?
+*MOT:	on that farm he had a pig. %mov:"WIL01"_3202638_3205476
+*MOT:	E I E I O, n' [: and] what's the pig say? %mov:"WIL01"_3205476_3208241
+*CHI:	xx. %mov:"WIL01"_3208241_3209261
+*MOT:	with an "ɔɪŋk@u [: oink] oink here and an oink oink there. %mov:"WIL01"_3209261_3212420
+*MOT:	here an oink +...
+*CHI:	doggie. %mov:"WIL01"_3212420_3217411
+%pht:	/"dA"gi/
+*MOT:	oh you want a doggie?
+*MOT:	Old Macdonald had a farm.
+*MOT:	E I E I O. %mov:"WIL01"_3217411_3219523
+*MOT:	and on that farm he had a # doggie:. %mov:"WIL01"_3219523_3224211
+*MOT:	E I E I O, with a +... %mov:"WIL01"_3224211_3226683
+*MOT:	what's the doggie +//?
+*CHI:	woof woof. %mov:"WIL01"_3226683_3230060
+%pht:	/"=m "=m/
+*MOT:	yeah [: yes].
+*MOT:	there, and a +...
+*CHI:	woof woof, woof. %mov:"WIL01"_3230060_3236563
+%pht:	/"=m "=m "=m/
+*MOT:	woof woof xx, here a woof, there a woof, that's right, everywhere a
+	woof woof.
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3236563_3239888
+*MOT:	E I E I O. %mov:"WIL01"_3239888_3241780
+*MOT:	and on that farm he had a horse. %mov:"WIL01"_3241780_3244971
+*MOT:	E I E I O, n' [: and] what'd the horse say? %mov:"WIL01"_3244971_3248165
+*CHI:	"neɪ@u [: neigh]. %mov:"WIL01"_3248165_3253355
+%pht:	/"eI/
+*MOT:	nei:gh, with a "neɪ@u [: neigh] here, and a neigh there.
+*MOT:	here a neigh, there a neigh, everywhere a neigh +...
+*CHI:	doggie [?]. %mov:"WIL01"_3253355_3256163
+%pht:	/"{"di/
+*MOT:	we already did doggie:. %mov:"WIL01"_3256163_3258220
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3258220_3261611
+*MOT:	how bout [: about] a donkey, E I E I O. %mov:"WIL01"_3261611_3264515
+*MOT:	and on that farm he had a donkey. %mov:"WIL01"_3264515_3266456
+*MOT:	what'd the donkey say?
+*CHI:	yy yy. %mov:"WIL01"_3266456_3269370
+%pht:	/"=n "g=n/
+*MOT:	hee ha:w.
+*CHI:	yy. %mov:"WIL01"_3269370_3273250
+%pht:	/g@"dU/
+*MOT:	with a hee haw there n' [: and] a hee haw here.
+*MOT:	there a hee haw, there a hee haw, everywhere a hee haw. %mov:"WIL01"_3273250_3277930
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3277930_3281498
+*MOT:	E I E I O. %mov:"WIL01"_3281498_3283570
+*MOT:	what else, how bout [: about] a sheep, and on that farm he had a
+	sheep, E I E I O, what'd the sheep say? %mov:"WIL01"_3283570_3291643
+*CHI:	xx. %mov:"WIL01"_3291643_3296483
+%com:	William utters a prolonged squeak, coherently emulating the
+	creaky vowel sound in a sheep's "baaaa."
+*MOT:	bah:, that's right.
+*MOT:	with a bah here and a bah there. %mov:"WIL01"_3296483_3301460
+*MOT:	here a bah there a bah, everywhere a ba:h. %mov:"WIL01"_3301460_3304291
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3304291_3306700
+*MOT:	E I E I O. %mov:"WIL01"_3306700_3308433
+*MOT:	and on that farm +//.
+*MOT:	this was a special farm. %mov:"WIL01"_3308433_3310691
+*CHI:	xx. %mov:"WIL01"_3310691_3312980
+*MOT:	he had a lion.
+*CHI:	lion [?]. %mov:"WIL01"_3312980_3315235
+%pht:	/"Vn@/
+*MOT:	E I E I O.
+*MOT:	what'd the lion say? %mov:"WIL01"_3315235_3317385
+*CHI:	yy. %mov:"WIL01"_3317385_3321556
+%pht:	/"haI:/
+%sit:	this is a roar sound.
+*MOT:	that's right, with a roa:r here and a roa:r there.
+*MOT:	here a roar there a roar, everywhere a roa:r. %mov:"WIL01"_3321556_3324986
+*MOT:	old Macdonald had a farm. %mov:"WIL01"_3324986_3328626
+*MOT:	E I E I O. %mov:"WIL01"_3328626_3330923
+*MOT:	let's put this hat down. %mov:"WIL01"_3330923_3347211
+*MOT:	xx, kay [: okay]? %mov:"WIL01"_3347211_3352995
+*MOT:	whee:. %mov:"WIL01"_3352995_3357843
+*MOT:	whee:! %mov:"WIL01"_3357843_3361106
+*MOT:	what? %mov:"WIL01"_3361106_3405498
+*CHI:	hot. %mov:"WIL01"_3405498_3409293
+%pht:	/"At/
+*MOT:	it's hot.
+*MOT:	dya [: do you] wanna [: want to] come in the shade? %mov:"WIL01"_3409293_3411110
+*MOT:	xx play in here?
+*CHI:	yy. %mov:"WIL01"_3411110_3413253
+%pht:	/"V/
+*MOT:	huh?
+*CHI:	house [?]. %mov:"WIL01"_3413253_3414948
+%pht:	/"AS/
+*MOT:	house? %mov:"WIL01"_3414948_3416690
+*MOT:	is that the house? %mov:"WIL01"_3416690_3418126
+*CHI:	yy. %mov:"WIL01"_3418126_3423295
+%pht:	/"{ "h=m/
+*MOT:	yeah [: yes]. %mov:"WIL01"_3423295_3432175
+*MOT:	dyou [: do you] wanna [: want to] go in the house now? %mov:"WIL01"_3432175_3434318
+*MOT:	hello. %mov:"WIL01"_3434318_3435676
+%sit:	to MAN off camera
+*ADU:	how's he like these little +...
+*MOT:	oh he loves it. %mov:"WIL01"_3435676_3449103
+*MOT:	yeah [: yes]. %mov:"WIL01"_3449103_3450086
+*ADU:	that's good.
+*MOT:	we're being filmed right now. %mov:"WIL01"_3450086_3453718
+*MOT:	we're being filmed. %mov:"WIL01"_3453718_3455223
+*ADU:	oh jeez I didn't even see.
+*MOT:	woo:, hold on. %mov:"WIL01"_3455223_3492615
+*MOT:	where's yer [: your] hat? %mov:"WIL01"_3492615_3494841
+*MOT:	hat on. %mov:"WIL01"_3494841_3497521
+*MOT:	xx down the slide? %mov:"WIL01"_3497521_3503986
+*CHI:	yy? %mov:"WIL01"_3503986_3508010
+%pht:	/"E/
+*MOT:	oh William Mommy's [: Mommy is] so hot.
+*MOT:	o:h come on.
+*MOT:	Mommy's [: Mommy is] so hot, I'm hot. %mov:"WIL01"_3508010_3510651
+*MOT:	aren't you hot? %mov:"WIL01"_3510651_3512748
+*MOT:	can you say hot? %mov:"WIL01"_3512748_3515796
+*MOT:	can you say +//.
+*MOT:	can you say hot? %mov:"WIL01"_3515796_3519365
+*CHI:	hot. %mov:"WIL01"_3519365_3523083
+%pht:	/"hV?/
+*MOT:	hot, woo:!
+*MOT:	hot. %mov:"WIL01"_3523083_3529585
+*MOT:	woo:. %mov:"WIL01"_3529585_3557000
+*CHI:	xx. %mov:"WIL01"_3557000_3558680
+*CHI:	xx. %mov:"WIL01"_3558681_3563346
+*MOT:	shoe toe:.
+*MOT:	shoe, where you going? %mov:"WIL01"_3563346_3566843
+*MOT:	where you goin [: going]? %mov:"WIL01"_3566843_3568255
+*CHI:	yy. %mov:"WIL01"_3568255_3570030
+%pht:	/"E?/
+*MOT:	eh.
+*MOT:	what? %mov:"WIL01"_3570030_3574191
+*MOT:	wanna [: want to] get down? %mov:"WIL01"_3574191_3575015
+*MOT:	wanna [: want to] get down? %mov:"WIL01"_3575015_3579008
+*MOT:	do ya [: you] wanna [: want to] get down? %mov:"WIL01"_3579008_3582023
+*MOT:	just say no. %mov:"WIL01"_3582023_3585150
+*MOT:	you're tired William? %mov:"WIL01"_3585150_3610160
+*MOT:	you tired? %mov:"WIL01"_3610160_3612730
+*CHI:	tired [?]. %mov:"WIL01"_3612730_3617611
+%pht:	/"h{o:/
+*MOT:	tired.
+*MOT:	dyou [: do you] wanna [: want to] go for a walk? %mov:"WIL01"_3617611_3619173
+*MOT:	William? %mov:"WIL01"_3619173_3621925
+*MOT:	no? %mov:"WIL01"_3621925_3624076
+*MOT:	dya [: do you] wanna [: want to] play patty cake? %mov:"WIL01"_3624076_3629180
+*MOT:	wanna [: want to] play patty cake? %mov:"WIL01"_3629180_3631925
+*MOT:	here. %mov:"WIL01"_3631925_3633996
+*MOT:	come on. %mov:"WIL01"_3633996_3637245
+*MOT:	c'mon [: come on] , come on. %mov:"WIL01"_3637245_3639851
+*MOT:	play patty cake? %mov:"WIL01"_3639851_3641516
+*MOT:	can't do it while you swing +//.
+*MOT:	pa:tty cake. %mov:"WIL01"_3641516_3644916
+*MOT:	pa:tty cake, c'mon [: come on] . %mov:"WIL01"_3644916_3646721
+*MOT:	you don't wanna [: want to] play patty cake? %mov:"WIL01"_3646721_3650305
+*CHI:	yy. %mov:"WIL01"_3650305_3654425
+%pht:	/"kEdeI/
+*CHI:	whee! %mov:"WIL01"_3654425_3658976
+%pht:	/"wi:/
+*MOT:	whee:.
+*MOT:	done? %mov:"WIL01"_3658976_3660953
+%sit:	to Jessica
+@End
