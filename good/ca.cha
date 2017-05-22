@@ -24,8 +24,10 @@
 *MOT:	<a ⌊ bottom begin overlap , bottom end overlap ⌋ there> [= foo] .
 *CHI:	<a ⌈ top begin overlap , top end overlap⌉ here> [= foo] .
 *MOT:	<a ⌊ bottom begin overlap , bottom end overlap⌋ there> [= foo] .
+@Comment:	Segment repetition
+*CHI:	↫s-s-s↫segment .
+*CHI:	↫s-s-s↫seg↫m-m-m-m↫ments .
 @Comment:	Unmatched delimiters
-*CHI:	initial segment repetition ↫b-b-b↫boy .
 *CHI:	a ∆faster∆ .
 *CHI:	a ∇slower∇ .
 *CHI:	a ⁎creaky⁎ .
