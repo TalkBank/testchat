@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="58LL13" Mediatypes="video"
       Font="Win95::0:0"
-      Version="2.3.0"
+      Version="2.4.0"
       Lang="eng"
       Corpus="gesture"
       Date="1984-01-01">

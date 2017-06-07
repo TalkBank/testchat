@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="01" Mediatypes="video"
       Font="Arial:14:0"
-      Version="2.3.0"
+      Version="2.4.0"
       Lang="fra"
       Corpus="Anae"
       Date="2007-12-07">

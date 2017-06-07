@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Font="Arial Unicode MS:12:1"
-      Version="2.3.0"
+      Version="2.4.0"
       Lang="spa"
       Corpus="timmy"
       Date="1984-01-01">
