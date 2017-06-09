@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Font="Win95:Courier:-13:177"
-      Version="2.4.0"
+      Version="2.5.0"
       Lang="heb"
       Corpus="BermanLong"
       Date="1990-02-15">

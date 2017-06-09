@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="01" Mediatypes="video"
-      Version="2.4.0"
+      Version="2.5.0"
       Lang="fra"
       Corpus="Paris-Corpus_Leonard"
       Date="1992-06-23">

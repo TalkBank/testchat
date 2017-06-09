@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="46" Mediatypes="audio"
-      Version="2.4.0"
+      Version="2.5.0"
       Lang="eng"
       Corpus="SBCSAE"
       Date="1984-01-01">

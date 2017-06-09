@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Colorwords="%com 1 0 32896 16448 %tim: 1 65535 0 0"
-      Version="2.4.0"
+      Version="2.5.0"
       Lang="eng"
       Corpus="peters"
       Date="1982-07-19">
