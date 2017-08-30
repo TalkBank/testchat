@@ -4,14 +4,14 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Version="2.5.0"
-      Lang="zho-min eng"
+      Lang="zho eng"
       Corpus="bates"
       Date="1964-07-23">
   <Participants>
     <participant
       id="CHI"
       role="Child"
-      language="zho-min eng"
+      language="zho eng"
       age="P1Y8M"
       sex="female"
       group="normal"
@@ -20,11 +20,11 @@
     <participant
       id="MOT"
       role="Mother"
-      language="zho-min eng"
+      language="zho eng"
 
     />
   </Participants>
-  <comment type="New Language">zho-min</comment>
+  <comment type="New Language">zho</comment>
   <comment type="Date">23-JUL-1964</comment>
   <u who="CHI" uID="u0">
     <w>a</w>
