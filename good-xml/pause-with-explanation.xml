@@ -3,31 +3,35 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="thrills" Mediatypes="video"
+      Font="Arial Unicode MS:12:1"
       Version="2.6.0"
       Lang="eng"
-      Corpus="bates"
+      Corpus="sample"
       Date="1984-01-01">
   <Participants>
-    <participant
-      id="CHI"
-      role="Child"
-      language="eng"
-      age="P1Y8M"
-      sex="female"
-      group="normal"
-
-    />
     <participant
       id="MOT"
       role="Mother"
       language="eng"
 
     />
-  </Participants>
-  <comment type="Generic">chemical formula</comment>
-  <u who="CHI" uID="u0">
-    <e><happening>C17H21NO4</happening></e>
-    <t type="p"></t>
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P1Y10M4D"
 
+    />
+  </Participants>
+  <comment type="Generic">pause cannot have comment unless wrapped in group</comment>
+  <u who="CHI" uID="u0">
+    <g><pause symbolic-length="simple" length="0.4"/><ga type="explanation">WHO CHI TYPE walking</ga></g>
+    <t type="p"></t>
+    <media
+      start="4.818"
+      end="5.330"
+      unit="s"
+    />
   </u>
 </CHAT>

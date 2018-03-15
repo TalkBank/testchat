@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="ac010921" Mediatypes="video"
-      Version="2.5.0"
+      Version="2.6.0"
       Lang="zho eng"
       Corpus="yipmatthews"
       Date="2001-09-21">

@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Media="fraq5136" Mediatypes="audio"
-      Version="2.5.0"
+      Version="2.6.0"
       Lang="fra"
       Options="CA"
       Corpus="CLAPIcf"

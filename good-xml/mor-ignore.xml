@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
       Font="CAfont:12:0"
-      Version="2.5.0"
+      Version="2.6.0"
       Lang="eng"
       Corpus="timmy"
       Date="1984-01-01">
@@ -43,8 +43,8 @@
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
-    <g><w>one</w><k type="retracing"/></g>
-    <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
+    <g><w>mor</w><k type="mor exclude"/></g>
+    <w>exclude<mor type="mor"><mw><pos><c>n</c></pos><stem>exclude</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
@@ -52,7 +52,7 @@
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
-    <g><w>two</w><k type="retracing with correction"/></g>
+    <g><w>one</w><k type="retracing"/></g>
     <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
@@ -61,7 +61,7 @@
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
-    <g><w>three</w><k type="retracing reformulation"/></g>
+    <g><w>two</w><k type="retracing with correction"/></g>
     <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
@@ -70,7 +70,7 @@
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
-    <g><w>four</w><k type="false start"/></g>
+    <g><w>three</w><k type="retracing reformulation"/></g>
     <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
@@ -79,12 +79,21 @@
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
-    <g><w>five</w><k type="retracing unclear"/></g>
+    <g><w>four</w><k type="false start"/></g>
     <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
   <u who="CHI" uID="u5">
+    <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
+    <g><w>five</w><k type="retracing unclear"/></g>
+    <w>retrace<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u6">
     <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
@@ -95,7 +104,7 @@
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
-  <u who="CHI" uID="u6">
+  <u who="CHI" uID="u7">
     <w>here<mor type="mor"><mw><pos><c>adv</c><s>loc</s></pos><stem>here</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
@@ -104,7 +113,7 @@
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
-  <u who="CHI" uID="u7">
+  <u who="CHI" uID="u8">
     <w>here<mor type="mor"><mw><pos><c>adv</c><s>loc</s></pos><stem>here</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
@@ -112,7 +121,7 @@
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
-  <u who="CHI" uID="u8">
+  <u who="CHI" uID="u9">
     <w>here<mor type="mor"><mw><pos><c>adv</c><s>loc</s></pos><stem>here</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
@@ -120,7 +129,7 @@
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
-  <u who="CHI" uID="u9">
+  <u who="CHI" uID="u10">
     <w>here<mor type="mor"><mw><pos><c>adv</c><s>loc</s></pos><stem>here</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
     <w>an<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
