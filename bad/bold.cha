@@ -2,7 +2,7 @@
 @Begin
 @Languages:	en, zh, Legacy
 @Participants:	ABC Child
-@ID:	en,zh,Legacy|bates|ABC|1;8. - 1;9.|female|normal||Child||
+@ID:	en,zh,Legacy|bates|ABC|1;08.|female|normal||Child||
 @Date:	01-FEB-1980
 *ABC:	test of text chars long speaker names.
 @End

@@ -2,10 +2,10 @@
 
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
-      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="tai-940505" Mediatypes="audio"
       Font="Arial Unicode MS:12:1"
-      Version="2.6.0"
+      Version="2.6.1"
       Lang="eng"
       Corpus="sample"
       Date="1984-01-01">
