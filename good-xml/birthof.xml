@@ -3,34 +3,34 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.6.1"
+      Version="2.7.0"
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-  <Participants>
-    <participant
-      id="CHI"
-      role="Child"
-      language="eng"
-      age="P1Y8M"
-      sex="female"
-      group="normal"
+<Participants>
+<participant
+  id="CHI"
+  role="Child"
+language="eng"
+age="P1Y08M"
+sex="female"
+group="normal"
 
-      birthday="2001-06-28"
+birthday="2001-06-28"
 
-    />
-    <participant
-      id="MOT"
-      role="Mother"
-      language="eng"
+/>
+<participant
+  id="MOT"
+  role="Mother"
+language="eng"
 
-    />
-  </Participants>
-  <u who="CHI" uID="u0">
-    <w>here</w>
-    <w>i</w>
-    <w>am</w>
-    <t type="e"></t>
+/>
+</Participants>
+<u who="CHI" uID="u0">
+<w>here</w>
+<w>i</w>
+<w>am</w>
+<t type="e"></t>
 
-  </u>
+</u>
 </CHAT>

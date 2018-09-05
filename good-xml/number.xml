@@ -3,37 +3,37 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.6.1"
+      Version="2.7.0"
       Lang="zho eng"
       Corpus="bates"
       Date="1984-01-01">
-  <Participants>
-    <participant
-      id="CHI"
-      role="Child"
-      language="zho eng"
-      age="P1Y8M"
-      sex="female"
-      group="normal"
+<Participants>
+<participant
+  id="CHI"
+  role="Child"
+language="zho eng"
+age="P1Y08M"
+sex="female"
+group="normal"
 
-    />
-    <participant
-      id="MOT"
-      role="Mother"
-      language="zho eng"
+/>
+<participant
+  id="MOT"
+  role="Mother"
+language="zho eng"
 
-    />
-  </Participants>
-  <comment type="New Language">zho</comment>
-  <u who="CHI" uID="u0">
-    <w>ha6</w>
-    <w>foo7</w>
-    <t type="p"></t>
+/>
+</Participants>
+<comment type="New Language">zho</comment>
+<u who="CHI" uID="u0">
+<w>ha6</w>
+<w>foo7</w>
+<t type="p"></t>
 
-  </u>
-  <u who="MOT" uID="u1">
-    <w>piao4<p type="drawl"/>liang4</w>
-    <t type="p"></t>
+</u>
+<u who="MOT" uID="u1">
+<w>piao4<p type="drawl"/>liang4</w>
+<t type="p"></t>
 
-  </u>
+</u>
 </CHAT>

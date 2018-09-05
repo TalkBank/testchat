@@ -3,36 +3,36 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.6.1"
+      Version="2.7.0"
       Lang="deu eng"
       Corpus="bates"
       Date="1984-01-01">
-  <Participants>
-    <participant
-      id="CHI"
-      role="Child"
-      language="deu eng"
-      age="P1Y8M"
-      sex="female"
-      group="normal"
+<Participants>
+<participant
+  id="CHI"
+  role="Child"
+language="deu eng"
+age="P1Y08M"
+sex="female"
+group="normal"
 
-    />
-    <participant
-      id="MOT"
-      role="Mother"
-      language="deu eng"
+/>
+<participant
+  id="MOT"
+  role="Mother"
+language="deu eng"
 
-    />
-  </Participants>
-  <comment type="Generic">compounds allowed</comment>
-  <u who="CHI" uID="u0">
-    <w formType="child-invented">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
-    <t type="p"></t>
+/>
+</Participants>
+<comment type="Generic">compounds allowed</comment>
+<u who="CHI" uID="u0">
+<w formType="child-invented">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
+<t type="p"></t>
 
-  </u>
-  <u who="CHI" uID="u1">
-    <w formType="neologism">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
-    <t type="p"></t>
+</u>
+<u who="CHI" uID="u1">
+<w formType="neologism">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
+<t type="p"></t>
 
-  </u>
+</u>
 </CHAT>

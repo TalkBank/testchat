@@ -4,44 +4,44 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="Arial Unicode MS:12:1"
-      Version="2.6.1"
+      Version="2.7.0"
       Lang="spa"
       Corpus="timmy"
       Date="1984-01-01">
-  <Participants>
-    <participant
-      id="CHI"
-    name="Timmy"
-      role="Target_Child"
-      language="spa"
-      age="P2Y9M8D"
+<Participants>
+<participant
+  id="CHI"
+name="Timmy"
+  role="Target_Child"
+language="spa"
+age="P2Y09M08D"
 
-    />
-    <participant
-      id="LIN"
-    name="Linda"
-      role="Investigator"
-      language="spa"
+/>
+<participant
+  id="LIN"
+name="Linda"
+  role="Investigator"
+language="spa"
 
-    />
-    <participant
-      id="WIN"
-    name="Winnie"
-      role="Investigator"
-      language="spa"
+/>
+<participant
+  id="WIN"
+name="Winnie"
+  role="Investigator"
+language="spa"
 
-    />
-    <participant
-      id="GEM"
-    name="Gemma"
-      role="Housekeeper"
-      language="spa"
+/>
+<participant
+  id="GEM"
+name="Gemma"
+  role="Housekeeper"
+language="spa"
 
-    />
-  </Participants>
-  <u who="CHI" uID="u0">
-    <w>palma<mor type="mor"><mw><pos><c>n</c></pos><stem>palma</stem></mw><menx>tree</menx><menx>hand</menx></mor></w>
-    <t type="p"><mor type="mor"><mt type="p"/></mor></t>
+/>
+</Participants>
+<u who="CHI" uID="u0">
+<w>palma<mor type="mor"><mw><pos><c>n</c></pos><stem>palma</stem></mw><menx>tree</menx><menx>hand</menx></mor></w>
+<t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
-  </u>
+</u>
 </CHAT>

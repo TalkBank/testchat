@@ -4,43 +4,43 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="CAfont:13:7"
-      Version="2.6.1"
+      Version="2.7.0"
       Lang="fra spa"
       Options="heritage"
       Corpus="esf"
       Date="1983-05-09">
-  <Participants>
-    <participant
-      id="SAL"
-    name="alfonso"
-      role="Participant"
-      language="fra spa"
+<Participants>
+<participant
+  id="SAL"
+name="alfonso"
+  role="Participant"
+language="fra spa"
 
-    />
-    <participant
-      id="INE"
-    name="michèle_mittner_P_pilar_gomez"
-      role="Investigator"
-      language="fra spa"
+/>
+<participant
+  id="INE"
+name="michèle_mittner_P_pilar_gomez"
+  role="Investigator"
+language="fra spa"
 
-    />
-  </Participants>
-  <comment type="Tape Location">LSFAl04 SIDE A (002-258)</comment>
-  <comment type="Date">09-MAY-1983</comment>
-  <u who="INE" uID="u0">
-    <blob>[%add:</blob>
-    <blob>to</blob>
-    <blob>son]</blob>
-    <blob>tu</blob>
-    <blob>as</blob>
-    <blob>mis</blob>
-    <blob>du</blob>
-    <blob>jus</blob>
-    <blob>d</blob>
-    <blob>abricot</blob>
-    <blob>partout</blob>
-    <blob>toi.</blob>
-    <t type="missing CA terminator"></t>
+/>
+</Participants>
+<comment type="Tape Location">LSFAl04 SIDE A (002-258)</comment>
+<comment type="Date">09-MAY-1983</comment>
+<u who="INE" uID="u0">
+<blob>[%add:</blob>
+<blob>to</blob>
+<blob>son]</blob>
+<blob>tu</blob>
+<blob>as</blob>
+<blob>mis</blob>
+<blob>du</blob>
+<blob>jus</blob>
+<blob>d</blob>
+<blob>abricot</blob>
+<blob>partout</blob>
+<blob>toi.</blob>
+<t type="missing CA terminator"></t>
 
-  </u>
+</u>
 </CHAT>

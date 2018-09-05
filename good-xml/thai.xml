@@ -3,1966 +3,1966 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Media="01-09-1" Mediatypes="video"
-      Version="2.6.1"
+Media="01-09-1" Mediatypes="video"
+      Version="2.7.0"
       Lang="tha"
       Corpus="chula"
       Date="2001-04-27">
-  <Participants>
-    <participant
-      id="CHI"
-    name="C"
-      role="Child"
-      language="tha"
-      age="P0Y9M2D"
+<Participants>
+<participant
+  id="CHI"
+name="C"
+  role="Child"
+language="tha"
+age="P0Y09M02D"
 
-    />
-    <participant
-      id="MOT"
-      role="Mother"
-      language="tha"
+/>
+<participant
+  id="MOT"
+  role="Mother"
+language="tha"
 
-    />
-    <participant
-      id="VIS"
-      role="Visitor"
-      language="tha"
+/>
+<participant
+  id="VIS"
+  role="Visitor"
+language="tha"
 
-    />
-  </Participants>
-  <comment type="Exceptions">*N* *O* *U*</comment>
-  <comment type="Transcriber">Sorabud Rungrojsuwan</comment>
-  <comment type="Date">27-APR-2001</comment>
-  <comment type="Location">Bangkok</comment>
-  <u who="MOT" uID="u0">
-    <w>khOON4</w>
-    <w>len2</w>
-    <w>duuaj2</w>
-    <t type="p"></t>
-    <media
-      start="0.000"
-      end="1.000"
-      unit="s"
-    />
-    <a type="orthography">ของเล่นด้วย</a>
-  </u>
-  <u who="MOT" uID="u1">
-    <w>khOON4</w>
-    <w>len2</w>
-    <w>nuu4</w>
-    <w>kOO2</w>
-    <w>mii0</w>
-    <w>kha2</w>
-    <w>jq3</w>
-    <w>jx3</w>
-    <w>lqqj0</w>
-    <w>kha2</w>
-    <t type="p"></t>
-    <media
-      start="1.000"
-      end="5.000"
-      unit="s"
-    />
-    <a type="orthography">ของเล่นหนูก็มีค่ะเยอะแยะเลยค่ะ</a>
-  </u>
-  <u who="MOT" uID="u2">
-    <w>paj0</w>
-    <w>duu0</w>
-    <w>si3</w>
-    <t type="p"></t>
-    <media
-      start="5.000"
-      end="9.000"
-      unit="s"
-    />
-    <a type="orthography">ไปดูซิ</a>
-  </u>
-  <u who="MOT" uID="u3">
-    <w>paj0</w>
-    <w>duu0</w>
-    <w>si3</w>
-    <w>paj0</w>
-    <w>duu0</w>
-    <w>khun0</w>
-    <w>jaa2</w>
-    <w>kha3</w>
-    <t type="p"></t>
-    <media
-      start="9.000"
-      end="11.000"
-      unit="s"
-    />
-    <a type="orthography">ไปดูซิ ไปดูคุณย่าคะ</a>
-  </u>
-  <u who="MOT" uID="u4">
-    <w>khun0</w>
-    <w>jaa2</w>
-    <w>kha2</w>
-    <t type="p"></t>
-    <media
-      start="11.000"
-      end="13.000"
-      unit="s"
-    />
-    <a type="orthography">คุณย่าค่ะ</a>
-  </u>
-  <u who="MOT" uID="u5">
-    <w>diiaw4</w>
-    <w>mxx2</w>
-    <w>paj0</w>
-    <w>duu0</w>
-    <w>khun0</w>
-    <w>jaa2</w>
-    <w>kha3</w>
-    <w>kOOn1</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="13.000"
-      end="16.000"
-      unit="s"
-    />
-    <a type="orthography">เดี๋ยวแม่ไปดูคุณย่าคะก่อนนะ</a>
-  </u>
-  <u who="MOT" uID="u6">
-    <w>ʔee3</w>
-    <w>jaa2</w>
-    <w>paj0</w>
-    <w>naj4</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="16.000"
-      end="22.000"
-      unit="s"
-    />
-    <a type="orthography">เอ๊ ย่าไปไหนนะ</a>
-  </u>
-  <u who="MOT" uID="u7">
-    <w>paj0</w>
-    <w>naj4</w>
-    <w>kan0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="22.000"
-      end="26.000"
-      unit="s"
-    />
-    <a type="orthography">ไปไหนกันนะ</a>
-  </u>
-  <u who="MOT" uID="u8">
-    <w>cap1</w>
-    <w>daaj2</w>
-    <w>pa1</w>
-    <w>nia2</w>
-    <t type="p"></t>
-    <media
-      start="26.000"
-      end="28.000"
-      unit="s"
-    />
-    <a type="orthography">จับได้ปะเนี่ยะ</a>
-  </u>
-  <u who="MOT" uID="u9">
-    <w>ʔx3</w>
-    <w>ʔx3</w>
-    <w>ʔx3</w>
-    <t type="p"></t>
-    <media
-      start="28.000"
-      end="30.000"
-      unit="s"
-    />
-    <a type="orthography">แอ๊ะแอ๊ะแอ๊ะ</a>
-  </u>
-  <u who="MOT" uID="u10">
-    <w>man0</w>
-    <w>khOON4</w>
-    <w>len2</w>
-    <w>khOON4</w>
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="30.000"
-      end="35.000"
-      unit="s"
-    />
-    <a type="orthography">มันของเล่นของใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u11">
-    <w>diiaw4</w>
-    <w>mxx2</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>maa0</w>
-    <w>haj2</w>
-    <w>na3</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>rOO0</w>
-    <w>juu1</w>
-    <w>nii2</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="35.000"
-      end="37.000"
-      unit="s"
-    />
-    <a type="orthography">เดี๋ยวแม่ไปเอามาให้นะ น้องซีรออยู่นี่นะ</a>
-  </u>
-  <u who="MOT" uID="u12">
-    <w>rOO0</w>
-    <w>juu1</w>
-    <w>nii2</w>
-    <w>kOOn1</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="37.000"
-      end="41.000"
-      unit="s"
-    />
-    <a type="orthography">รออยู่นี่ก่อนนะ</a>
-  </u>
-  <u who="MOT" uID="u13">
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <w>ʔa1</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>len2</w>
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <t type="p"></t>
-    <media
-      start="41.000"
-      end="59.000"
-      unit="s"
-    />
-    <a type="orthography">อะไรอะน้องซีเล่นอะไร</a>
-  </u>
-  <u who="MOT" uID="u14">
-    <w>ʔee4</w>
-    <w>ʔee4</w>
-    <w>khOON4</w>
-    <w>nuu4</w>
-    <w>juu1</w>
-    <w>nii2</w>
-    <t type="p"></t>
-    <media
-      start="59.000"
-      end="61.000"
-      unit="s"
-    />
-    <a type="orthography">เอ๋ๆของหนูอยู่นี่</a>
-  </u>
-  <u who="MOT" uID="u15">
-    <w>chOOp2</w>
-    <w>kin0</w>
-    <t type="p"></t>
-    <media
-      start="61.000"
-      end="75.000"
-      unit="s"
-    />
-    <a type="orthography">ชอบกิน</a>
-  </u>
-  <u who="MOT" uID="u16">
-    <w>ʔuj3</w>
-    <w>mii0</w>
-    <w>tuk3</w>
-    <w>ka1</w>
-    <w>taa0</w>
-    <w>maa4</w>
-    <w>duuaj2</w>
-    <t type="p"></t>
-    <media
-      start="75.000"
-      end="79.000"
-      unit="s"
-    />
-    <a type="orthography">อุ๊ย มีตุ๊กตาหมาด้วย</a>
-  </u>
-  <u who="MOT" uID="u17">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>saj1</w>
-    <w>wxn2</w>
-    <w>haj2</w>
-    <w>duu0</w>
-    <w>nii2</w>
-    <w>ʔa1</w>
-    <t type="p"></t>
-    <media
-      start="79.000"
-      end="82.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีใส่แว่นให้ดูนี่อะ</a>
-  </u>
-  <u who="MOT" uID="u18">
-    <w>maj2</w>
-    <w>daaj2</w>
-    <w>luuk2</w>
-    <w>jaa1</w>
-    <w>len2</w>
-    <w>lqqj0</w>
-    <t type="p"></t>
-    <media
-      start="82.000"
-      end="87.000"
-      unit="s"
-    />
-    <a type="orthography">ไม่ได้ลูก อย่าเล่นเลย</a>
-  </u>
-  <u who="MOT" uID="u19">
-    <w>jaa1</w>
-    <w>len2</w>
-    <w>jaa1</w>
-    <w>len2</w>
-    <t type="p"></t>
-    <media
-      start="87.000"
-      end="89.000"
-      unit="s"
-    />
-    <a type="orthography">อย่าเล่นอย่าเล่น</a>
-  </u>
-  <u who="CHI" uID="u20">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="89.000"
-      end="96.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u21">
-    <w>man0</w>
-    <w>pen0</w>
-    <w>khOON4</w>
-    <w>maj1</w>
-    <w>ʔa1</w>
-    <w>kha2</w>
-    <w>nuu4</w>
-    <w>kOO2</w>
-    <w>lqqj0</w>
-    <w>chOOp2</w>
-    <t type="p"></t>
-    <media
-      start="96.000"
-      end="102.000"
-      unit="s"
-    />
-    <a type="orthography">มันเป็นของใหม่อะค่ะหนูก็เลยชอบ</a>
-  </u>
-  <u who="MOT" uID="u22">
-    <w>nii2</w>
-    <w>man0</w>
-    <w>kaw1</w>
-    <w>lxxw3</w>
-    <t type="p"></t>
-    <media
-      start="102.000"
-      end="104.000"
-      unit="s"
-    />
-    <a type="orthography">นี่มันเก่าแล้ว</a>
-  </u>
-  <u who="MOT" uID="u23">
-    <w>diiaw4</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>len2</w>
-    <w>khOON4</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>kuN3</w>
-    <w>kiN3</w>
-    <w>kuN3</w>
-    <w>kiN3</w>
-    <w>kuN3</w>
-    <w>kiN3</w>
-    <t type="p"></t>
-    <media
-      start="104.000"
-      end="123.000"
-      unit="s"
-    />
-    <a type="orthography">เดี๋ยวน้องซีเล่นของน้องซี กุ๊งกิ๊งกุ๊งกิ๊งกุ๊งกิ๊ง</a>
-  </u>
-  <u who="MOT" uID="u24">
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <w>ʔaw2</w>
-    <t type="p"></t>
-    <media
-      start="123.000"
-      end="130.000"
-      unit="s"
-    />
-    <a type="orthography">แหม่มๆเอ้า</a>
-  </u>
-  <u who="CHI" uID="u25">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="130.000"
-      end="147.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u26">
-    <w>juu1</w>
-    <w>khon0</w>
-    <w>diiaw0</w>
-    <w>na3</w>
-    <w>diiaw4</w>
-    <w>mxx2</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>naam3</w>
-    <w>maa0</w>
-    <w>haj2</w>
-    <w>khun0</w>
-    <w>kOOn1</w>
-    <t type="p"></t>
-    <media
-      start="147.000"
-      end="151.500"
-      unit="s"
-    />
-    <a type="orthography">อยู่คนเดียวนะ เดี๋ยวแม่ไปเอาน้ำมาให้คุณก่อน</a>
-  </u>
-  <u who="VIS" uID="u27">
-    <w>maj2</w>
-    <w>pen0</w>
-    <w>raj0</w>
-    <w>kha2</w>
-    <t type="p"></t>
-    <media
-      start="151.500"
-      end="152.000"
-      unit="s"
-    />
-    <a type="orthography">ไม่เป็นไรค่ะ</a>
-  </u>
-  <u who="VIS" uID="u28">
-    <w>thaaj1</w>
-    <w>kOOn1</w>
-    <w>kOO2</w>
-    <w>daaj2</w>
-    <t type="p"></t>
-    <media
-      start="152.000"
-      end="157.000"
-      unit="s"
-    />
-    <a type="orthography">ถ่ายก่อนก็ได้</a>
-  </u>
-  <u who="MOT" uID="u29">
-    <w>thaaj1</w>
-    <w>kOOn1</w>
-    <w>kOO2</w>
-    <w>daaj2</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="152.000"
-      end="157.000"
-      unit="s"
-    />
-    <a type="orthography">ถ่ายก่อนก็ได้นะ</a>
-  </u>
-  <u who="MOT" uID="u30">
-    <w>thaaj1</w>
-    <w>khaw4</w>
-    <w>khon0</w>
-    <w>diiaw0</w>
-    <w>daaj2</w>
-    <w>maj4</w>
-    <w>kha3</w>
-    <w>maj2</w>
-    <w>daaj2</w>
-    <w>chaj2</w>
-    <w>maj4</w>
-    <t type="p"></t>
-    <media
-      start="157.000"
-      end="162.000"
-      unit="s"
-    />
-    <a type="orthography">ถ่ายเขาคนเดียวได้ไหมคะ ไม่ได้ใช่ไหม</a>
-  </u>
-  <u who="VIS" uID="u31">
-    <w>daaj2</w>
-    <t type="p"></t>
-    <media
-      start="157.000"
-      end="162.000"
-      unit="s"
-    />
-    <a type="orthography">ได้</a>
-  </u>
-  <u who="VIS" uID="u32">
-    <w>txx1</w>
-    <w>mxx2</w>
-    <w>juu1</w>
-    <w>duuaj2</w>
-    <w>kOO2</w>
-    <w>dii0</w>
-    <t type="p"></t>
-    <media
-      start="162.000"
-      end="164.000"
-      unit="s"
-    />
-    <a type="orthography">แต่แม่อยู่ด้วยก็ดี</a>
-  </u>
-  <u who="MOT" uID="u33">
-    <w>ca1</w>
-    <w>duu0</w>
-    <w>mxx2</w>
-    <w>kap1</w>
-    <w>luuk2</w>
-    <w>suuaj4</w>
-    <w>mUUan4</w>
-    <w>maj4</w>
-    <t type="p"></t>
-    <media
-      start="164.000"
-      end="167.000"
-      unit="s"
-    />
-    <a type="orthography">จะดูแม่กับลูกสวยเหมือนไหม</a>
-  </u>
-  <u who="MOT" uID="u34">
-    <e><action/></e>
-    <t type="p"></t>
-    <media
-      start="167.000"
-      end="179.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u35">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <t type="p"></t>
-    <media
-      start="179.000"
-      end="181.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซี</a>
-  </u>
-  <u who="MOT" uID="u36">
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <w>lqqj0</w>
-    <t type="p"></t>
-    <media
-      start="181.000"
-      end="185.000"
-      unit="s"
-    />
-    <a type="orthography">จ๊ะเอ๋เลย</a>
-  </u>
-  <u who="MOT" uID="u37">
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <w>ʔa1</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>mOON0</w>
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <w>juu1</w>
-    <w>kha3</w>
-    <t type="p"></t>
-    <media
-      start="185.000"
-      end="205.000"
-      unit="s"
-    />
-    <a type="orthography">อะไรอะน้องซีมองอะไรอยู่คะ</a>
-  </u>
-  <u who="MOT" uID="u38">
-    <e><action/></e>
-    <t type="p"></t>
-    <media
-      start="205.000"
-      end="211.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u39">
-    <w>khraj0</w>
-    <w>ʔa1</w>
-    <t type="p"></t>
-    <media
-      start="211.000"
-      end="217.000"
-      unit="s"
-    />
-    <a type="orthography">ใครอะ</a>
-  </u>
-  <u who="MOT" uID="u40">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="217.000"
-      end="218.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u41">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="218.000"
-      end="220.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u42">
-    <w>khraj0</w>
-    <w>ʔqqj1</w>
-    <w>khraj0</w>
-    <w>ʔqqj1</w>
-    <t type="p"></t>
-    <media
-      start="220.000"
-      end="238.000"
-      unit="s"
-    />
-    <a type="orthography">ใครเอ่ยใครเอ่ย</a>
-  </u>
-  <u who="CHI" uID="u43">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="238.000"
-      end="244.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u44">
-    <w>hUUm4</w>
-    <t type="p"></t>
-    <media
-      start="238.000"
-      end="244.000"
-      unit="s"
-    />
-    <a type="orthography">หืม</a>
-  </u>
-  <u who="MOT" uID="u45">
-    <w>mxx2</w>
-    <w>ʔaw0</w>
-    <w>ʔOOk1</w>
-    <w>kOOn1</w>
-    <t type="p"></t>
-    <media
-      start="244.000"
-      end="248.000"
-      unit="s"
-    />
-    <a type="orthography">แม่เอาออกก่อน</a>
-  </u>
-  <u who="MOT" uID="u46">
-    <w>ʔuj2</w>
-    <t type="p"></t>
-    <media
-      start="248.000"
-      end="252.500"
-      unit="s"
-    />
-    <a type="orthography">อุ้ย</a>
-  </u>
-  <u who="MOT" uID="u47">
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <w>man0</w>
-    <w>daN0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="252.500"
-      end="255.000"
-      unit="s"
-    />
-    <a type="orthography">อะไรมันดังหว่า</a>
-  </u>
-  <u who="MOT" uID="u48">
-    <w>ʔUUm0</w>
-    <w>nii2</w>
-    <w>rOON0</w>
-    <w>thaaw3</w>
-    <t type="p"></t>
-    <media
-      start="255.000"
-      end="263.000"
-      unit="s"
-    />
-    <a type="orthography">อืม นี่รองเท้า</a>
-  </u>
-  <u who="MOT" uID="u49">
-    <w>kin0</w>
-    <w>kxxw2</w>
-    <t type="p"></t>
-    <media
-      start="263.000"
-      end="266.000"
-      unit="s"
-    />
-    <a type="orthography">กินแก้ว</a>
-  </u>
-  <u who="CHI" uID="u50">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="266.000"
-      end="275.500"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u51">
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <t type="p"></t>
-    <media
-      start="266.000"
-      end="275.500"
-      unit="s"
-    />
-    <a type="orthography">แหม่มแหม่มแหม่มแแม้ม</a>
-  </u>
-  <u who="MOT" uID="u52">
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <t type="p"></t>
-    <media
-      start="275.500"
-      end="277.500"
-      unit="s"
-    />
-    <a type="orthography">แหม่มๆ</a>
-  </u>
-  <u who="CHI" uID="u53">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="275.500"
-      end="277.500"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u54">
-    <w>mxm1</w>
-    <w>mxm1</w>
-    <w>kOOn1</w>
-    <t type="p"></t>
-    <media
-      start="277.500"
-      end="279.000"
-      unit="s"
-    />
-    <a type="orthography">แหม่มๆก่อน</a>
-  </u>
-  <u who="MOT" uID="u55">
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>duu0</w>
-    <w>ʔa1</w>
-    <w>raj0</w>
-    <w>nii2</w>
-    <w>mxx2</w>
-    <w>ʔaw0</w>
-    <w>nom0</w>
-    <w>haj2</w>
-    <w>duu0</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <t type="p"></t>
-    <media
-      start="279.000"
-      end="286.000"
-      unit="s"
-    />
-    <a type="orthography">นี่ๆน้องซีดูอะไรนี่ แม่เอานมให้ดู นี่นี่นี่</a>
-  </u>
-  <u who="MOT" uID="u56">
-    <w>nii2</w>
-    <w>na3</w>
-    <w>nii2</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>duu0</w>
-    <w>na3</w>
-    <w>duu0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="286.000"
-      end="291.000"
-      unit="s"
-    />
-    <a type="orthography">นี่นะนี่นะ อันนี้นะ อันนี้นะ ดูนะดูนะ</a>
-  </u>
-  <u who="MOT" uID="u57">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔa1</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="291.000"
-      end="293.000"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะอันนี้นะ อะนะ</a>
-  </u>
-  <u who="MOT" uID="u58">
-    <w>nUN1</w>
-    <w>sOON4</w>
-    <w>saam4</w>
-    <w>ʔee2</w>
-    <t type="p"></t>
-    <media
-      start="293.000"
-      end="299.000"
-      unit="s"
-    />
-    <a type="orthography">หนึ่งสองสาม เอ้</a>
-  </u>
-  <u who="MOT" uID="u59">
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="299.000"
-      end="303.000"
-      unit="s"
-    />
-    <a type="orthography">เอานะเอานะ อันนี้นะอันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u60">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="303.000"
-      end="304.000"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u61">
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="304.000"
-      end="305.000"
-      unit="s"
-    />
-    <a type="orthography">เอานะเอานะ</a>
-  </u>
-  <u who="MOT" uID="u62">
-    <w>nUN1</w>
-    <w>sOON4</w>
-    <w>ʔii2</w>
-    <w>ʔii2</w>
-    <t type="p"></t>
-    <media
-      start="305.000"
-      end="313.000"
-      unit="s"
-    />
-    <a type="orthography">หนึ่ง สอง อี้ๆ</a>
-  </u>
-  <u who="MOT" uID="u63">
-    <w>ʔaw0</w>
-    <w>maj1</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>maj1</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="313.000"
-      end="316.000"
-      unit="s"
-    />
-    <a type="orthography">เอาใหม่นะเอาใหม่นะ อันนี้นะอันนี้นะอันนี้นะอันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u64">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <t type="p"></t>
-    <media
-      start="316.000"
-      end="317.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซี</a>
-  </u>
-  <u who="MOT" uID="u65">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>la2</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>la2</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="317.000"
-      end="319.500"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะอันนี้นะ เอาล่ะนะเอาล่ะนะ</a>
-  </u>
-  <u who="MOT" uID="u66">
-    <w>ʔUp3</w>
-    <t type="p"></t>
-    <media
-      start="319.500"
-      end="321.000"
-      unit="s"
-    />
-    <a type="orthography">อึ๊บ</a>
-  </u>
-  <u who="MOT" uID="u67">
-    <w>ʔii0</w>
-    <t type="p"></t>
-    <media
-      start="321.000"
-      end="323.000"
-      unit="s"
-    />
-    <a type="orthography">อี</a>
-  </u>
-  <u who="MOT" uID="u68">
-    <w>kin0</w>
-    <w>pa1</w>
-    <w>nom0</w>
-    <w>kin0</w>
-    <w>pa1</w>
-    <t type="p"></t>
-    <media
-      start="323.000"
-      end="327.000"
-      unit="s"
-    />
-    <a type="orthography">กินปะนมกินปะ</a>
-  </u>
-  <u who="CHI" uID="u69">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="327.000"
-      end="332.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u70">
-    <w>taam0</w>
-    <t type="p"></t>
-    <media
-      start="332.000"
-      end="347.000"
-      unit="s"
-    />
-    <a type="orthography">ตาม</a>
-  </u>
-  <u who="MOT" uID="u71">
-    <w>maj2</w>
-    <w>ʔaw0</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>luuk2</w>
-    <t type="p"></t>
-    <media
-      start="347.000"
-      end="357.000"
-      unit="s"
-    />
-    <a type="orthography">ไม่เอาอันนี้ลูก</a>
-  </u>
-  <u who="MOT" uID="u72">
-    <w>ʔuj3</w>
-    <w>cqq0</w>
-    <w>khxxk1</w>
-    <w>khon0</w>
-    <w>sam4</w>
-    <w>khan0</w>
-    <t type="p"></t>
-    <media
-      start="357.000"
-      end="365.000"
-      unit="s"
-    />
-    <a type="orthography">อุ๊ย เจอแขกคนสำคัญ</a>
-  </u>
-  <u who="MOT" uID="u73">
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <t type="p"></t>
-    <media
-      start="365.000"
-      end="368.000"
-      unit="s"
-    />
-    <a type="orthography">จ๊ะเอ๋</a>
-  </u>
-  <u who="MOT" uID="u74">
-    <w>ʔii3</w>
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <t type="p"></t>
-    <media
-      start="368.000"
-      end="371.000"
-      unit="s"
-    />
-    <a type="orthography">อี๊ จ๊ะเอ๋</a>
-  </u>
-  <u who="MOT" uID="u75">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <t type="p"></t>
-    <media
-      start="371.000"
-      end="373.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีจ๊ะเอ๋</a>
-  </u>
-  <u who="MOT" uID="u76">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="373.000"
-      end="376.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u77">
-    <w>ʔuj3</w>
-    <w>khraj0</w>
-    <w>maa0</w>
-    <w>juu1</w>
-    <w>naj0</w>
-    <w>baan2</w>
-    <w>raw0</w>
-    <w>waa1</w>
-    <w>ʔii3</w>
-    <t type="p"></t>
-    <media
-      start="376.000"
-      end="381.000"
-      unit="s"
-    />
-    <a type="orthography">อุ๊ยใครมาอยู่ในบ้านเราหว่า อี๊</a>
-  </u>
-  <u who="MOT" uID="u78">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="381.000"
-      end="382.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u79">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <w>jim3</w>
-    <w>jon2</w>
-    <w>ca1</w>
-    <w>muuk1</w>
-    <w>mUUan4</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>lqqj0</w>
-    <t type="p"></t>
-    <media
-      start="382.000"
-      end="388.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่ายิ้มย่นจมูกเหมือนน้องซีเลย</a>
-  </u>
-  <u who="MOT" uID="u80">
-    <w>khraj0</w>
-    <w>ʔqqj1</w>
-    <t type="p"></t>
-    <media
-      start="388.000"
-      end="391.000"
-      unit="s"
-    />
-    <a type="orthography">ใครเอ่ย</a>
-  </u>
-  <u who="MOT" uID="u81">
-    <w>thOj4</w>
-    <w>dii0</w>
-    <w>kwaa1</w>
-    <t type="p"></t>
-    <media
-      start="391.000"
-      end="396.000"
-      unit="s"
-    />
-    <a type="orthography">ถอยดีกว่า</a>
-  </u>
-  <u who="MOT" uID="u82">
-    <w>ʔUUm0</w>
-    <w>naa3</w>
-    <w>Naj0</w>
-    <w>luuk2</w>
-    <w>naa3</w>
-    <t type="p"></t>
-    <media
-      start="396.000"
-      end="399.000"
-      unit="s"
-    />
-    <a type="orthography">อืม น้าไงลูกน้า</a>
-  </u>
-  <u who="MOT" uID="u83">
-    <w>naa3</w>
-    <t type="p"></t>
-    <media
-      start="399.000"
-      end="401.000"
-      unit="s"
-    />
-    <a type="orthography">น้า</a>
-  </u>
-  <u who="MOT" uID="u84">
-    <w>kha3</w>
-    <t type="p"></t>
-    <media
-      start="401.000"
-      end="404.500"
-      unit="s"
-    />
-    <a type="orthography">คะ</a>
-  </u>
-  <u who="MOT" uID="u85">
-    <w>ʔa1</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>taam0</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <w>mxx2</w>
-    <w>kliN2</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>taam0</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="404.500"
-      end="408.000"
-      unit="s"
-    />
-    <a type="orthography">อะน้องซีตามไปเอานะ แม่กลิ้งน้องซีตามไปเอานะ</a>
-  </u>
-  <u who="MOT" uID="u86">
-    <w>nii2</w>
-    <w>taam0</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>rew0</w>
-    <w>rew0</w>
-    <w>rew0</w>
-    <w>rew0</w>
-    <t type="p"></t>
-    <media
-      start="408.000"
-      end="416.000"
-      unit="s"
-    />
-    <a type="orthography">นี่ ตามไปเอาเร็วเร็วเร็วเร็ว</a>
-  </u>
-  <u who="MOT" uID="u87">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>rqqm2</w>
-    <w>maj2</w>
-    <w>kluua0</w>
-    <w>lxxw3</w>
-    <w>kha2</w>
-    <t type="p"></t>
-    <media
-      start="416.000"
-      end="420.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีเริ่มไม่กลัวแล้วค่ะ</a>
-  </u>
-  <u who="MOT" uID="u88">
-    <w>ʔaw0</w>
-    <w>plaaw1</w>
-    <w>ʔaw0</w>
-    <w>plaaw1</w>
-    <t type="p"></t>
-    <media
-      start="420.000"
-      end="422.000"
-      unit="s"
-    />
-    <a type="orthography">เอาเปล่าเอาเปล่า</a>
-  </u>
-  <u who="MOT" uID="u89">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <t type="p"></t>
-    <media
-      start="422.000"
-      end="426.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีนี่นี่นี่นี่</a>
-  </u>
-  <u who="MOT" uID="u90">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>kha3</w>
-    <w>duu0</w>
-    <w>nii2</w>
-    <w>luuk2</w>
-    <t type="p"></t>
-    <media
-      start="426.000"
-      end="427.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีคะดูนี่ลูก</a>
-  </u>
-  <u who="MOT" uID="u91">
-    <w>ʔa1</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="427.000"
-      end="428.000"
-      unit="s"
-    />
-    <a type="orthography">อะนะ อันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u92">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>duu0</w>
-    <w>na3</w>
-    <w>duu0</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="428.000"
-      end="432.000"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะอันนี้นะอันนี้นะ ดูนะดูนะอันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u93">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="432.000"
-      end="434.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u94">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="434.000"
-      end="435.000"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะอันนี้นะ</a>
-  </u>
-  <u who="MOT" uID="u95">
-    <w>ʔa1</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>taam0</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="435.000"
-      end="440.000"
-      unit="s"
-    />
-    <a type="orthography">อะน้องซีตามไปเอานะ เอานะ</a>
-  </u>
-  <u who="MOT" uID="u96">
-    <w>na3</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>taam0</w>
-    <w>paj0</w>
-    <w>ʔaw0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="440.000"
-      end="445.000"
-      unit="s"
-    />
-    <a type="orthography">นะน้องซีตามไปเอานะ xxx</a>
-  </u>
-  <u who="MOT" uID="u97">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="445.000"
-      end="457.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า</a>
-  </u>
-  <u who="MOT" uID="u98">
-    <w>ʔee3</w>
-    <w>len2</w>
-    <w>duuaj2</w>
-    <w>dii0</w>
-    <w>rU3</w>
-    <w>plaaw1</w>
-    <t type="p"></t>
-    <media
-      start="457.000"
-      end="460.000"
-      unit="s"
-    />
-    <a type="orthography">เอ๊ เล่นด้วยดีรึเปล่า</a>
-  </u>
-  <u who="MOT" uID="u99">
-    <w>khraj0</w>
-    <w>waa1</w>
-    <w>lop1</w>
-    <w>mum0</w>
-    <w>lqqj0</w>
-    <t type="p"></t>
-    <media
-      start="460.000"
-      end="462.000"
-      unit="s"
-    />
-    <a type="orthography">ใครหว่า หลบมุมเลย</a>
-  </u>
-  <u who="MOT" uID="u100">
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <t type="p"></t>
-    <media
-      start="462.000"
-      end="473.000"
-      unit="s"
-    />
-    <a type="orthography">จ๊ะเอ๋</a>
-  </u>
-  <u who="MOT" uID="u101">
-    <w>ʔU1</w>
-    <w>plaaw1</w>
-    <w>nia2</w>
-    <w>tham0</w>
-    <w>pen0</w>
-    <w>niN2</w>
-    <t type="p"></t>
-    <media
-      start="473.000"
-      end="483.000"
-      unit="s"
-    />
-    <a type="orthography">อึเปล่าเนี่ยะ ทำเป็นนิ่ง</a>
-  </u>
-  <u who="MOT" uID="u102">
-    <w>nii2</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>duu0</w>
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>duu0</w>
-    <w>nii2</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="483.000"
-      end="487.000"
-      unit="s"
-    />
-    <a type="orthography">นี่น้องซีดูนี่นี่ ดูนี่นะ</a>
-  </u>
-  <u who="MOT" uID="u103">
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>ʔan0</w>
-    <w>nii3</w>
-    <w>na3</w>
-    <w>duu0</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="487.000"
-      end="489.000"
-      unit="s"
-    />
-    <a type="orthography">อันนี้นะอันนี้นะดูนะ</a>
-  </u>
-  <u who="MOT" uID="u104">
-    <w>ʔee4</w>
-    <w>chOOp2</w>
-    <w>len2</w>
-    <w>la2</w>
-    <w>si1</w>
-    <t type="p"></t>
-    <media
-      start="489.000"
-      end="495.000"
-      unit="s"
-    />
-    <a type="orthography">เอ๋ ชอบเล่นล่ะสิ</a>
-  </u>
-  <u who="MOT" uID="u105">
-    <w>ʔaw0</w>
-    <w>pa1</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>saj1</w>
-    <w>pa1</w>
-    <t type="p"></t>
-    <media
-      start="495.000"
-      end="497.000"
-      unit="s"
-    />
-    <a type="orthography">เอาปะน้องซีใส่ปะ</a>
-  </u>
-  <u who="MOT" uID="u106">
-    <w>nuun2</w>
-    <w>nuun2</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>nuun2</w>
-    <t type="p"></t>
-    <media
-      start="497.000"
-      end="502.000"
-      unit="s"
-    />
-    <a type="orthography">นู่นๆน้องซีนู่น</a>
-  </u>
-  <u who="MOT" uID="u107">
-    <w>mxx2</w>
-    <w>mxx2</w>
-    <w>haj2</w>
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>saj1</w>
-    <w>wxn2</w>
-    <w>na3</w>
-    <t type="p"></t>
-    <media
-      start="502.000"
-      end="505.000"
-      unit="s"
-    />
-    <a type="orthography">แม่แม่ให้น้องซีใส่แว่นนะ</a>
-  </u>
-  <u who="MOT" uID="u108">
-    <w>saj1</w>
-    <w>wxn2</w>
-    <w>saj1</w>
-    <w>wxn2</w>
-    <t type="p"></t>
-    <media
-      start="505.000"
-      end="507.000"
-      unit="s"
-    />
-    <a type="orthography">ใส่แว่นใส่แว่น</a>
-  </u>
-  <u who="MOT" uID="u109">
-    <w>nii2</w>
-    <w>nii2</w>
-    <w>ca3</w>
-    <w>ʔee4</w>
-    <t type="p"></t>
-    <media
-      start="507.000"
-      end="510.000"
-      unit="s"
-    />
-    <a type="orthography">นี่ๆ จ๊ะเอ๋</a>
-  </u>
-  <u who="MOT" uID="u110">
-    <w>len2</w>
-    <w>ʔan0</w>
-    <w>naj4</w>
-    <w>len2</w>
-    <w>ʔan0</w>
-    <w>naj4</w>
-    <t type="p"></t>
-    <media
-      start="510.000"
-      end="519.000"
-      unit="s"
-    />
-    <a type="orthography">เล่นอันไหนเล่นอันไหน</a>
-  </u>
-  <u who="MOT" uID="u111">
-    <w>ʔiiaN0</w>
-    <w>khOOm0</w>
-    <w>ʔoN0</w>
-    <w>jaaN1</w>
-    <w>nii3</w>
-    <w>jaaN1</w>
-    <w>nii3</w>
-    <w>jaaN1</w>
-    <w>nii3</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>ʔaw2</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>maj1</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>maj1</w>
-    <t type="p"></t>
-    <media
-      start="519.000"
-      end="530.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงคอมองอย่างนี้อย่างนี้อย่างนี้ เอียงคอ เอ้าเอียงคอใหม่ เอียงคอใหม่</a>
-  </u>
-  <u who="MOT" uID="u112">
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <t type="p"></t>
-    <media
-      start="530.000"
-      end="532.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงคอมองเอียงคอมอง</a>
-  </u>
-  <u who="MOT" uID="u113">
-    <w>nOON3</w>
-    <w>sii0</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <w>kOOn1</w>
-    <t type="p"></t>
-    <media
-      start="532.000"
-      end="534.000"
-      unit="s"
-    />
-    <a type="orthography">น้องซีเอียงคอมองก่อน</a>
-  </u>
-  <u who="MOT" uID="u114">
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <w>ʔiiaN0</w>
-    <w>duuaj2</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>duuaj2</w>
-    <t type="p"></t>
-    <media
-      start="534.000"
-      end="539.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงคอมอง เอียงด้วยเอียงคอด้วย</a>
-  </u>
-  <u who="MOT" uID="u115">
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <w>duu0</w>
-    <w>si3</w>
-    <t type="p"></t>
-    <media
-      start="539.000"
-      end="541.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงคอมองดูซิ</a>
-  </u>
-  <u who="MOT" uID="u116">
-    <w>ʔiiaN0</w>
-    <w>taam0</w>
-    <w>naa3</w>
-    <w>ʔiiaN0</w>
-    <w>khOO0</w>
-    <w>mOON0</w>
-    <t type="p"></t>
-    <media
-      start="541.000"
-      end="544.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงตามน้า เอียงคอมอง</a>
-  </u>
-  <u who="MOT" uID="u117">
-    <w>ʔiiaN0</w>
-    <w>ʔiik1</w>
-    <t type="p"></t>
-    <media
-      start="544.000"
-      end="548.000"
-      unit="s"
-    />
-    <a type="orthography">เอียงอีก</a>
-  </u>
-  <u who="MOT" uID="u118">
-    <w>khaaN2</w>
-    <w>nii3</w>
-    <w>baaN2</w>
-    <w>khaaN2</w>
-    <w>nii3</w>
-    <w>baaN2</w>
-    <t type="p"></t>
-    <media
-      start="548.000"
-      end="550.000"
-      unit="s"
-    />
-    <a type="orthography">ข้างนี้บ้างข้างนี้บ้าง</a>
-  </u>
-  <u who="MOT" uID="u119">
-    <w>khaaN2</w>
-    <w>nii3</w>
-    <w>baaN2</w>
-    <t type="p"></t>
-    <media
-      start="550.000"
-      end="551.000"
-      unit="s"
-    />
-    <a type="orthography">ข้างนี้บ้าง</a>
-  </u>
-  <u who="MOT" uID="u120">
-    <w>lap1</w>
-    <w>taa0</w>
-    <w>pii4</w>
-    <t type="p"></t>
-    <media
-      start="551.000"
-      end="553.000"
-      unit="s"
-    />
-    <a type="orthography">หลับตาปี๋</a>
-  </u>
-  <u who="MOT" uID="u121">
-    <w>lap1</w>
-    <w>taa0</w>
-    <w>rew0</w>
-    <w>lap1</w>
-    <w>taa0</w>
-    <w>pii4</w>
-    <w>kOOn1</w>
-    <t type="p"></t>
-    <media
-      start="553.000"
-      end="555.000"
-      unit="s"
-    />
-    <a type="orthography">หลับตาเร็ว หลับตาปี๋ก่อน</a>
-  </u>
-  <u who="MOT" uID="u122">
-    <w>nii2</w>
-    <w>ʔaw0</w>
-    <w>maj1</w>
-    <w>ʔaw0</w>
-    <w>maj1</w>
-    <t type="p"></t>
-    <media
-      start="555.000"
-      end="558.000"
-      unit="s"
-    />
-    <a type="orthography">นี่ เอาใหม่เอาใหม่</a>
-  </u>
-  <u who="MOT" uID="u123">
-    <w>lap1</w>
-    <w>taa0</w>
-    <w>pii4</w>
-    <t type="p"></t>
-    <media
-      start="558.000"
-      end="559.000"
-      unit="s"
-    />
-    <a type="orthography">หลับตาปี๋</a>
-  </u>
-  <u who="MOT" uID="u124">
-    <w>lap1</w>
-    <w>taa0</w>
-    <w>pii4</w>
-    <t type="p"></t>
-    <media
-      start="559.000"
-      end="561.000"
-      unit="s"
-    />
-    <a type="orthography">หลับตาปี๋</a>
-  </u>
-  <u who="MOT" uID="u125">
-    <w>tO3</w>
-    <w>paak1</w>
-    <t type="p"></t>
-    <media
-      start="561.000"
-      end="562.000"
-      unit="s"
-    />
-    <a type="orthography">เต๊าะปาก</a>
-  </u>
-  <u who="MOT" uID="u126">
-    <w>tO3</w>
-    <w>paak1</w>
-    <w>pen0</w>
-    <w>plaaw1</w>
-    <t type="p"></t>
-    <media
-      start="562.000"
-      end="565.000"
-      unit="s"
-    />
-    <a type="orthography">เต๊าะปากเป็นเปล่า</a>
-  </u>
-  <u who="MOT" uID="u127">
-    <w>tham0</w>
-    <w>Naj0</w>
-    <w>tham0</w>
-    <w>Naj0</w>
-    <t type="p"></t>
-    <media
-      start="565.000"
-      end="566.000"
-      unit="s"
-    />
-    <a type="orthography">ทำไงทำไง</a>
-  </u>
-  <u who="MOT" uID="u128">
-    <w>maj2</w>
-    <w>tham0</w>
-    <w>lxxw3</w>
-    <w>nuu4</w>
-    <w>maj2</w>
-    <w>tham0</w>
-    <w>lxxw3</w>
-    <t type="p"></t>
-    <media
-      start="566.000"
-      end="570.000"
-      unit="s"
-    />
-    <a type="orthography">ไม่ทำแล้วหนูไม่ทำแล้ว</a>
-  </u>
-  <u who="VIS" uID="u129">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="570.000"
-      end="576.000"
-      unit="s"
-    />
-  </u>
-  <u who="VIS" uID="u130">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="576.000"
-      end="580.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u131">
-    <w>khraj0</w>
-    <w>ʔa1</w>
-    <t type="p"></t>
-    <media
-      start="580.000"
-      end="581.500"
-      unit="s"
-    />
-    <a type="orthography">ใครอะ</a>
-  </u>
-  <u who="MOT" uID="u132">
-    <w>tO3</w>
-    <w>paak1</w>
-    <t type="p"></t>
-    <media
-      start="581.500"
-      end="582.500"
-      unit="s"
-    />
-    <a type="orthography">เต๊าะปาก</a>
-  </u>
-  <u who="MOT" uID="u133">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="582.500"
-      end="585.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u134">
-    <w>tO3</w>
-    <w>paak1</w>
-    <t type="p"></t>
-    <media
-      start="585.000"
-      end="586.000"
-      unit="s"
-    />
-    <a type="orthography">เต๊าะปาก</a>
-  </u>
-  <u who="VIS" uID="u135">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="586.000"
-      end="590.000"
-      unit="s"
-    />
-  </u>
-  <u who="CHI" uID="u136">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="590.000"
-      end="591.000"
-      unit="s"
-    />
-  </u>
-  <u who="MOT" uID="u137">
-    <w>hUUm4</w>
-    <w>khraj0</w>
-    <w>waa1</w>
-    <t type="p"></t>
-    <media
-      start="591.000"
-      end="593.000"
-      unit="s"
-    />
-    <a type="orthography">หืม ใครหว่า</a>
-  </u>
-  <u who="VIS" uID="u138">
-    <w untranscribed="unintelligible">xxx</w>
-    <t type="p"></t>
-    <media
-      start="593.000"
-      end="599.000"
-      unit="s"
-    />
-  </u>
+/>
+</Participants>
+<comment type="Exceptions">*N* *O* *U*</comment>
+<comment type="Transcriber">Sorabud Rungrojsuwan</comment>
+<comment type="Date">27-APR-2001</comment>
+<comment type="Location">Bangkok</comment>
+<u who="MOT" uID="u0">
+<w>khOON4</w>
+<w>len2</w>
+<w>duuaj2</w>
+<t type="p"></t>
+<media
+  start="0.000"
+  end="1.000"
+  unit="s"
+/>
+<a type="orthography">ของเล่นด้วย</a>
+</u>
+<u who="MOT" uID="u1">
+<w>khOON4</w>
+<w>len2</w>
+<w>nuu4</w>
+<w>kOO2</w>
+<w>mii0</w>
+<w>kha2</w>
+<w>jq3</w>
+<w>jx3</w>
+<w>lqqj0</w>
+<w>kha2</w>
+<t type="p"></t>
+<media
+  start="1.000"
+  end="5.000"
+  unit="s"
+/>
+<a type="orthography">ของเล่นหนูก็มีค่ะเยอะแยะเลยค่ะ</a>
+</u>
+<u who="MOT" uID="u2">
+<w>paj0</w>
+<w>duu0</w>
+<w>si3</w>
+<t type="p"></t>
+<media
+  start="5.000"
+  end="9.000"
+  unit="s"
+/>
+<a type="orthography">ไปดูซิ</a>
+</u>
+<u who="MOT" uID="u3">
+<w>paj0</w>
+<w>duu0</w>
+<w>si3</w>
+<w>paj0</w>
+<w>duu0</w>
+<w>khun0</w>
+<w>jaa2</w>
+<w>kha3</w>
+<t type="p"></t>
+<media
+  start="9.000"
+  end="11.000"
+  unit="s"
+/>
+<a type="orthography">ไปดูซิ ไปดูคุณย่าคะ</a>
+</u>
+<u who="MOT" uID="u4">
+<w>khun0</w>
+<w>jaa2</w>
+<w>kha2</w>
+<t type="p"></t>
+<media
+  start="11.000"
+  end="13.000"
+  unit="s"
+/>
+<a type="orthography">คุณย่าค่ะ</a>
+</u>
+<u who="MOT" uID="u5">
+<w>diiaw4</w>
+<w>mxx2</w>
+<w>paj0</w>
+<w>duu0</w>
+<w>khun0</w>
+<w>jaa2</w>
+<w>kha3</w>
+<w>kOOn1</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="13.000"
+  end="16.000"
+  unit="s"
+/>
+<a type="orthography">เดี๋ยวแม่ไปดูคุณย่าคะก่อนนะ</a>
+</u>
+<u who="MOT" uID="u6">
+<w>ʔee3</w>
+<w>jaa2</w>
+<w>paj0</w>
+<w>naj4</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="16.000"
+  end="22.000"
+  unit="s"
+/>
+<a type="orthography">เอ๊ ย่าไปไหนนะ</a>
+</u>
+<u who="MOT" uID="u7">
+<w>paj0</w>
+<w>naj4</w>
+<w>kan0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="22.000"
+  end="26.000"
+  unit="s"
+/>
+<a type="orthography">ไปไหนกันนะ</a>
+</u>
+<u who="MOT" uID="u8">
+<w>cap1</w>
+<w>daaj2</w>
+<w>pa1</w>
+<w>nia2</w>
+<t type="p"></t>
+<media
+  start="26.000"
+  end="28.000"
+  unit="s"
+/>
+<a type="orthography">จับได้ปะเนี่ยะ</a>
+</u>
+<u who="MOT" uID="u9">
+<w>ʔx3</w>
+<w>ʔx3</w>
+<w>ʔx3</w>
+<t type="p"></t>
+<media
+  start="28.000"
+  end="30.000"
+  unit="s"
+/>
+<a type="orthography">แอ๊ะแอ๊ะแอ๊ะ</a>
+</u>
+<u who="MOT" uID="u10">
+<w>man0</w>
+<w>khOON4</w>
+<w>len2</w>
+<w>khOON4</w>
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="30.000"
+  end="35.000"
+  unit="s"
+/>
+<a type="orthography">มันของเล่นของใครหว่า</a>
+</u>
+<u who="MOT" uID="u11">
+<w>diiaw4</w>
+<w>mxx2</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>maa0</w>
+<w>haj2</w>
+<w>na3</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>rOO0</w>
+<w>juu1</w>
+<w>nii2</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="35.000"
+  end="37.000"
+  unit="s"
+/>
+<a type="orthography">เดี๋ยวแม่ไปเอามาให้นะ น้องซีรออยู่นี่นะ</a>
+</u>
+<u who="MOT" uID="u12">
+<w>rOO0</w>
+<w>juu1</w>
+<w>nii2</w>
+<w>kOOn1</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="37.000"
+  end="41.000"
+  unit="s"
+/>
+<a type="orthography">รออยู่นี่ก่อนนะ</a>
+</u>
+<u who="MOT" uID="u13">
+<w>ʔa1</w>
+<w>raj0</w>
+<w>ʔa1</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>len2</w>
+<w>ʔa1</w>
+<w>raj0</w>
+<t type="p"></t>
+<media
+  start="41.000"
+  end="59.000"
+  unit="s"
+/>
+<a type="orthography">อะไรอะน้องซีเล่นอะไร</a>
+</u>
+<u who="MOT" uID="u14">
+<w>ʔee4</w>
+<w>ʔee4</w>
+<w>khOON4</w>
+<w>nuu4</w>
+<w>juu1</w>
+<w>nii2</w>
+<t type="p"></t>
+<media
+  start="59.000"
+  end="61.000"
+  unit="s"
+/>
+<a type="orthography">เอ๋ๆของหนูอยู่นี่</a>
+</u>
+<u who="MOT" uID="u15">
+<w>chOOp2</w>
+<w>kin0</w>
+<t type="p"></t>
+<media
+  start="61.000"
+  end="75.000"
+  unit="s"
+/>
+<a type="orthography">ชอบกิน</a>
+</u>
+<u who="MOT" uID="u16">
+<w>ʔuj3</w>
+<w>mii0</w>
+<w>tuk3</w>
+<w>ka1</w>
+<w>taa0</w>
+<w>maa4</w>
+<w>duuaj2</w>
+<t type="p"></t>
+<media
+  start="75.000"
+  end="79.000"
+  unit="s"
+/>
+<a type="orthography">อุ๊ย มีตุ๊กตาหมาด้วย</a>
+</u>
+<u who="MOT" uID="u17">
+<w>nOON3</w>
+<w>sii0</w>
+<w>saj1</w>
+<w>wxn2</w>
+<w>haj2</w>
+<w>duu0</w>
+<w>nii2</w>
+<w>ʔa1</w>
+<t type="p"></t>
+<media
+  start="79.000"
+  end="82.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีใส่แว่นให้ดูนี่อะ</a>
+</u>
+<u who="MOT" uID="u18">
+<w>maj2</w>
+<w>daaj2</w>
+<w>luuk2</w>
+<w>jaa1</w>
+<w>len2</w>
+<w>lqqj0</w>
+<t type="p"></t>
+<media
+  start="82.000"
+  end="87.000"
+  unit="s"
+/>
+<a type="orthography">ไม่ได้ลูก อย่าเล่นเลย</a>
+</u>
+<u who="MOT" uID="u19">
+<w>jaa1</w>
+<w>len2</w>
+<w>jaa1</w>
+<w>len2</w>
+<t type="p"></t>
+<media
+  start="87.000"
+  end="89.000"
+  unit="s"
+/>
+<a type="orthography">อย่าเล่นอย่าเล่น</a>
+</u>
+<u who="CHI" uID="u20">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="89.000"
+  end="96.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u21">
+<w>man0</w>
+<w>pen0</w>
+<w>khOON4</w>
+<w>maj1</w>
+<w>ʔa1</w>
+<w>kha2</w>
+<w>nuu4</w>
+<w>kOO2</w>
+<w>lqqj0</w>
+<w>chOOp2</w>
+<t type="p"></t>
+<media
+  start="96.000"
+  end="102.000"
+  unit="s"
+/>
+<a type="orthography">มันเป็นของใหม่อะค่ะหนูก็เลยชอบ</a>
+</u>
+<u who="MOT" uID="u22">
+<w>nii2</w>
+<w>man0</w>
+<w>kaw1</w>
+<w>lxxw3</w>
+<t type="p"></t>
+<media
+  start="102.000"
+  end="104.000"
+  unit="s"
+/>
+<a type="orthography">นี่มันเก่าแล้ว</a>
+</u>
+<u who="MOT" uID="u23">
+<w>diiaw4</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>len2</w>
+<w>khOON4</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>kuN3</w>
+<w>kiN3</w>
+<w>kuN3</w>
+<w>kiN3</w>
+<w>kuN3</w>
+<w>kiN3</w>
+<t type="p"></t>
+<media
+  start="104.000"
+  end="123.000"
+  unit="s"
+/>
+<a type="orthography">เดี๋ยวน้องซีเล่นของน้องซี กุ๊งกิ๊งกุ๊งกิ๊งกุ๊งกิ๊ง</a>
+</u>
+<u who="MOT" uID="u24">
+<w>mxm1</w>
+<w>mxm1</w>
+<w>ʔaw2</w>
+<t type="p"></t>
+<media
+  start="123.000"
+  end="130.000"
+  unit="s"
+/>
+<a type="orthography">แหม่มๆเอ้า</a>
+</u>
+<u who="CHI" uID="u25">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="130.000"
+  end="147.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u26">
+<w>juu1</w>
+<w>khon0</w>
+<w>diiaw0</w>
+<w>na3</w>
+<w>diiaw4</w>
+<w>mxx2</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>naam3</w>
+<w>maa0</w>
+<w>haj2</w>
+<w>khun0</w>
+<w>kOOn1</w>
+<t type="p"></t>
+<media
+  start="147.000"
+  end="151.500"
+  unit="s"
+/>
+<a type="orthography">อยู่คนเดียวนะ เดี๋ยวแม่ไปเอาน้ำมาให้คุณก่อน</a>
+</u>
+<u who="VIS" uID="u27">
+<w>maj2</w>
+<w>pen0</w>
+<w>raj0</w>
+<w>kha2</w>
+<t type="p"></t>
+<media
+  start="151.500"
+  end="152.000"
+  unit="s"
+/>
+<a type="orthography">ไม่เป็นไรค่ะ</a>
+</u>
+<u who="VIS" uID="u28">
+<w>thaaj1</w>
+<w>kOOn1</w>
+<w>kOO2</w>
+<w>daaj2</w>
+<t type="p"></t>
+<media
+  start="152.000"
+  end="157.000"
+  unit="s"
+/>
+<a type="orthography">ถ่ายก่อนก็ได้</a>
+</u>
+<u who="MOT" uID="u29">
+<w>thaaj1</w>
+<w>kOOn1</w>
+<w>kOO2</w>
+<w>daaj2</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="152.000"
+  end="157.000"
+  unit="s"
+/>
+<a type="orthography">ถ่ายก่อนก็ได้นะ</a>
+</u>
+<u who="MOT" uID="u30">
+<w>thaaj1</w>
+<w>khaw4</w>
+<w>khon0</w>
+<w>diiaw0</w>
+<w>daaj2</w>
+<w>maj4</w>
+<w>kha3</w>
+<w>maj2</w>
+<w>daaj2</w>
+<w>chaj2</w>
+<w>maj4</w>
+<t type="p"></t>
+<media
+  start="157.000"
+  end="162.000"
+  unit="s"
+/>
+<a type="orthography">ถ่ายเขาคนเดียวได้ไหมคะ ไม่ได้ใช่ไหม</a>
+</u>
+<u who="VIS" uID="u31">
+<w>daaj2</w>
+<t type="p"></t>
+<media
+  start="157.000"
+  end="162.000"
+  unit="s"
+/>
+<a type="orthography">ได้</a>
+</u>
+<u who="VIS" uID="u32">
+<w>txx1</w>
+<w>mxx2</w>
+<w>juu1</w>
+<w>duuaj2</w>
+<w>kOO2</w>
+<w>dii0</w>
+<t type="p"></t>
+<media
+  start="162.000"
+  end="164.000"
+  unit="s"
+/>
+<a type="orthography">แต่แม่อยู่ด้วยก็ดี</a>
+</u>
+<u who="MOT" uID="u33">
+<w>ca1</w>
+<w>duu0</w>
+<w>mxx2</w>
+<w>kap1</w>
+<w>luuk2</w>
+<w>suuaj4</w>
+<w>mUUan4</w>
+<w>maj4</w>
+<t type="p"></t>
+<media
+  start="164.000"
+  end="167.000"
+  unit="s"
+/>
+<a type="orthography">จะดูแม่กับลูกสวยเหมือนไหม</a>
+</u>
+<u who="MOT" uID="u34">
+<e><action/></e>
+<t type="p"></t>
+<media
+  start="167.000"
+  end="179.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u35">
+<w>nOON3</w>
+<w>sii0</w>
+<t type="p"></t>
+<media
+  start="179.000"
+  end="181.000"
+  unit="s"
+/>
+<a type="orthography">น้องซี</a>
+</u>
+<u who="MOT" uID="u36">
+<w>ca3</w>
+<w>ʔee4</w>
+<w>lqqj0</w>
+<t type="p"></t>
+<media
+  start="181.000"
+  end="185.000"
+  unit="s"
+/>
+<a type="orthography">จ๊ะเอ๋เลย</a>
+</u>
+<u who="MOT" uID="u37">
+<w>ʔa1</w>
+<w>raj0</w>
+<w>ʔa1</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>mOON0</w>
+<w>ʔa1</w>
+<w>raj0</w>
+<w>juu1</w>
+<w>kha3</w>
+<t type="p"></t>
+<media
+  start="185.000"
+  end="205.000"
+  unit="s"
+/>
+<a type="orthography">อะไรอะน้องซีมองอะไรอยู่คะ</a>
+</u>
+<u who="MOT" uID="u38">
+<e><action/></e>
+<t type="p"></t>
+<media
+  start="205.000"
+  end="211.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u39">
+<w>khraj0</w>
+<w>ʔa1</w>
+<t type="p"></t>
+<media
+  start="211.000"
+  end="217.000"
+  unit="s"
+/>
+<a type="orthography">ใครอะ</a>
+</u>
+<u who="MOT" uID="u40">
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="217.000"
+  end="218.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า</a>
+</u>
+<u who="MOT" uID="u41">
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="218.000"
+  end="220.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า</a>
+</u>
+<u who="MOT" uID="u42">
+<w>khraj0</w>
+<w>ʔqqj1</w>
+<w>khraj0</w>
+<w>ʔqqj1</w>
+<t type="p"></t>
+<media
+  start="220.000"
+  end="238.000"
+  unit="s"
+/>
+<a type="orthography">ใครเอ่ยใครเอ่ย</a>
+</u>
+<u who="CHI" uID="u43">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="238.000"
+  end="244.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u44">
+<w>hUUm4</w>
+<t type="p"></t>
+<media
+  start="238.000"
+  end="244.000"
+  unit="s"
+/>
+<a type="orthography">หืม</a>
+</u>
+<u who="MOT" uID="u45">
+<w>mxx2</w>
+<w>ʔaw0</w>
+<w>ʔOOk1</w>
+<w>kOOn1</w>
+<t type="p"></t>
+<media
+  start="244.000"
+  end="248.000"
+  unit="s"
+/>
+<a type="orthography">แม่เอาออกก่อน</a>
+</u>
+<u who="MOT" uID="u46">
+<w>ʔuj2</w>
+<t type="p"></t>
+<media
+  start="248.000"
+  end="252.500"
+  unit="s"
+/>
+<a type="orthography">อุ้ย</a>
+</u>
+<u who="MOT" uID="u47">
+<w>ʔa1</w>
+<w>raj0</w>
+<w>man0</w>
+<w>daN0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="252.500"
+  end="255.000"
+  unit="s"
+/>
+<a type="orthography">อะไรมันดังหว่า</a>
+</u>
+<u who="MOT" uID="u48">
+<w>ʔUUm0</w>
+<w>nii2</w>
+<w>rOON0</w>
+<w>thaaw3</w>
+<t type="p"></t>
+<media
+  start="255.000"
+  end="263.000"
+  unit="s"
+/>
+<a type="orthography">อืม นี่รองเท้า</a>
+</u>
+<u who="MOT" uID="u49">
+<w>kin0</w>
+<w>kxxw2</w>
+<t type="p"></t>
+<media
+  start="263.000"
+  end="266.000"
+  unit="s"
+/>
+<a type="orthography">กินแก้ว</a>
+</u>
+<u who="CHI" uID="u50">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="266.000"
+  end="275.500"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u51">
+<w>mxm1</w>
+<w>mxm1</w>
+<w>mxm1</w>
+<w>mxm1</w>
+<t type="p"></t>
+<media
+  start="266.000"
+  end="275.500"
+  unit="s"
+/>
+<a type="orthography">แหม่มแหม่มแหม่มแแม้ม</a>
+</u>
+<u who="MOT" uID="u52">
+<w>mxm1</w>
+<w>mxm1</w>
+<t type="p"></t>
+<media
+  start="275.500"
+  end="277.500"
+  unit="s"
+/>
+<a type="orthography">แหม่มๆ</a>
+</u>
+<u who="CHI" uID="u53">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="275.500"
+  end="277.500"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u54">
+<w>mxm1</w>
+<w>mxm1</w>
+<w>kOOn1</w>
+<t type="p"></t>
+<media
+  start="277.500"
+  end="279.000"
+  unit="s"
+/>
+<a type="orthography">แหม่มๆก่อน</a>
+</u>
+<u who="MOT" uID="u55">
+<w>nii2</w>
+<w>nii2</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>duu0</w>
+<w>ʔa1</w>
+<w>raj0</w>
+<w>nii2</w>
+<w>mxx2</w>
+<w>ʔaw0</w>
+<w>nom0</w>
+<w>haj2</w>
+<w>duu0</w>
+<w>nii2</w>
+<w>nii2</w>
+<w>nii2</w>
+<t type="p"></t>
+<media
+  start="279.000"
+  end="286.000"
+  unit="s"
+/>
+<a type="orthography">นี่ๆน้องซีดูอะไรนี่ แม่เอานมให้ดู นี่นี่นี่</a>
+</u>
+<u who="MOT" uID="u56">
+<w>nii2</w>
+<w>na3</w>
+<w>nii2</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>duu0</w>
+<w>na3</w>
+<w>duu0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="286.000"
+  end="291.000"
+  unit="s"
+/>
+<a type="orthography">นี่นะนี่นะ อันนี้นะ อันนี้นะ ดูนะดูนะ</a>
+</u>
+<u who="MOT" uID="u57">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔa1</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="291.000"
+  end="293.000"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะอันนี้นะ อะนะ</a>
+</u>
+<u who="MOT" uID="u58">
+<w>nUN1</w>
+<w>sOON4</w>
+<w>saam4</w>
+<w>ʔee2</w>
+<t type="p"></t>
+<media
+  start="293.000"
+  end="299.000"
+  unit="s"
+/>
+<a type="orthography">หนึ่งสองสาม เอ้</a>
+</u>
+<u who="MOT" uID="u59">
+<w>ʔaw0</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="299.000"
+  end="303.000"
+  unit="s"
+/>
+<a type="orthography">เอานะเอานะ อันนี้นะอันนี้นะ</a>
+</u>
+<u who="MOT" uID="u60">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="303.000"
+  end="304.000"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะ</a>
+</u>
+<u who="MOT" uID="u61">
+<w>ʔaw0</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="304.000"
+  end="305.000"
+  unit="s"
+/>
+<a type="orthography">เอานะเอานะ</a>
+</u>
+<u who="MOT" uID="u62">
+<w>nUN1</w>
+<w>sOON4</w>
+<w>ʔii2</w>
+<w>ʔii2</w>
+<t type="p"></t>
+<media
+  start="305.000"
+  end="313.000"
+  unit="s"
+/>
+<a type="orthography">หนึ่ง สอง อี้ๆ</a>
+</u>
+<u who="MOT" uID="u63">
+<w>ʔaw0</w>
+<w>maj1</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>maj1</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="313.000"
+  end="316.000"
+  unit="s"
+/>
+<a type="orthography">เอาใหม่นะเอาใหม่นะ อันนี้นะอันนี้นะอันนี้นะอันนี้นะ</a>
+</u>
+<u who="MOT" uID="u64">
+<w>nOON3</w>
+<w>sii0</w>
+<t type="p"></t>
+<media
+  start="316.000"
+  end="317.000"
+  unit="s"
+/>
+<a type="orthography">น้องซี</a>
+</u>
+<u who="MOT" uID="u65">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>la2</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>la2</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="317.000"
+  end="319.500"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะอันนี้นะ เอาล่ะนะเอาล่ะนะ</a>
+</u>
+<u who="MOT" uID="u66">
+<w>ʔUp3</w>
+<t type="p"></t>
+<media
+  start="319.500"
+  end="321.000"
+  unit="s"
+/>
+<a type="orthography">อึ๊บ</a>
+</u>
+<u who="MOT" uID="u67">
+<w>ʔii0</w>
+<t type="p"></t>
+<media
+  start="321.000"
+  end="323.000"
+  unit="s"
+/>
+<a type="orthography">อี</a>
+</u>
+<u who="MOT" uID="u68">
+<w>kin0</w>
+<w>pa1</w>
+<w>nom0</w>
+<w>kin0</w>
+<w>pa1</w>
+<t type="p"></t>
+<media
+  start="323.000"
+  end="327.000"
+  unit="s"
+/>
+<a type="orthography">กินปะนมกินปะ</a>
+</u>
+<u who="CHI" uID="u69">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="327.000"
+  end="332.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u70">
+<w>taam0</w>
+<t type="p"></t>
+<media
+  start="332.000"
+  end="347.000"
+  unit="s"
+/>
+<a type="orthography">ตาม</a>
+</u>
+<u who="MOT" uID="u71">
+<w>maj2</w>
+<w>ʔaw0</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>luuk2</w>
+<t type="p"></t>
+<media
+  start="347.000"
+  end="357.000"
+  unit="s"
+/>
+<a type="orthography">ไม่เอาอันนี้ลูก</a>
+</u>
+<u who="MOT" uID="u72">
+<w>ʔuj3</w>
+<w>cqq0</w>
+<w>khxxk1</w>
+<w>khon0</w>
+<w>sam4</w>
+<w>khan0</w>
+<t type="p"></t>
+<media
+  start="357.000"
+  end="365.000"
+  unit="s"
+/>
+<a type="orthography">อุ๊ย เจอแขกคนสำคัญ</a>
+</u>
+<u who="MOT" uID="u73">
+<w>ca3</w>
+<w>ʔee4</w>
+<t type="p"></t>
+<media
+  start="365.000"
+  end="368.000"
+  unit="s"
+/>
+<a type="orthography">จ๊ะเอ๋</a>
+</u>
+<u who="MOT" uID="u74">
+<w>ʔii3</w>
+<w>ca3</w>
+<w>ʔee4</w>
+<t type="p"></t>
+<media
+  start="368.000"
+  end="371.000"
+  unit="s"
+/>
+<a type="orthography">อี๊ จ๊ะเอ๋</a>
+</u>
+<u who="MOT" uID="u75">
+<w>nOON3</w>
+<w>sii0</w>
+<w>ca3</w>
+<w>ʔee4</w>
+<t type="p"></t>
+<media
+  start="371.000"
+  end="373.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีจ๊ะเอ๋</a>
+</u>
+<u who="MOT" uID="u76">
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="373.000"
+  end="376.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า</a>
+</u>
+<u who="MOT" uID="u77">
+<w>ʔuj3</w>
+<w>khraj0</w>
+<w>maa0</w>
+<w>juu1</w>
+<w>naj0</w>
+<w>baan2</w>
+<w>raw0</w>
+<w>waa1</w>
+<w>ʔii3</w>
+<t type="p"></t>
+<media
+  start="376.000"
+  end="381.000"
+  unit="s"
+/>
+<a type="orthography">อุ๊ยใครมาอยู่ในบ้านเราหว่า อี๊</a>
+</u>
+<u who="MOT" uID="u78">
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="381.000"
+  end="382.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า</a>
+</u>
+<u who="MOT" uID="u79">
+<w>khraj0</w>
+<w>waa1</w>
+<w>jim3</w>
+<w>jon2</w>
+<w>ca1</w>
+<w>muuk1</w>
+<w>mUUan4</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>lqqj0</w>
+<t type="p"></t>
+<media
+  start="382.000"
+  end="388.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่ายิ้มย่นจมูกเหมือนน้องซีเลย</a>
+</u>
+<u who="MOT" uID="u80">
+<w>khraj0</w>
+<w>ʔqqj1</w>
+<t type="p"></t>
+<media
+  start="388.000"
+  end="391.000"
+  unit="s"
+/>
+<a type="orthography">ใครเอ่ย</a>
+</u>
+<u who="MOT" uID="u81">
+<w>thOj4</w>
+<w>dii0</w>
+<w>kwaa1</w>
+<t type="p"></t>
+<media
+  start="391.000"
+  end="396.000"
+  unit="s"
+/>
+<a type="orthography">ถอยดีกว่า</a>
+</u>
+<u who="MOT" uID="u82">
+<w>ʔUUm0</w>
+<w>naa3</w>
+<w>Naj0</w>
+<w>luuk2</w>
+<w>naa3</w>
+<t type="p"></t>
+<media
+  start="396.000"
+  end="399.000"
+  unit="s"
+/>
+<a type="orthography">อืม น้าไงลูกน้า</a>
+</u>
+<u who="MOT" uID="u83">
+<w>naa3</w>
+<t type="p"></t>
+<media
+  start="399.000"
+  end="401.000"
+  unit="s"
+/>
+<a type="orthography">น้า</a>
+</u>
+<u who="MOT" uID="u84">
+<w>kha3</w>
+<t type="p"></t>
+<media
+  start="401.000"
+  end="404.500"
+  unit="s"
+/>
+<a type="orthography">คะ</a>
+</u>
+<u who="MOT" uID="u85">
+<w>ʔa1</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>taam0</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<w>mxx2</w>
+<w>kliN2</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>taam0</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="404.500"
+  end="408.000"
+  unit="s"
+/>
+<a type="orthography">อะน้องซีตามไปเอานะ แม่กลิ้งน้องซีตามไปเอานะ</a>
+</u>
+<u who="MOT" uID="u86">
+<w>nii2</w>
+<w>taam0</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>rew0</w>
+<w>rew0</w>
+<w>rew0</w>
+<w>rew0</w>
+<t type="p"></t>
+<media
+  start="408.000"
+  end="416.000"
+  unit="s"
+/>
+<a type="orthography">นี่ ตามไปเอาเร็วเร็วเร็วเร็ว</a>
+</u>
+<u who="MOT" uID="u87">
+<w>nOON3</w>
+<w>sii0</w>
+<w>rqqm2</w>
+<w>maj2</w>
+<w>kluua0</w>
+<w>lxxw3</w>
+<w>kha2</w>
+<t type="p"></t>
+<media
+  start="416.000"
+  end="420.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีเริ่มไม่กลัวแล้วค่ะ</a>
+</u>
+<u who="MOT" uID="u88">
+<w>ʔaw0</w>
+<w>plaaw1</w>
+<w>ʔaw0</w>
+<w>plaaw1</w>
+<t type="p"></t>
+<media
+  start="420.000"
+  end="422.000"
+  unit="s"
+/>
+<a type="orthography">เอาเปล่าเอาเปล่า</a>
+</u>
+<u who="MOT" uID="u89">
+<w>nOON3</w>
+<w>sii0</w>
+<w>nii2</w>
+<w>nii2</w>
+<w>nii2</w>
+<w>nii2</w>
+<t type="p"></t>
+<media
+  start="422.000"
+  end="426.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีนี่นี่นี่นี่</a>
+</u>
+<u who="MOT" uID="u90">
+<w>nOON3</w>
+<w>sii0</w>
+<w>kha3</w>
+<w>duu0</w>
+<w>nii2</w>
+<w>luuk2</w>
+<t type="p"></t>
+<media
+  start="426.000"
+  end="427.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีคะดูนี่ลูก</a>
+</u>
+<u who="MOT" uID="u91">
+<w>ʔa1</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="427.000"
+  end="428.000"
+  unit="s"
+/>
+<a type="orthography">อะนะ อันนี้นะ</a>
+</u>
+<u who="MOT" uID="u92">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>duu0</w>
+<w>na3</w>
+<w>duu0</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="428.000"
+  end="432.000"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะอันนี้นะอันนี้นะ ดูนะดูนะอันนี้นะ</a>
+</u>
+<u who="MOT" uID="u93">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="432.000"
+  end="434.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u94">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="434.000"
+  end="435.000"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะอันนี้นะ</a>
+</u>
+<u who="MOT" uID="u95">
+<w>ʔa1</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>taam0</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="435.000"
+  end="440.000"
+  unit="s"
+/>
+<a type="orthography">อะน้องซีตามไปเอานะ เอานะ</a>
+</u>
+<u who="MOT" uID="u96">
+<w>na3</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>taam0</w>
+<w>paj0</w>
+<w>ʔaw0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="440.000"
+  end="445.000"
+  unit="s"
+/>
+<a type="orthography">นะน้องซีตามไปเอานะ xxx</a>
+</u>
+<u who="MOT" uID="u97">
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="445.000"
+  end="457.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า</a>
+</u>
+<u who="MOT" uID="u98">
+<w>ʔee3</w>
+<w>len2</w>
+<w>duuaj2</w>
+<w>dii0</w>
+<w>rU3</w>
+<w>plaaw1</w>
+<t type="p"></t>
+<media
+  start="457.000"
+  end="460.000"
+  unit="s"
+/>
+<a type="orthography">เอ๊ เล่นด้วยดีรึเปล่า</a>
+</u>
+<u who="MOT" uID="u99">
+<w>khraj0</w>
+<w>waa1</w>
+<w>lop1</w>
+<w>mum0</w>
+<w>lqqj0</w>
+<t type="p"></t>
+<media
+  start="460.000"
+  end="462.000"
+  unit="s"
+/>
+<a type="orthography">ใครหว่า หลบมุมเลย</a>
+</u>
+<u who="MOT" uID="u100">
+<w>ca3</w>
+<w>ʔee4</w>
+<t type="p"></t>
+<media
+  start="462.000"
+  end="473.000"
+  unit="s"
+/>
+<a type="orthography">จ๊ะเอ๋</a>
+</u>
+<u who="MOT" uID="u101">
+<w>ʔU1</w>
+<w>plaaw1</w>
+<w>nia2</w>
+<w>tham0</w>
+<w>pen0</w>
+<w>niN2</w>
+<t type="p"></t>
+<media
+  start="473.000"
+  end="483.000"
+  unit="s"
+/>
+<a type="orthography">อึเปล่าเนี่ยะ ทำเป็นนิ่ง</a>
+</u>
+<u who="MOT" uID="u102">
+<w>nii2</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>duu0</w>
+<w>nii2</w>
+<w>nii2</w>
+<w>duu0</w>
+<w>nii2</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="483.000"
+  end="487.000"
+  unit="s"
+/>
+<a type="orthography">นี่น้องซีดูนี่นี่ ดูนี่นะ</a>
+</u>
+<u who="MOT" uID="u103">
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>ʔan0</w>
+<w>nii3</w>
+<w>na3</w>
+<w>duu0</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="487.000"
+  end="489.000"
+  unit="s"
+/>
+<a type="orthography">อันนี้นะอันนี้นะดูนะ</a>
+</u>
+<u who="MOT" uID="u104">
+<w>ʔee4</w>
+<w>chOOp2</w>
+<w>len2</w>
+<w>la2</w>
+<w>si1</w>
+<t type="p"></t>
+<media
+  start="489.000"
+  end="495.000"
+  unit="s"
+/>
+<a type="orthography">เอ๋ ชอบเล่นล่ะสิ</a>
+</u>
+<u who="MOT" uID="u105">
+<w>ʔaw0</w>
+<w>pa1</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>saj1</w>
+<w>pa1</w>
+<t type="p"></t>
+<media
+  start="495.000"
+  end="497.000"
+  unit="s"
+/>
+<a type="orthography">เอาปะน้องซีใส่ปะ</a>
+</u>
+<u who="MOT" uID="u106">
+<w>nuun2</w>
+<w>nuun2</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>nuun2</w>
+<t type="p"></t>
+<media
+  start="497.000"
+  end="502.000"
+  unit="s"
+/>
+<a type="orthography">นู่นๆน้องซีนู่น</a>
+</u>
+<u who="MOT" uID="u107">
+<w>mxx2</w>
+<w>mxx2</w>
+<w>haj2</w>
+<w>nOON3</w>
+<w>sii0</w>
+<w>saj1</w>
+<w>wxn2</w>
+<w>na3</w>
+<t type="p"></t>
+<media
+  start="502.000"
+  end="505.000"
+  unit="s"
+/>
+<a type="orthography">แม่แม่ให้น้องซีใส่แว่นนะ</a>
+</u>
+<u who="MOT" uID="u108">
+<w>saj1</w>
+<w>wxn2</w>
+<w>saj1</w>
+<w>wxn2</w>
+<t type="p"></t>
+<media
+  start="505.000"
+  end="507.000"
+  unit="s"
+/>
+<a type="orthography">ใส่แว่นใส่แว่น</a>
+</u>
+<u who="MOT" uID="u109">
+<w>nii2</w>
+<w>nii2</w>
+<w>ca3</w>
+<w>ʔee4</w>
+<t type="p"></t>
+<media
+  start="507.000"
+  end="510.000"
+  unit="s"
+/>
+<a type="orthography">นี่ๆ จ๊ะเอ๋</a>
+</u>
+<u who="MOT" uID="u110">
+<w>len2</w>
+<w>ʔan0</w>
+<w>naj4</w>
+<w>len2</w>
+<w>ʔan0</w>
+<w>naj4</w>
+<t type="p"></t>
+<media
+  start="510.000"
+  end="519.000"
+  unit="s"
+/>
+<a type="orthography">เล่นอันไหนเล่นอันไหน</a>
+</u>
+<u who="MOT" uID="u111">
+<w>ʔiiaN0</w>
+<w>khOOm0</w>
+<w>ʔoN0</w>
+<w>jaaN1</w>
+<w>nii3</w>
+<w>jaaN1</w>
+<w>nii3</w>
+<w>jaaN1</w>
+<w>nii3</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>ʔaw2</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>maj1</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>maj1</w>
+<t type="p"></t>
+<media
+  start="519.000"
+  end="530.000"
+  unit="s"
+/>
+<a type="orthography">เอียงคอมองอย่างนี้อย่างนี้อย่างนี้ เอียงคอ เอ้าเอียงคอใหม่ เอียงคอใหม่</a>
+</u>
+<u who="MOT" uID="u112">
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<t type="p"></t>
+<media
+  start="530.000"
+  end="532.000"
+  unit="s"
+/>
+<a type="orthography">เอียงคอมองเอียงคอมอง</a>
+</u>
+<u who="MOT" uID="u113">
+<w>nOON3</w>
+<w>sii0</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<w>kOOn1</w>
+<t type="p"></t>
+<media
+  start="532.000"
+  end="534.000"
+  unit="s"
+/>
+<a type="orthography">น้องซีเอียงคอมองก่อน</a>
+</u>
+<u who="MOT" uID="u114">
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<w>ʔiiaN0</w>
+<w>duuaj2</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>duuaj2</w>
+<t type="p"></t>
+<media
+  start="534.000"
+  end="539.000"
+  unit="s"
+/>
+<a type="orthography">เอียงคอมอง เอียงด้วยเอียงคอด้วย</a>
+</u>
+<u who="MOT" uID="u115">
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<w>duu0</w>
+<w>si3</w>
+<t type="p"></t>
+<media
+  start="539.000"
+  end="541.000"
+  unit="s"
+/>
+<a type="orthography">เอียงคอมองดูซิ</a>
+</u>
+<u who="MOT" uID="u116">
+<w>ʔiiaN0</w>
+<w>taam0</w>
+<w>naa3</w>
+<w>ʔiiaN0</w>
+<w>khOO0</w>
+<w>mOON0</w>
+<t type="p"></t>
+<media
+  start="541.000"
+  end="544.000"
+  unit="s"
+/>
+<a type="orthography">เอียงตามน้า เอียงคอมอง</a>
+</u>
+<u who="MOT" uID="u117">
+<w>ʔiiaN0</w>
+<w>ʔiik1</w>
+<t type="p"></t>
+<media
+  start="544.000"
+  end="548.000"
+  unit="s"
+/>
+<a type="orthography">เอียงอีก</a>
+</u>
+<u who="MOT" uID="u118">
+<w>khaaN2</w>
+<w>nii3</w>
+<w>baaN2</w>
+<w>khaaN2</w>
+<w>nii3</w>
+<w>baaN2</w>
+<t type="p"></t>
+<media
+  start="548.000"
+  end="550.000"
+  unit="s"
+/>
+<a type="orthography">ข้างนี้บ้างข้างนี้บ้าง</a>
+</u>
+<u who="MOT" uID="u119">
+<w>khaaN2</w>
+<w>nii3</w>
+<w>baaN2</w>
+<t type="p"></t>
+<media
+  start="550.000"
+  end="551.000"
+  unit="s"
+/>
+<a type="orthography">ข้างนี้บ้าง</a>
+</u>
+<u who="MOT" uID="u120">
+<w>lap1</w>
+<w>taa0</w>
+<w>pii4</w>
+<t type="p"></t>
+<media
+  start="551.000"
+  end="553.000"
+  unit="s"
+/>
+<a type="orthography">หลับตาปี๋</a>
+</u>
+<u who="MOT" uID="u121">
+<w>lap1</w>
+<w>taa0</w>
+<w>rew0</w>
+<w>lap1</w>
+<w>taa0</w>
+<w>pii4</w>
+<w>kOOn1</w>
+<t type="p"></t>
+<media
+  start="553.000"
+  end="555.000"
+  unit="s"
+/>
+<a type="orthography">หลับตาเร็ว หลับตาปี๋ก่อน</a>
+</u>
+<u who="MOT" uID="u122">
+<w>nii2</w>
+<w>ʔaw0</w>
+<w>maj1</w>
+<w>ʔaw0</w>
+<w>maj1</w>
+<t type="p"></t>
+<media
+  start="555.000"
+  end="558.000"
+  unit="s"
+/>
+<a type="orthography">นี่ เอาใหม่เอาใหม่</a>
+</u>
+<u who="MOT" uID="u123">
+<w>lap1</w>
+<w>taa0</w>
+<w>pii4</w>
+<t type="p"></t>
+<media
+  start="558.000"
+  end="559.000"
+  unit="s"
+/>
+<a type="orthography">หลับตาปี๋</a>
+</u>
+<u who="MOT" uID="u124">
+<w>lap1</w>
+<w>taa0</w>
+<w>pii4</w>
+<t type="p"></t>
+<media
+  start="559.000"
+  end="561.000"
+  unit="s"
+/>
+<a type="orthography">หลับตาปี๋</a>
+</u>
+<u who="MOT" uID="u125">
+<w>tO3</w>
+<w>paak1</w>
+<t type="p"></t>
+<media
+  start="561.000"
+  end="562.000"
+  unit="s"
+/>
+<a type="orthography">เต๊าะปาก</a>
+</u>
+<u who="MOT" uID="u126">
+<w>tO3</w>
+<w>paak1</w>
+<w>pen0</w>
+<w>plaaw1</w>
+<t type="p"></t>
+<media
+  start="562.000"
+  end="565.000"
+  unit="s"
+/>
+<a type="orthography">เต๊าะปากเป็นเปล่า</a>
+</u>
+<u who="MOT" uID="u127">
+<w>tham0</w>
+<w>Naj0</w>
+<w>tham0</w>
+<w>Naj0</w>
+<t type="p"></t>
+<media
+  start="565.000"
+  end="566.000"
+  unit="s"
+/>
+<a type="orthography">ทำไงทำไง</a>
+</u>
+<u who="MOT" uID="u128">
+<w>maj2</w>
+<w>tham0</w>
+<w>lxxw3</w>
+<w>nuu4</w>
+<w>maj2</w>
+<w>tham0</w>
+<w>lxxw3</w>
+<t type="p"></t>
+<media
+  start="566.000"
+  end="570.000"
+  unit="s"
+/>
+<a type="orthography">ไม่ทำแล้วหนูไม่ทำแล้ว</a>
+</u>
+<u who="VIS" uID="u129">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="570.000"
+  end="576.000"
+  unit="s"
+/>
+</u>
+<u who="VIS" uID="u130">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="576.000"
+  end="580.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u131">
+<w>khraj0</w>
+<w>ʔa1</w>
+<t type="p"></t>
+<media
+  start="580.000"
+  end="581.500"
+  unit="s"
+/>
+<a type="orthography">ใครอะ</a>
+</u>
+<u who="MOT" uID="u132">
+<w>tO3</w>
+<w>paak1</w>
+<t type="p"></t>
+<media
+  start="581.500"
+  end="582.500"
+  unit="s"
+/>
+<a type="orthography">เต๊าะปาก</a>
+</u>
+<u who="MOT" uID="u133">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="582.500"
+  end="585.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u134">
+<w>tO3</w>
+<w>paak1</w>
+<t type="p"></t>
+<media
+  start="585.000"
+  end="586.000"
+  unit="s"
+/>
+<a type="orthography">เต๊าะปาก</a>
+</u>
+<u who="VIS" uID="u135">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="586.000"
+  end="590.000"
+  unit="s"
+/>
+</u>
+<u who="CHI" uID="u136">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="590.000"
+  end="591.000"
+  unit="s"
+/>
+</u>
+<u who="MOT" uID="u137">
+<w>hUUm4</w>
+<w>khraj0</w>
+<w>waa1</w>
+<t type="p"></t>
+<media
+  start="591.000"
+  end="593.000"
+  unit="s"
+/>
+<a type="orthography">หืม ใครหว่า</a>
+</u>
+<u who="VIS" uID="u138">
+<w untranscribed="unintelligible">xxx</w>
+<t type="p"></t>
+<media
+  start="593.000"
+  end="599.000"
+  unit="s"
+/>
+</u>
 </CHAT>

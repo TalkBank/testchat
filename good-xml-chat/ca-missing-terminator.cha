@@ -5,7 +5,7 @@
 @Participants:	MOT Mother, CHI Target_Child
 @Options:	CA
 @ID:	eng|sample|MOT|||||Mother|||
-@ID:	eng|sample|CHI|1;10.4||||Target_Child|||
+@ID:	eng|sample|CHI|1;10.04||||Target_Child|||
 @Media:	tai940505, video
 @Comment:	missing terminator for CA is legal
 *CHI:	crap 
