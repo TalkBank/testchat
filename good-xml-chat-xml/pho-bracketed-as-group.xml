@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+Media="01" Mediatypes="video"
+      Font="Arial:14:0"
+      Version="2.7.0"
+      Lang="fra"
+      Corpus="Anae"
+      Date="2007-12-07">
+<Participants>
+<participant
+  id="CHI"
+name="Anaé"
+  role="Target_Child"
+language="fra"
+age="P1Y04M13D"
+sex="female"
+
+birthday="2006-07-24"
+
+/>
+<participant
+  id="MOT"
+name="Marie"
+  role="Mother"
+language="fra"
+age="P26Y11M25D"
+sex="female"
+
+birthday="1980-12-12"
+
+/>
+<participant
+  id="BRO"
+name="Ael"
+  role="Brother"
+language="fra"
+age="P4Y06M22D"
+sex="male"
+
+birthday="2003-05-15"
+
+/>
+<participant
+  id="BR1"
+name="Arthur"
+  role="Brother"
+language="fra"
+age="P8Y00M29D"
+sex="male"
+
+birthday="1999-11-08"
+
+/>
+</Participants>
+<comment type="Location">Anaé's home</comment>
+<comment type="Generic">coder - students (November 2010) - Emmanuelle Mathiot - Françoise Bourdoux (June 2012) 2010)</comment>
+<comment type="Situation">c'est l'heure du goûter, CHI mange une sucette dans sa chaise haute</comment>
+<comment type="Date">07-DEC-2007</comment>
+<u who="CHI" uID="u0">
+<pg><w>dans<mor type="mor"><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor></w><actual><pw><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">̃</ph></pw></actual></pg>
+<pg><w>ma<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>ma</stem><mk type="sfxf">sg</mk></mw></mor></w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph></pw></actual></pg>
+<pg><w>maison<mor type="mor"><mw><pos><c>n</c></pos><stem>maison</stem><mk type="sfxf">f</mk></mw></mor></w><actual><pw><ph id="ph0">m</ph><ph id="ph1">e</ph><ph id="ph2">z</ph><ph id="ph3">ɔ</ph><ph id="ph4">̃</ph></pw></actual></pg>
+<pg><w>aussi<mor type="mor"><mw><pos><c>adv</c></pos><stem>aussi</stem></mw></mor></w><actual><pw><ph id="ph0">o</ph><ph id="ph1">s</ph><ph id="ph2">i</ph></pw></actual></pg>
+<g><pg><w type="omission">il<mor type="mor"><mw><pos><c>0pro</c><s>subj</s></pos><stem>il</stem></mw></mor></w>
+<w>y<mor type="mor"><mw><pos><c>pro</c><s>y</s></pos><stem>y</stem></mw></mor></w>
+<w>a<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>avoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg><overlap type="overlap precedes"/></g>
+<t type="trail off"><mor type="mor"><mt type="trail off"/></mor></t>
+
+</u>
+</CHAT>
