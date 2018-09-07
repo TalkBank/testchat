@@ -5,7 +5,7 @@
 @Participants:	MOT Mother, CHI Target_Child
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
-@Media:	tai940505, video
+@Media:	url-no-multi, video
 @Comment:	bullets in an utterance
 *CHI:	one 2041689_2042652
 	two 2042652_2043653

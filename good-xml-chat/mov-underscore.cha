@@ -5,7 +5,7 @@
 @Participants:	MOT Mother, CHI Target_Child
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
-@Media:	tai940505, video
+@Media:	mov-underscore, video
 @Comment:	test video bullet that can be underlined
 *CHI:	foo  2041689_2042652
 	  <ryoote agete> [=! singing] . [+ bch] [+ foo] 2041689_2042652

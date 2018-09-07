@@ -6,7 +6,7 @@
 @Options:	CA
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
-@Media:	tai940505, video
+@Media:	line, video
 @Comment:	formerly had "line" option, but no longer
 *CHI:	crap 2041689_2042652
 	(9.4) . 2042652_2043652

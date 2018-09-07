@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-Media="59" Mediatypes="audio"
+Media="indent-overlap-in-word" Mediatypes="audio"
       Version="2.7.0"
       Lang="eng"
       Options="CA caps"

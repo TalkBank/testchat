@@ -4,7 +4,7 @@
 @Participants:	CHI Lydia Target_Child, MOT Mother_of_Lydia Mother
 @ID:	eng|gesture|CHI|1;01.06|female|hearingloss||Target_Child|||
 @ID:	eng|gesture|MOT||female|||Mother|||
-@Media:	58LL13, video
+@Media:	sin-main-zero, video
 @Comment:	Allow 0 to be part of sin group
 *CHI:	0 . 23317_24870
 %sin:	g:toy:dpoint

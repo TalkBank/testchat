@@ -8,7 +8,7 @@
 @ID:	fra|Paris-Corpus_Leonard|PAT|||||Family_Friend|||
 @ID:	fra|Paris-Corpus_Leonard|OBS|||||Observer|||
 @Birth of CHI:	15-OCT-1990
-@Media:	01, video
+@Media:	pho-mod-order, video
 @Date:	23-JUN-1992
 @Comment:	Test %mod and %pho order.
 *CHI:	oh ! 0_12286

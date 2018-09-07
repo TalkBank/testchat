@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-Media="01-09-1" Mediatypes="video"
+Media="thai" Mediatypes="video"
       Version="2.7.0"
       Lang="tha"
       Corpus="chula"
