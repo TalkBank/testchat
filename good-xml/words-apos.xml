@@ -7,29 +7,29 @@
       Lang="fra"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="fra"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="fra"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="fra"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="fra"
 
-/>
-</Participants>
-<comment type="Generic">words with apostrophe</comment>
-<u who="CHI" uID="u0">
-<w>foo</w>
-<w>d'Eoin</w>
-<w>bar</w>
-<t type="p"></t>
+    />
+  </Participants>
+  <comment type="Generic">words with apostrophe</comment>
+  <u who="CHI" uID="u0">
+    <w>foo</w>
+    <w>d'Eoin</w>
+    <w>bar</w>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>

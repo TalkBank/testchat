@@ -1,4 +1,3 @@
-@Font:	CAfont:16:0
 @UTF8
 @Begin
 @Languages:	eng, deu
@@ -8,7 +7,7 @@
 @Birth of CHI:	28-JUN-2001
 @Birthplace of CHI:	Taipei, Taiwan
 @L1 of CHI:	ara
-@Media:	headers, video
+@Media:	headers, video, unlinked
 @Comment:	Test all headers FAKE_WORD = ({ALNUM} | [\_\@\&\;\-\!\?\.\,\'\"\+\<\>\(\)\/\=\~\*\#\`\\\%\^\$] | {TAG_CHAR})+
 *CHI:	foo .
 @Exceptions:	foo

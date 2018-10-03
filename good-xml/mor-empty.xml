@@ -3,61 +3,61 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-Media="mor-empty" Mediatypes="video"
+      Media="mor-empty" Mediatypes="video"
       Version="2.7.0"
       Lang="zho eng"
       Corpus="yipmatthews"
       Date="2001-09-21">
-<Participants>
-<participant
-  id="CHI"
-name="Alicia"
-  role="Target_Child"
-language="zho eng"
-age="P1Y03M24D"
+  <Participants>
+    <participant
+      id="CHI"
+    name="Alicia"
+      role="Target_Child"
+      language="zho eng"
+      age="P1Y03M24D"
 
-birthday="2000-05-28"
+      birthday="2000-05-28"
 
-/>
-<participant
-  id="MIC"
-name="Michelle"
-  role="Investigator"
-language="zho eng"
+    />
+    <participant
+      id="MIC"
+    name="Michelle"
+      role="Investigator"
+      language="zho eng"
 
-/>
-<participant
-  id="CES"
-name="Ee_San"
-  role="Investigator"
-language="zho eng"
+    />
+    <participant
+      id="CES"
+    name="Ee_San"
+      role="Investigator"
+      language="zho eng"
 
-/>
-<participant
-  id="FAT"
-  role="Father"
-language="zho eng"
+    />
+    <participant
+      id="FAT"
+      role="Father"
+      language="zho eng"
 
-/>
-<participant
-  id="HOU"
-name="Belma"
-  role="Housekeeper"
-language="zho eng"
+    />
+    <participant
+      id="HOU"
+    name="Belma"
+      role="Housekeeper"
+      language="zho eng"
 
-/>
-</Participants>
-<comment type="Date">21-SEP-2001</comment>
-<comment type="Tape Location">A028</comment>
-<comment type="Transcriber">Michelle Li, Uta Lam</comment>
-<comment type="Generic">16 minutes recording</comment>
-<u who="MIC" uID="u0">
-<w type="fragment">hm</w>
-<t type="q"><mor type="mor"><mt type="q"/></mor></t>
-<media
-  start="1204.305"
-  end="1206.352"
-  unit="s"
-/>
-</u>
+    />
+  </Participants>
+  <comment type="Date">21-SEP-2001</comment>
+  <comment type="Tape Location">A028</comment>
+  <comment type="Transcriber">Michelle Li, Uta Lam</comment>
+  <comment type="Generic">16 minutes recording</comment>
+  <u who="MIC" uID="u0">
+    <w type="fragment">hm</w>
+    <t type="q"><mor type="mor"><mt type="q"/></mor></t>
+    <media
+      start="1204.305"
+      end="1206.352"
+      unit="s"
+    />
+  </u>
 </CHAT>

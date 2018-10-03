@@ -7,50 +7,50 @@
       Lang="eng"
       Corpus="providence"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="TXT"
-  role="Text"
-language="eng"
-age="P1Y09M08D"
-sex="female"
+  <Participants>
+    <participant
+      id="TXT"
+      role="Text"
+      language="eng"
+      age="P1Y09M08D"
+      sex="female"
 
-/>
-</Participants>
-<u who="TXT" uID="u0">
-<w>text</w>
-<t type="p"></t>
+    />
+  </Participants>
+  <u who="TXT" uID="u0">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">TTHIS can (happen) in "quotes" or even with !! sometimes.</a>
-</u>
-<u who="TXT" uID="u1">
-<w>text</w>
-<t type="p"></t>
+    <a type="comments">TTHIS can (happen) in "quotes" or even with !! sometimes.</a>
+  </u>
+  <u who="TXT" uID="u1">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">a-a-and - -- we get *** /this\ or #{this} with @^$ + and the rest.</a>
-</u>
-<u who="TXT" uID="u2">
-<w>text</w>
-<t type="p"></t>
+    <a type="comments">a-a-and - -- we get *** /this\ or #{this} with @^$ + and the rest.</a>
+  </u>
+  <u who="TXT" uID="u2">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">then there is IPA ɟɮɬːɟɮːɬʉɨɤθ and so on</a>
-</u>
-<u who="TXT" uID="u3">
-<w>text</w>
-<t type="p"></t>
+    <a type="comments">then there is IPA ɟɮɬːɟɮːɬʉɨɤθ and so on</a>
+  </u>
+  <u who="TXT" uID="u3">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">and there are the CA characters ↓↑∆∇t☺ and so on (see manual)</a>
-</u>
-<u who="TXT" uID="u4">
-<w>text</w>
-<t type="p"></t>
+    <a type="comments">and there are the CA characters ↓↑∆∇t☺ and so on (see manual)</a>
+  </u>
+  <u who="TXT" uID="u4">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">and CJK 阿萨德</a>
-</u>
-<u who="TXT" uID="u5">
-<w>text</w>
-<t type="p"></t>
+    <a type="comments">and CJK 阿萨德</a>
+  </u>
+  <u who="TXT" uID="u5">
+    <w>text</w>
+    <t type="p"></t>
 
-<a type="comments">there are extended Latin characters ňŝâ, and Greek ζΫβ, Cyrillic чДЋ, Hebrew דים, and some هإكآday we will have Arabic etc.</a>
-</u>
+    <a type="comments">there are extended Latin characters ňŝâ, and Greek ζΫβ, Cyrillic чДЋ, Hebrew דים, and some هإكآday we will have Arabic etc.</a>
+  </u>
 </CHAT>

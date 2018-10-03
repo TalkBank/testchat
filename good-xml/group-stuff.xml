@@ -7,27 +7,27 @@
       Lang="ara"
       Corpus="aarsenbos"
       Date="1991-06-20">
-<Participants>
-<participant
-  id="CHI"
-name="Chariba"
-  role="Target_Child"
-language="ara"
-age="P8Y09M12D"
+  <Participants>
+    <participant
+      id="CHI"
+    name="Chariba"
+      role="Target_Child"
+      language="ara"
+      age="P8Y09M12D"
 
-/>
-<participant
-  id="HAY"
-name="Hayat"
-  role="Investigator"
-language="ara"
+    />
+    <participant
+      id="HAY"
+    name="Hayat"
+      role="Investigator"
+      language="ara"
 
-/>
-</Participants>
-<comment type="Date">20-JUN-1991</comment>
-<u who="CHI" uID="u0">
-<g><w>ana</w><k type="retracing with correction"/></g>
-<t type="p"></t>
+    />
+  </Participants>
+  <comment type="Date">20-JUN-1991</comment>
+  <u who="CHI" uID="u0">
+    <g><w>ana</w><k type="retracing with correction"/></g>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>

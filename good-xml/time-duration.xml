@@ -7,30 +7,30 @@
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
 
-/>
-</Participants>
-<comment type="Time Duration">8:30:31</comment>
-<u who="CHI" uID="u0">
-<w>what</w>
-<s type="clause delimiter"/>
-<w>why</w>
-<w>now</w>
-<t type="q"></t>
+    />
+  </Participants>
+  <comment type="Time Duration">8:30:31</comment>
+  <u who="CHI" uID="u0">
+    <w>what</w>
+    <s type="clause delimiter"/>
+    <w>why</w>
+    <w>now</w>
+    <t type="q"></t>
 
-</u>
+  </u>
 </CHAT>

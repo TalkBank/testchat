@@ -7,25 +7,25 @@
       Lang="eng"
       Corpus="W"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="SUB"
-name="20_01_G"
-  role="Participant"
-language="eng"
+  <Participants>
+    <participant
+      id="SUB"
+    name="20_01_G"
+      role="Participant"
+      language="eng"
 
-/>
-<participant
-  id="EXA"
-name="Investigator"
-  role="Investigator"
-language="eng"
+    />
+    <participant
+      id="EXA"
+    name="Investigator"
+      role="Investigator"
+      language="eng"
 
-/>
-</Participants>
-<u who="SUB" uID="u0">
-<w type="fragment">lil<replacement><w>little<mor type="mor"><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor></w></replacement></w>
-<t type="p"><mor type="mor"><mt type="p"/></mor></t>
+    />
+  </Participants>
+  <u who="SUB" uID="u0">
+    <w type="fragment">lil<replacement><w>little<mor type="mor"><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor></w></replacement></w>
+    <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
-</u>
+  </u>
 </CHAT>

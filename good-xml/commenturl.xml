@@ -7,29 +7,29 @@
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
 
-/>
-</Participants>
-<u who="CHI" uID="u0">
-<w>what</w>
-<w>why</w>
-<w>now</w>
-<t type="q"></t>
+    />
+  </Participants>
+  <u who="CHI" uID="u0">
+    <w>what</w>
+    <w>why</w>
+    <w>now</w>
+    <t type="q"></t>
 
-</u>
-<comment type="Generic">prototype <mediaPic href="beverly2.JPG"/></comment>
+  </u>
+  <comment type="Generic">prototype <mediaPic href="beverly2.JPG"/></comment>
 </CHAT>

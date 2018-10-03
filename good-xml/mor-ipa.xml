@@ -7,31 +7,31 @@
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
 
-/>
-</Participants>
-<comment type="Generic">Simple example</comment>
-<u who="MOT" uID="u0">
-<g><w formType="UNIBET">kɛstɰə˞<replacement real="true"><w>giftware</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>kɛstɰə˞</stem></mw></mor></w><error>n:k</error></g>
-<g><w>no</w><k type="retracing with correction"/></g>
-<w type="fragment">in</w>
-<e><happening>shakes:head</happening></e>
-<g><w formType="UNIBET">ɪnstlə<replacement real="true"><w>includes</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>ɪnstlə</stem></mw></mor></w><error>n:k</error></g>
-<t type="trail off"><mor type="mor"><mt type="trail off"/></mor></t>
+    />
+  </Participants>
+  <comment type="Generic">Simple example</comment>
+  <u who="MOT" uID="u0">
+    <g><w formType="UNIBET">kɛstɰə˞<replacement real="true"><w>giftware</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>kɛstɰə˞</stem></mw></mor></w><error>n:k</error></g>
+    <g><w>no</w><k type="retracing with correction"/></g>
+    <w type="fragment">in</w>
+    <e><happening>shakes:head</happening></e>
+    <g><w formType="UNIBET">ɪnstlə<replacement real="true"><w>includes</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>ɪnstlə</stem></mw></mor></w><error>n:k</error></g>
+    <t type="trail off"><mor type="mor"><mt type="trail off"/></mor></t>
 
-</u>
+  </u>
 </CHAT>

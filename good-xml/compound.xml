@@ -8,26 +8,26 @@
       Lang="zho eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="zho eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="zho eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="zho eng"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="zho eng"
 
-/>
-</Participants>
-<u who="CHI" uID="u0">
-<g><w>wai4<wk type="cmp"/>yu3</w><error/><ga type="explanation">wai+yu</ga></g>
-<t type="p"></t>
+    />
+  </Participants>
+  <u who="CHI" uID="u0">
+    <g><w>wai4<wk type="cmp"/>yu3</w><error/><ga type="explanation">wai+yu</ga></g>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>

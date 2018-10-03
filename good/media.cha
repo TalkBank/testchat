@@ -6,6 +6,6 @@
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
 @Media:	media, video, missing
-@Comment:	test media header missing
-*CHI:	foo bar . 2041689_2042652
+@Comment:	test media header missing, no bullets
+*CHI:	foo bar .
 @End

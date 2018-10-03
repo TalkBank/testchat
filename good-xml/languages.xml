@@ -7,32 +7,32 @@
       Lang="eng zho zho-yue"
       Corpus="bates"
       Date="1964-07-23">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng zho zho-yue"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng zho zho-yue"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng zho zho-yue"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng zho zho-yue"
 
-/>
-</Participants>
-<comment type="Date">23-JUL-1964</comment>
-<comment type="Generic">Multiple languages</comment>
-<u who="CHI" uID="u0">
-<w>hey</w>
-<w>there</w>
-<w>what</w>
-<w>is</w>
-<w>this</w>
-<t type="q"></t>
+    />
+  </Participants>
+  <comment type="Date">23-JUL-1964</comment>
+  <comment type="Generic">Multiple languages</comment>
+  <u who="CHI" uID="u0">
+    <w>hey</w>
+    <w>there</w>
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <t type="q"></t>
 
-</u>
+  </u>
 </CHAT>
