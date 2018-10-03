@@ -7,25 +7,25 @@
       Lang="eng spa"
       Corpus="samples"
       Date="1984-01-01">
-  <Participants>
-    <participant
-      id="MOT"
-      role="Mother"
-      language="eng"
+<Participants>
+<participant
+  id="MOT"
+  role="Mother"
+language="eng"
 
-    />
-    <participant
-      id="CHI"
-      role="Target_Child"
-      language="eng"
+/>
+<participant
+  id="CHI"
+  role="Target_Child"
+language="eng"
 
-    />
-  </Participants>
-  <comment type="Generic">@s with no space after it</comment>
-  <u who="MOT" uID="u0">
-    <w>what's</w>
-    <w><langs><single>spa</single></langs>that</w>
-    <t type="q"></t>
+/>
+</Participants>
+<comment type="Generic">@s with no space after it</comment>
+<u who="MOT" uID="u0">
+<w>what's</w>
+<w><langs><single>spa</single></langs>that</w>
+<t type="q"></t>
 
-  </u>
+</u>
 </CHAT>

@@ -50,12 +50,6 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.talkbank.chatter.App.main(App.java:162)
 
 *** File "capitals-prefixes.cha": line 6, column 22: parser: semantic failure: "UnMacDonald" is not a legal word in language "eng"
-*** File "code.cha": line 4, column 15: lexer: skipping nonviable character 'e' in state 32
-*** File "code.cha": line 4, column 16: lexer: skipping nonviable character 'n' in state 32
-*** File "code.cha": line 4, column 17: parser: missing LANGUAGE_CODE at '|'
-*** File "code.cha": line 5, column 15: lexer: skipping nonviable character 'e' in state 32
-*** File "code.cha": line 5, column 16: lexer: skipping nonviable character 'n' in state 32
-*** File "code.cha": line 5, column 17: parser: missing LANGUAGE_CODE at '|'
 *** File "code.cha": line 6, column 1: lexer: skipping nonviable character '@' in state 0
 *** File "code.cha": line 6, column 2: lexer: skipping nonviable character 'C' in state 0
 *** File "code.cha": line 6, column 3: lexer: skipping nonviable character 'o' in state 0
