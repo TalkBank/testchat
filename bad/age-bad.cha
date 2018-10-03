@@ -1,9 +1,8 @@
 @UTF8
 @Begin
 @Languages:	eng
-@Participants:	CHI Child, CHJ Child, CHK Child, CHL Child
-@ID:	eng|bates|CHJ|1;8.|female|normal||Child|||
-@ID:	eng|bates|CHK|1;08.9|female|normal||Child|||
+@Participants:	CHI Child
+@ID:	eng|bates|CHI|1;8.|female|normal||Child|||
 @Comment:	month and day must be 2 digits
 *CHI:	test .
 @End

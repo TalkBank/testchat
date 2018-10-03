@@ -4,8 +4,8 @@
 @Languages:	deu, eng
 @Participants:	CHI Child, MOT Mother
 @Options:	sign
-@ID:	deu, eng|bates|CHI|1;08.|female|normal||Child||
-@ID:	deu, eng|bates|MOT|||||Mother||
+@ID:	deu, eng|bates|CHI|1;08.|female|normal||Child|||
+@ID:	deu, eng|bates|MOT|||||Mother|||
 *CHI:	black+board@s ist dumm .
 *CHI:	cylindrical+CL+sass@m is here .
 *CHI:	black+board@s:en ist dumm .
