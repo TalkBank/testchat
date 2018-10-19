@@ -4,33 +4,33 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="CAfont:16:0"
-      Version="2.7.0"
+      Version="2.7.1"
       Lang="eng zho"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng zho"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng zho"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng zho"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng zho"
 
-/>
-</Participants>
-<comment type="Generic">number can be in compound word</comment>
-<comment type="New Language">zho</comment>
-<u who="CHI" uID="u0">
-<w>zhei4<wk type="cmp"/>ge</w>
-<w>hello</w>
-<t type="p"></t>
+    />
+  </Participants>
+  <comment type="Generic">number can be in compound word</comment>
+  <comment type="New Language">zho</comment>
+  <u who="CHI" uID="u0">
+    <w>zhei4<wk type="cmp"/>ge</w>
+    <w>hello</w>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>

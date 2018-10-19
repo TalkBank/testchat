@@ -3,54 +3,54 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.7.0"
+      Version="2.7.1"
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="Child"
-language="eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-<participant
-  id="MOT"
-  role="Mother"
-language="eng"
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
 
-/>
-</Participants>
-<comment type="Generic">test all the legal form markers</comment>
-<u who="CHI" uID="u0">
-<w formType="addition">a</w>
-<w formType="babbling">a</w>
-<w formType="child-invented">a</w>
-<w formType="dialect">a</w>
-<w formType="echolalia">a</w>
-<w formType="family-specific">a</w>
-<w formType="filled pause">a</w>
-<w formType="filler syllable">a</w>
-<w formType="generic">a</w>
-<w formType="interjection">a</w>
-<w formType="kana">a</w>
-<w formType="letter">a</w>
-<w formType="neologism">a</w>
-<w formType="no voice">a</w>
-<w formType="onomatopoeia">a</w>
-<w formType="phonology consistent">a</w>
-<w formType="quoted metareference">a</w>
-<w formType="sign speech">a</w>
-<w formType="singing">a</w>
-<w formType="signed language">a</w>
-<w formType="test">a</w>
-<w formType="word play">a</w>
-<w formType="words to be excluded">a</w>
-<w formType="words to be excluded">a<pos><c>adj</c></pos></w>
-<t type="p"></t>
+    />
+  </Participants>
+  <comment type="Generic">test all the legal form markers</comment>
+  <u who="CHI" uID="u0">
+    <w formType="addition">a</w>
+    <w formType="babbling">a</w>
+    <w formType="child-invented">a</w>
+    <w formType="dialect">a</w>
+    <w formType="echolalia">a</w>
+    <w formType="family-specific">a</w>
+    <w formType="filled pause">a</w>
+    <w formType="filler syllable">a</w>
+    <w formType="generic">a</w>
+    <w formType="interjection">a</w>
+    <w formType="kana">a</w>
+    <w formType="letter">a</w>
+    <w formType="neologism">a</w>
+    <w formType="no voice">a</w>
+    <w formType="onomatopoeia">a</w>
+    <w formType="phonology consistent">a</w>
+    <w formType="quoted metareference">a</w>
+    <w formType="sign speech">a</w>
+    <w formType="singing">a</w>
+    <w formType="signed language">a</w>
+    <w formType="test">a</w>
+    <w formType="word play">a</w>
+    <w formType="words to be excluded">a</w>
+    <w formType="words to be excluded">a<pos><c>adj</c></pos></w>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>

@@ -3,25 +3,25 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.7.0"
+      Version="2.7.1"
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
-<Participants>
-<participant
-  id="CHI"
-  role="ShowHost"
-language="eng"
-age="P1Y08M"
-sex="female"
-group="normal"
+  <Participants>
+    <participant
+      id="CHI"
+      role="ShowHost"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
 
-/>
-</Participants>
-<comment type="Generic">Test role ShowHost</comment>
-<u who="CHI" uID="u0">
-<w>foo</w>
-<t type="p"></t>
+    />
+  </Participants>
+  <comment type="Generic">Test role ShowHost</comment>
+  <u who="CHI" uID="u0">
+    <w>foo</w>
+    <t type="p"></t>
 
-</u>
+  </u>
 </CHAT>
