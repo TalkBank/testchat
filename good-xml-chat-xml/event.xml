@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="Arial Unicode MS:12:0"
-      Version="2.7.1"
+      Version="2.8.0"
       Lang="eng"
       Corpus="timmy"
       Date="1996-02-29">
@@ -49,6 +49,26 @@
     <w>you</w>
     <e><happening>cough</happening></e>
     <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u1">
+    <e><happening>TAPE_CUTS_OFF_BEFORE_EVENT_FINISHES</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <e><happening>TRANSCRIPT_ABORTED_AT_26:34:_POOR_SOUND_QUALITY_LAST_42_MIN</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u3">
+    <e><happening>VIDEO_CLIP_THROUGHOUT_NEXT_:22_OF_UTTERANCE</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u4">
+    <e><happening>END_FIRST_TAPE/_BEGIN_SECOND_TAPE</happening></e>
+    <t type="p"></t>
 
   </u>
 </CHAT>

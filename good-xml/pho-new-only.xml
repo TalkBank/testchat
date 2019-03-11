@@ -4,9 +4,8 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="CAfont:16:0"
-      Version="2.7.1"
+      Version="2.8.0"
       Lang="ind jav"
-      Options="caps"
       Corpus="IDO"
       Date="2000-06-23">
   <Participants>

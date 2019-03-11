@@ -6,5 +6,5 @@
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
 @Comment:	test pause with . (not _ any  more)
-*CHI:	word (1.5) .
+*CHI:	word (7:1.5) .
 @End

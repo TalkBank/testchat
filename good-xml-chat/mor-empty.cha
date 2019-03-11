@@ -1,18 +1,10 @@
 @UTF8
 @Begin
-@Languages:	zho, eng
-@Participants:	CHI Alicia Target_Child, MIC Michelle Investigator, CES Ee_San Investigator, FAT Father, HOU Belma Housekeeper
-@ID:	zho, eng|yipmatthews|CHI|1;03.24||||Target_Child|||
-@ID:	zho, eng|yipmatthews|MIC|||||Investigator|||
-@ID:	zho, eng|yipmatthews|CES|||||Investigator|||
-@ID:	zho, eng|yipmatthews|FAT|||||Father|||
-@ID:	zho, eng|yipmatthews|HOU|||||Housekeeper|||
-@Birth of CHI:	28-MAY-2000
-@Media:	mor-empty, video
-@Date:	21-SEP-2001
-@Tape Location:	A028
-@Transcriber:	Michelle Li, Uta Lam
-@Comment:	16 minutes recording
-*MIC:	&hm ? 1204305_1206352
-%mor:	?
+@Languages:	eng
+@Participants:	CHI Child, MOT Mother
+@ID:	eng|bates|CHI|1;08.|female|normal||Child|||
+@ID:	eng|bates|MOT|||||Mother|||
+@Comment:	Empty mor line because of retrace.
+*MOT:	<eei@o eei@o> [/?] +/.
+%mor:	+/.
 @End

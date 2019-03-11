@@ -4,9 +4,9 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="indent-overlap-in-word" Mediatypes="audio"
-      Version="2.7.1"
+      Version="2.8.0"
       Lang="eng"
-      Options="CA caps"
+      Options="CA"
       Corpus="SBCSAE"
       Date="1984-01-01">
   <Participants>
