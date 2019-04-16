@@ -1,11 +1,11 @@
 @UTF8
 @Begin
 @Languages:	fra
-@Participants:	CHI Léonard Target_Child, MOT Mother, FAT Father, PAT Family_Friend, OBS Aliyah Observer
+@Participants:	CHI Léonard Target_Child, MOT Mother, FAT Father, PAT Friend, OBS Aliyah Observer
 @ID:	fra|Paris-Corpus_Leonard|CHI|1;08.09|male|bi||Target_Child|||
 @ID:	fra|Paris-Corpus_Leonard|MOT|||||Mother|||
 @ID:	fra|Paris-Corpus_Leonard|FAT|||||Father|||
-@ID:	fra|Paris-Corpus_Leonard|PAT|||||Family_Friend|||
+@ID:	fra|Paris-Corpus_Leonard|PAT|||||Friend|||
 @ID:	fra|Paris-Corpus_Leonard|OBS|||||Observer|||
 @Birth of CHI:	15-OCT-1990
 @Media:	pho-mod-order, video
