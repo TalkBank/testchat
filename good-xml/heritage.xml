@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="heritage" Mediatypes="video"
-      Version="2.8.1"
+      Version="2.8.2"
       Lang="eng"
       Options="heritage"
       Corpus="timmy"
@@ -35,7 +35,7 @@
     <participant
       id="GEM"
     name="Gemma"
-      role="Housekeeper"
+      role="Speaker"
       language="eng"
 
     />

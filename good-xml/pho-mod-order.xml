@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="pho-mod-order" Mediatypes="video"
-      Version="2.8.1"
+      Version="2.8.2"
       Lang="fra"
       Corpus="Paris-Corpus_Leonard"
       Date="1992-06-23">
@@ -42,7 +42,7 @@
     <participant
       id="OBS"
     name="Aliyah"
-      role="Observer"
+      role="Speaker"
       language="fra"
 
     />

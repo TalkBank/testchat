@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="com-ipa" Mediatypes="video"
-      Version="2.8.1"
+      Version="2.8.2"
       Lang="eng"
       Corpus="providence"
       Date="2003-04-29">
@@ -27,7 +27,7 @@
     />
     <participant
       id="OPE"
-      role="Camera_Operator"
+      role="Speaker"
       language="eng"
 
     />
@@ -40,7 +40,7 @@
   </Participants>
   <comment type="Date">29-APR-2003</comment>
   <comment type="Transcriber">chris harris, mike jackson</comment>
-  <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts, Father Southeastern Massachusetts, Grandmother Southeastern Massachusetts; Camera_Operator is Manuela</comment>
+  <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts, Father Southeastern Massachusetts, Grandmother Southeastern Massachusetts; Speaker is Manuela</comment>
   <u who="CHI" uID="u0">
     <w>Mommy</w>
     <w>open</w>

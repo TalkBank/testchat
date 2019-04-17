@@ -1,2 +1,0 @@
-*** File "pause-with-explanation.cha": line 8, column 13: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
-*** File "pho-new-only.cha": line 28, column 10: parser: semantic failure: pho is longer than main line

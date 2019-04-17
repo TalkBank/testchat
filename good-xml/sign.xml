@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="CAfont:16:0"
-      Version="2.8.1"
+      Version="2.8.2"
       Lang="eng"
       Options="sign"
       Corpus="bates"
