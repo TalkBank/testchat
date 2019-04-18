@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	CHI Anaé Target_Child, MOT Marie Mother, BRO Ael Brother, BR1 Arthur Brother
+@ID:	fra|Anae|CHI|1;04.13|female|||Target_Child|||
+@ID:	fra|Anae|MOT|26;11.25|female|||Mother|||
+@ID:	fra|Anae|BRO|4;06.22|male|||Brother|||
+@ID:	fra|Anae|BR1|8;00.29|male|||Brother|||
+@Birth of CHI:	24-JUL-2006
+@Birth of MOT:	12-DEC-1980
+@Birth of BRO:	15-MAY-2003
+@Birth of BR1:	08-NOV-1999
+@Location:	Anaé's home
+@Comment:	coder - students (November 2010) - Emmanuelle Mathiot - Françoise Bourdoux (June 2012) 2010)
+@Situation:	c'est l'heure du goûter, CHI mange une sucette dans sa chaise haute
+@Date:	07-DEC-2007
+*CHI:	dans ma maison aussi ‹0il y a›  [<] +...
+%mor:	prep|dans det:poss|ma&sg n|maison&f adv|aussi 0pro:subj|il pro:y|y v:aux|avoir&PRES&3s +...
+%pho:	dɑ̃ ma mezɔ̃ osi ja
+@End

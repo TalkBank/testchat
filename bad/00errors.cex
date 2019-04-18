@@ -231,6 +231,8 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 *** File "amp-equals-fraction.cha": line 5, column 15: lexer: skipping nonviable character '8' in state 54
 *** File "amp-equals-fraction.cha": line 5, column 16: lexer: skipping nonviable character '8' in state 54
 *** File "amp-equals-fraction.cha": line 5, column 18: parser: no viable alternative at input 'b'
+*** File "zho-f.cha": line 7, column 22: parser: semantic failure: fra is a tertiary language, so @s needs argument
+*** File "zho-f.cha": line 10, column 15: parser: semantic failure: "hao3" is not a legal word in language "fra"
 *** File "idependent-sch.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
 *** File "idependent-sch.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
 *** File "idependent-sch.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
