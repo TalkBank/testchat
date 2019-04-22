@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="engn4175" Mediatypes="audio"
       Font="CAfont:13:0"
-      Version="2.8.2"
+      Version="2.9.0"
       Lang="eng"
       Options="CA"
       Corpus="cf"
