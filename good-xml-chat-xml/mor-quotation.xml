@@ -43,9 +43,9 @@
   <u who="CHI" uID="u0">
     <w>he<mor type="mor"><mw><pos><c>pro</c></pos><stem>he</stem></mw></mor></w>
     <w>is<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor></w>
-    <quotation type="begin"><mor type="mor"><mw><pos><c>bq</c></pos><stem>bq</stem></mw></mor></quotation>
+    <quotation type="begin"></quotation>
     <w>noisy<mor type="mor"><mw><pos><c>adj</c></pos><stem>noisy</stem></mw></mor></w>
-    <quotation type="end"><mor type="mor"><mw><pos><c>eq</c></pos><stem>eq</stem></mw></mor></quotation>
+    <quotation type="end"></quotation>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>

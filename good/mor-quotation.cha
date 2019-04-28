@@ -9,5 +9,5 @@
 @ID:	eng|timmy|GEM|||||Speaker|||
 @Comment:	quotations with mor 1-1
 *CHI:	he is “ noisy ” .
-%mor:	pro|he v:aux|be&3S bq|bq adj|noisy eq|eq .
+%mor:	pro|he v:aux|be&3S adj|noisy .
 @End

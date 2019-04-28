@@ -22,9 +22,9 @@
 *** File "ca-segment-repetition.cha": line 8, column 20: parser: no viable alternative at input ''
 *** File "ca-segment-repetition.cha": line 8, column 21: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9998)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9440)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9383)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9996)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9438)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9381)
 	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9187)
 	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8172)
 	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8013)
@@ -41,14 +41,14 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9933)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9931)
 	... 15 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9933)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9440)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9383)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9931)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9438)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9381)
 	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9187)
 	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8172)
 	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8013)
@@ -73,6 +73,10 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "media-unlinked-bullets.cha": line 8, column 17: parser: semantic failure: no bullets allowed when @Media marks transcript as unlinked
 *** File "media-unlinked-bullets.cha": line 6, column 1: parser: semantic failure: unlinked transcript cannot have bullets
 *** File "form-marker-junk.cha": line 7, column 14: lexer: invalid form marker code: @dima
+*** File "parens-full-bad.cha": line 20, column 65: parser: semantic failure: mor line is longer than main line
+*** File "parens-full-bad.cha": line 20, column 71: parser: semantic failure: mor line is longer than main line
+*** File "parens-full-bad.cha": line 21, column 59: parser: semantic failure: gra line is longer than mor line
+*** File "parens-full-bad.cha": line 21, column 68: parser: semantic failure: gra line is longer than mor line
 *** File "age-bad.cha": line 4, column 23: parser: semantic failure: months for age must be two digits
 *** File "idependent-ssx.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
 *** File "idependent-ssx.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
