@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.9.0"
+      Version="2.10.0"
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
@@ -31,7 +31,7 @@
 
   </u>
   <u who="CHI" uID="u1">
-    <w formType="letter" formSuffix="-s">b</w>
+    <w formType="letter">b</w>
     <t type="p"></t>
 
   </u>

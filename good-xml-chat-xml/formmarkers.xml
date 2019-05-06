@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.9.0"
+      Version="2.10.0"
       Lang="eng"
       Corpus="bates"
       Date="1984-01-01">
@@ -33,7 +33,6 @@
     <w formType="echolalia">a</w>
     <w formType="family-specific">a</w>
     <w formType="filled pause">a</w>
-    <w formType="filler syllable">a</w>
     <w formType="generic">a</w>
     <w formType="interjection">a</w>
     <w formType="kana">a</w>

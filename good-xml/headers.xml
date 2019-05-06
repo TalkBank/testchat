@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="headers" Mediatypes="video unlinked"
-      Version="2.9.0"
+      Version="2.10.0"
       Lang="eng deu"
       Corpus="bates"
       Date="2001-07-28">
@@ -37,7 +37,6 @@
     <t type="p"></t>
 
   </u>
-  <comment type="Exceptions">foo</comment>
   <comment type="Location">foo</comment>
   <comment type="Number">2</comment>
   <comment type="Recording Quality">4</comment>

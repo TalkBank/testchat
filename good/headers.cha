@@ -10,7 +10,6 @@
 @Media:	headers, video, unlinked
 @Comment:	Test all headers FAKE_WORD = ({ALNUM} | [\_\@\&\;\-\!\?\.\,\'\"\+\<\>\(\)\/\=\~\*\#\`\\\%\^\$] | {TAG_CHAR})+
 *CHI:	foo .
-@Exceptions:	foo
 @Location:	foo
 @Number:	2
 @Recording Quality:	4
