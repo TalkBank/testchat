@@ -22,49 +22,7 @@
 *** File "pho-repetition-bad.cha": line 9, column 18: parser: semantic failure: pho is longer than main line
 *** File "pho-repetition-bad.cha": line 9, column 22: parser: semantic failure: pho is longer than main line
 *** File "ca-segment-repetition.cha": line 8, column 20: parser: no viable alternative at input ''
-*** File "ca-segment-repetition.cha": line 8, column 21: parser: internal error: null
-InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9996)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9438)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9381)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9187)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8172)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8013)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7314)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5671)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5116)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1475)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:896)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
-Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
-	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
-	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9931)
-	... 15 more
-org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
-	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
-	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9931)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9438)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9381)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9187)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8172)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8013)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7314)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5671)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5116)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1475)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:896)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
-
+*** File "ca-segment-repetition.cha": line 8, column 7: parser: semantic failure: word has no spoken content
 *** File "options-caps.cha": line 4, column 11: lexer: skipping nonviable character 'c' in state 212
 *** File "options-caps.cha": line 4, column 12: lexer: skipping nonviable character 'a' in state 212
 *** File "options-caps.cha": line 4, column 13: lexer: skipping nonviable character 'p' in state 212
@@ -75,6 +33,11 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "media-unlinked-bullets.cha": line 8, column 17: parser: semantic failure: no bullets allowed when @Media marks transcript as unlinked
 *** File "media-unlinked-bullets.cha": line 6, column 1: parser: semantic failure: unlinked transcript cannot have bullets
 *** File "form-marker-junk.cha": line 7, column 14: lexer: invalid form marker code: @dima
+*** File "parens-full-bad.cha": line 5, column 14: parser: semantic failure: word has no spoken content
+*** File "parens-full-bad.cha": line 6, column 32: parser: semantic failure: mor line is longer than main line
+*** File "parens-full-bad.cha": line 6, column 44: parser: semantic failure: mor line is longer than main line
+*** File "parens-full-bad.cha": line 7, column 35: parser: semantic failure: gra line is longer than mor line
+*** File "parens-full-bad.cha": line 7, column 43: parser: semantic failure: gra line is longer than mor line
 *** File "parens-full-bad.cha": line 20, column 65: parser: semantic failure: mor line is longer than main line
 *** File "parens-full-bad.cha": line 20, column 71: parser: semantic failure: mor line is longer than main line
 *** File "parens-full-bad.cha": line 21, column 59: parser: semantic failure: gra line is longer than mor line
@@ -89,6 +52,7 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "toneterminator.cha": line 10, column 33: lexer: skipping nonviable character '-' in state 54
 *** File "toneterminator.cha": line 11, column 33: lexer: skipping nonviable character '-' in state 54
 *** File "roles-different-speakers.cha": line 4, column 46: parser: semantic failure: CHI has @ID role Mother but already had @Participants role Child
+*** File "parens-all-word.cha": line 6, column 10: parser: semantic failure: word has no spoken content
 *** File "bullet-same-times.cha": line 8, column 21: parser: semantic failure: bullet start 2041689 should be earlier than end 2041689
 *** File "multiple-end.cha": line 10, column 1: parser: mismatched input '*' expecting EOF
 *** File "terminator-missing.cha": line 7, column 25: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
