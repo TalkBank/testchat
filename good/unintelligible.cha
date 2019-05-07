@@ -1,4 +1,3 @@
-@Font:	Arial Unicode MS:12:1
 @UTF8
 @Begin
 @Languages:	eng
@@ -11,5 +10,5 @@
 @Date:	29-FEB-1996
 @Time Duration:	17:30-18:00
 @Comment:	Note that xx is now treated as an ordinary word!
-*CHI:	xx is my xxx and yy is my yyy !
+*CHI:	xxx is my xxx and yyy is my yyy !
 @End

@@ -1,4 +1,3 @@
-@Font:	CAfont:16:0
 @UTF8
 @Begin
 @Languages:	eng
@@ -17,11 +16,10 @@
 %err:	errcoding
 %exp:	explanation
 %fac:	facial
-%flo:	flow
+%flo:	flow.
 %gls:	target gloss
 %gpx:	gesture
 %int:	intonation
-%lan:	language
 %ort:	orthography
 %par:	paralinguistics
 %sit:	situation

@@ -1,4 +1,3 @@
-@Font:	Arial Unicode MS:12:1
 @UTF8
 @Begin
 @Languages:	eng
@@ -9,6 +8,6 @@
 @Comment:	bullets in an utterance
 *CHI:	one 2041689_2042652
 	two 2042652_2043653
-	three 2042653_2043654
-	end . 2042653_2043654
+	three 2043653_2043654
+	end . 2043654_2043655
 @End

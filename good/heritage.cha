@@ -10,8 +10,8 @@
 @Media:	heritage, video
 @Date:	29-FEB-1996
 @Comment:	heritage will never round trip "properly" because of loss
-*CHI:	 what's that ?
-*CHI:	underline
+*CHI:	what's that ?
+*CHI:	underline
 	foo bar .
 *CHI:	underline : 2041689_2042652
 @End
