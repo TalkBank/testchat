@@ -4,7 +4,6 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="url-no-multi" Mediatypes="video"
-      Font="Arial Unicode MS:12:1"
       Version="2.10.0"
       Lang="eng"
       Corpus="sample"
@@ -40,15 +39,15 @@
     />
     <w>three</w>
     <internal-media
-      start="2042.653"
+      start="2043.653"
       end="2043.654"
       unit="s"
     />
     <w>end</w>
     <t type="p"></t>
     <media
-      start="2042.653"
-      end="2043.654"
+      start="2043.654"
+      end="2043.655"
       unit="s"
     />
   </u>

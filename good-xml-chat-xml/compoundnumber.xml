@@ -5,14 +5,14 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="CAfont:16:0"
       Version="2.10.0"
-      Lang="eng zho"
+      Lang="zho eng"
       Corpus="bates"
       Date="1984-01-01">
   <Participants>
     <participant
       id="CHI"
       role="Child"
-      language="eng zho"
+      language="zho eng"
       age="P1Y08M"
       sex="female"
       group="normal"
@@ -21,12 +21,11 @@
     <participant
       id="MOT"
       role="Mother"
-      language="eng zho"
+      language="zho eng"
 
     />
   </Participants>
   <comment type="Generic">number can be in compound word</comment>
-  <comment type="New Language">zho</comment>
   <u who="CHI" uID="u0">
     <w>zhei4<wk type="cmp"/>ge</w>
     <w>hello</w>

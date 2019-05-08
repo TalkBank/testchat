@@ -3,7 +3,6 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Font="CAfont:16:0"
       Version="2.10.0"
       Lang="eng"
       Corpus="bates"
@@ -47,11 +46,10 @@
     <a type="errcoding">errcoding</a>
     <a type="explanation">explanation</a>
     <a type="facial">facial</a>
-    <a type="flow">flow</a>
+    <a type="flow">flow.</a>
     <a type="target gloss">target gloss</a>
     <a type="gesture">gesture</a>
     <a type="intonation">intonation</a>
-    <a type="language">language</a>
     <a type="orthography">orthography</a>
     <a type="paralinguistics">paralinguistics</a>
     <a type="situation">situation</a>

@@ -16,7 +16,7 @@
       age="P1Y08M02D"
       sex="female"
       group="normal"
-      SES="yeah"
+      SES="UC"
       education="bleah"
 
       birthday="2001-06-28"
@@ -63,7 +63,6 @@
   <end-gem label="foo"/>
   <lazy-gem label="foo"/>
   <comment type="New Episode"></comment>
-  <comment type="New Language">deu</comment>
   <comment type="Situation">foo</comment>
-  <comment type="Page">foo</comment>
+  <comment type="Page">42</comment>
 </CHAT>

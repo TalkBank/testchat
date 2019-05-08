@@ -4,14 +4,14 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Version="2.10.0"
-      Lang="eng zho"
+      Lang="zho yue"
       Corpus="bates"
       Date="1964-07-23">
   <Participants>
     <participant
       id="CHI"
       role="Child"
-      language="eng zho"
+      language="zho yue"
       age="P1Y08M"
       sex="female"
       group="normal"
@@ -20,7 +20,7 @@
     <participant
       id="MOT"
       role="Mother"
-      language="eng zho"
+      language="zho yue"
 
     />
   </Participants>
@@ -38,7 +38,7 @@
     <w>there</w>
     <w>what</w>
     <w>is</w>
-    <w><langs><single>zho</single></langs>hao3<pos><c>n</c></pos></w>
+    <w><langs><single>yue</single></langs>hao3<pos><c>n</c></pos></w>
     <t type="q"></t>
 
   </u>

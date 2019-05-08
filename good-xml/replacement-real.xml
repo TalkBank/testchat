@@ -3,6 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="replacement-real" Mediatypes="audio"
       Version="2.10.0"
       Lang="eng"
       Corpus="Kansas"
@@ -15,21 +16,21 @@
       language="eng"
       sex="female"
       group="Wernicke"
-      SES="kansas14a"
+      SES="UC"
 
     />
     <participant
       id="INV"
       role="Investigator"
       language="eng"
-      SES="kansas14a"
+      SES="UC"
 
     />
     <participant
       id="INV2"
       role="Investigator"
       language="eng"
-      SES="kansas14a"
+      SES="UC"
 
     />
   </Participants>

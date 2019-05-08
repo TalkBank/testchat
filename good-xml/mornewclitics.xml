@@ -3,7 +3,6 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Font="Courier:10:0"
       Version="2.10.0"
       Lang="eng"
       Corpus="belfast"
@@ -15,7 +14,7 @@
       role="Target_Child"
       language="eng"
       age="P3Y06M18D"
-      SES="upper-working-class"
+      SES="UC"
 
       birthday="1992-09-08"
 

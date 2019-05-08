@@ -50,8 +50,9 @@
 
   </u>
   <u who="CHI" uID="u1">
+    <blob>u</blob>
     <underline type="begin"/>
-    <blob>underline</blob>
+    <blob>nderline</blob>
     <underline type="end"/>
     <blob>foo</blob>
     <blob>bar</blob>

@@ -5,21 +5,21 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="pho-group-compound" Mediatypes="audio"
       Version="2.10.0"
-      Lang="xxx"
+      Lang="eng"
       Corpus="Théo"
       Date="1984-01-01">
   <Participants>
     <participant
-      id="Théo"
+      id="Theo"
     name="Théo"
       role="Child"
-      language="xxx"
+      language="eng"
 
       birthday="2010-12-09"
 
     />
   </Participants>
-  <u who="Théo" uID="u0">
+  <u who="Theo" uID="u0">
     <pg><w>regarde</w><actual><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph></pw></actual></pg>
     <pg><w>un</w><actual><pw><ph id="ph0">ə</ph></pw></actual></pg>
     <pg><g><w>autre</w><r times="3"/></g><actual><pw><ph id="ph0">n</ph><ph id="ph1">o</ph><ph id="ph2">+</ph><ph id="ph3">o</ph><ph id="ph4">+</ph><ph id="ph5">o</ph></pw><pw><ph id="ph6">o</ph><ph id="ph7">t</ph></pw><pw><ph id="ph8">o</ph><ph id="ph9">t</ph><ph id="ph10">r</ph></pw></actual></pg>

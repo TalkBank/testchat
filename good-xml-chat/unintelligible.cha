@@ -1,4 +1,3 @@
-@Font:	Arial Unicode MS:12:1
 @UTF8
 @Begin
 @Languages:	eng
@@ -10,6 +9,6 @@
 @Tape Location:	TI060 (side A)
 @Date:	29-FEB-1996
 @Time Duration:	17:30-18:00
-@Comment:	Note that xx is now treated as an ordinary word!
-*CHI:	xx is my xxx and yy is my yyy !
+@Comment:	xxx yyy www
+*CHI:	xxx and yyy and www .
 @End

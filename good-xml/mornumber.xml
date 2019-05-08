@@ -3,9 +3,8 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Font="Arial Unicode MS:12:1"
       Version="2.10.0"
-      Lang="eng zho"
+      Lang="zho eng"
       Corpus="timmy"
       Date="1996-02-29">
   <Participants>
@@ -42,7 +41,6 @@
   <comment type="Tape Location">TI060 (side A)</comment>
   <comment type="Date">29-FEB-1996</comment>
   <comment type="Time Duration">17:30-18:00</comment>
-  <comment type="New Language">zho</comment>
   <u who="CHI" uID="u0">
     <w>so<mor type="mor"><mw><pos><c>co</c></pos><stem>so</stem></mw></mor></w>
     <w>dirty<mor type="mor"><mw><pos><c>v</c></pos><stem>dirty</stem></mw></mor></w>

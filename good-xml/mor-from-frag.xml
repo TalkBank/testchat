@@ -24,7 +24,7 @@
     />
   </Participants>
   <u who="SUB" uID="u0">
-    <w type="fragment">lil<replacement><w>little<mor type="mor"><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor></w></replacement></w>
+    <w>lil<replacement><w>little<mor type="mor"><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor></w></replacement></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>
