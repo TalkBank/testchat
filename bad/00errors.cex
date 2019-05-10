@@ -18,6 +18,14 @@
 *** File "quotation-bad.cha": line 11, column 7: parser: semantic failure: unclosed quote begin
 *** File "quotation-bad.cha": line 12, column 23: parser: semantic failure: saw a secondary quote end, but there is no secondary quote begin in progress
 *** File "quotation-bad.cha": line 13, column 25: parser: semantic failure: saw a quote end, but there is an unclosed secondary quote begin earlier
+*** File "pho-repetition-bad.cha": line 2, column 13: lexer: skipping nonviable character 'x' in state 206
+*** File "pho-repetition-bad.cha": line 2, column 14: lexer: skipping nonviable character 'x' in state 206
+*** File "pho-repetition-bad.cha": line 2, column 15: lexer: skipping nonviable character 'x' in state 206
+*** File "pho-repetition-bad.cha": line 2, column 16: parser: missing LANGUAGE_CODE at '\n'
+*** File "pho-repetition-bad.cha": line 4, column 6: lexer: skipping nonviable character 'x' in state 32
+*** File "pho-repetition-bad.cha": line 4, column 7: lexer: skipping nonviable character 'x' in state 32
+*** File "pho-repetition-bad.cha": line 4, column 8: lexer: skipping nonviable character 'x' in state 32
+*** File "pho-repetition-bad.cha": line 4, column 9: parser: missing LANGUAGE_CODE at '|'
 *** File "pho-repetition-bad.cha": line 9, column 18: parser: semantic failure: pho is longer than main line
 *** File "pho-repetition-bad.cha": line 9, column 22: parser: semantic failure: pho is longer than main line
 *** File "ca-segment-repetition.cha": line 8, column 20: parser: no viable alternative at input ''
@@ -85,6 +93,14 @@
 *** File "multiple-end.cha": line 10, column 1: parser: mismatched input '*' expecting EOF
 *** File "terminator-missing.cha": line 7, column 25: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "language-different-speakers.cha": line 8, column 7: parser: semantic failure: "hao3" is not a legal word in language "eng"
+*** File "language-code.cha": line 2, column 13: lexer: skipping nonviable character 'a' in state 206
+*** File "language-code.cha": line 2, column 14: lexer: skipping nonviable character 'a' in state 206
+*** File "language-code.cha": line 2, column 15: lexer: skipping nonviable character 'a' in state 206
+*** File "language-code.cha": line 2, column 16: parser: missing LANGUAGE_CODE at '\n'
+*** File "language-code.cha": line 4, column 6: lexer: skipping nonviable character 'a' in state 32
+*** File "language-code.cha": line 4, column 7: lexer: skipping nonviable character 'a' in state 32
+*** File "language-code.cha": line 4, column 8: lexer: skipping nonviable character 'a' in state 32
+*** File "language-code.cha": line 4, column 9: parser: missing LANGUAGE_CODE at '|'
 *** File "form-marker-letter.cha": line 8, column 6: parser: semantic failure: 'word' must be only a single letter
 *** File "media-needs-bullets.cha": line 6, column 1: parser: semantic failure: not 'unlinked' or 'missing' or 'notrans', but there are not bullets in transcript
 *** File "morweist.cha": line 4, column 2: parser: mismatched input '\t' expecting NEWLINE
@@ -206,7 +222,6 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.talkbank.chatter.App.<init>(App.java:202)
 	at org.talkbank.chatter.App.main(App.java:171)
 
-*** File "pause-overlap.cha": line 7, column 18: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "participants.cha": line 3, column 72: parser: semantic failure: 678 is missing a required @ID header
 *** File "participants.cha": line 10, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
@@ -269,9 +284,9 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1522)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2591)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1420)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1562)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2631)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1460)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
