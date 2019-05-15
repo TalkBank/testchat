@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="replacement-real" Mediatypes="audio"
-      Version="2.10.0"
+      Version="2.11.0"
       Lang="eng"
       Corpus="Kansas"
       Date="1984-01-01">

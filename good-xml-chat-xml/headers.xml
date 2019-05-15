@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="headers" Mediatypes="video unlinked"
-      Version="2.10.0"
+      Version="2.11.0"
       Lang="eng deu"
       Corpus="bates"
       Date="2001-07-28">
