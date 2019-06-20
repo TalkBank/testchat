@@ -18,8 +18,10 @@
 *** File "sign.cha": line 4, column 15: parser: missing OPTION at '\n'
 *** File "quotation-bad.cha": line 10, column 16: parser: semantic failure: saw a quote end, but there is no quote begin earlier
 *** File "quotation-bad.cha": line 11, column 7: parser: semantic failure: unclosed quote begin
-*** File "quotation-bad.cha": line 12, column 23: parser: semantic failure: saw a secondary quote end, but there is no secondary quote begin in progress
-*** File "quotation-bad.cha": line 13, column 25: parser: semantic failure: saw a quote end, but there is an unclosed secondary quote begin earlier
+*** File "quotation-bad.cha": line 12, column 23: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
+*** File "quotation-bad.cha": line 13, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
+*** File "quotation-bad.cha": line 14, column 7: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
+*** File "quotation-bad.cha": line 14, column 27: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
 *** File "pho-repetition-bad.cha": line 2, column 13: lexer: skipping nonviable character 'x' in state 204
 *** File "pho-repetition-bad.cha": line 2, column 14: lexer: skipping nonviable character 'x' in state 204
 *** File "pho-repetition-bad.cha": line 2, column 15: lexer: skipping nonviable character 'x' in state 204
@@ -38,19 +40,19 @@
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1509)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2578)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1407)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1508)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2577)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1406)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2455)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2519)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5614)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2423)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2487)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5582)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -61,9 +63,9 @@ java.util.NoSuchElementException
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1509)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2578)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1407)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1508)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2577)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1406)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -72,10 +74,10 @@ java.util.NoSuchElementException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5623)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5591)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -86,17 +88,17 @@ java.util.NoSuchElementException
 *** File "ca-segment-repetition.cha": line 8, column 20: parser: no viable alternative at input ''
 *** File "ca-segment-repetition.cha": line 8, column 21: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9897)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9318)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9255)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9059)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8044)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7885)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7186)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5681)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9842)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9263)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9200)
+	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9018)
+	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8010)
+	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7853)
+	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7154)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5649)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -105,22 +107,22 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9832)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9777)
 	... 15 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9832)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9318)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9255)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9059)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8044)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7885)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7186)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5681)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9777)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9263)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9200)
+	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9018)
+	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8010)
+	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7853)
+	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7154)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5649)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -205,23 +207,23 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "morweist.cha": line 8, column 18: parser: semantic failure: Unknown participant: FAT
 *** File "morweist.cha": line 8, column 32: parser: internal error: null
 InternalErrorRecognitionException(java.lang.NullPointerException)
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3812)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3470)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1461)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3780)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3438)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1429)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
 	at org.talkbank.chatter.App.<init>(App.java:202)
 	at org.talkbank.chatter.App.main(App.java:171)
 Caused by: java.lang.NullPointerException
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3742)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3710)
 	... 8 more
 java.lang.NullPointerException
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3742)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3470)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1461)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3710)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3438)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1429)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -233,8 +235,8 @@ java.lang.NullPointerException
 *** File "morweist.cha": line 11, column 30: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 13, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1591)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1559)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -243,13 +245,13 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1545)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1513)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1545)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1513)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -296,8 +298,8 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 *** File "code.cha": line 6, column 19: lexer: skipping nonviable character 'r' in state 0
 *** File "code.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1591)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1559)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -306,13 +308,13 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1553)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1521)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1553)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1521)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -326,19 +328,19 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1509)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2578)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1407)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1508)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2577)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1406)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2455)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2519)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5614)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2423)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2487)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5582)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -349,9 +351,9 @@ java.util.NoSuchElementException
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1509)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2578)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1407)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1508)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2577)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1406)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -360,10 +362,10 @@ java.util.NoSuchElementException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5623)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5126)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1486)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5591)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5094)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -374,8 +376,8 @@ java.util.NoSuchElementException
 *** File "participants.cha": line 3, column 72: parser: semantic failure: 678 is missing a required @ID header
 *** File "participants.cha": line 10, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1591)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1559)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -384,13 +386,13 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1546)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1546)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -433,16 +435,16 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1509)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2578)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1407)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1508)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2577)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1406)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.consumeUntil(BaseRecognizer.java:690)
 	at org.antlr.runtime.BaseRecognizer.recover(BaseRecognizer.java:364)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1588)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1556)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -473,8 +475,8 @@ java.util.NoSuchElementException
 *** File "greek-capital.cha": line 3, column 40: parser: semantic failure: MOT is missing a required @ID header
 *** File "greek-capital.cha": line 8, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1591)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1559)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -483,13 +485,13 @@ InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamExcep
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1546)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1546)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:907)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:875)
 	at org.talkbank.chatter.App.processFile(App.java:880)
 	at org.talkbank.chatter.App.processRoot(App.java:683)
 	at org.talkbank.chatter.App.<init>(App.java:348)
@@ -500,6 +502,8 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 *** File "idependent-act.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
 *** File "idependent-act.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
 *** File "idependent-act.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
+*** File "quotation-nested.cha": line 9, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
+*** File "quotation-nested.cha": line 9, column 25: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
 *** File "page-header-missing-number.cha": line 10, column 1: lexer: skipping nonviable character '@' in state 0
 *** File "page-header-missing-number.cha": line 10, column 2: lexer: skipping nonviable character 'P' in state 0
 *** File "page-header-missing-number.cha": line 10, column 3: lexer: skipping nonviable character 'a' in state 0
