@@ -6,6 +6,6 @@
 @ID:	fra, eng|timmy|LIN|||||Investigator|||
 @ID:	fra, eng|timmy|WIN|||||Investigator|||
 @ID:	fra, eng|timmy|GEM|||||Speaker|||
-*CHI:	perro .
-%mor:	N|perro-PL=dog_more .
+*CHI:	danke .
+%mor:	co|danke=thank-you .
 @End
