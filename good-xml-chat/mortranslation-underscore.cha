@@ -6,6 +6,7 @@
 @ID:	fra, eng|timmy|LIN|||||Investigator|||
 @ID:	fra, eng|timmy|WIN|||||Investigator|||
 @ID:	fra, eng|timmy|GEM|||||Speaker|||
+@Comment:	mor translation with underscore
 *CHI:	perro .
-%mor:	N|perro=dog-PL .
+%mor:	N|perro-PL=dog_more .
 @End
