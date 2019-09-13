@@ -6,7 +6,8 @@
       Version="2.12.0"
       Lang="por swe"
       Corpus="mcf"
-      Date="1987-05-01">
+      Date="1987-05-01"
+      >
   <Participants>
     <participant
       id="CHI"

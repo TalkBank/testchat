@@ -6,7 +6,8 @@
       Version="2.12.0"
       Lang="fra"
       Corpus="Anae"
-      Date="2007-12-07">
+      Date="2007-12-07"
+      >
   <Participants>
     <participant
       id="CHI"

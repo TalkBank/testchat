@@ -7,7 +7,8 @@
       Version="2.12.0"
       Lang="fra"
       Corpus="Paris-Corpus_Leonard"
-      Date="1992-06-23">
+      Date="1992-06-23"
+      >
   <Participants>
     <participant
       id="CHI"

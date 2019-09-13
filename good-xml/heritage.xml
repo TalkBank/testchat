@@ -8,7 +8,8 @@
       Lang="eng"
       Options="heritage"
       Corpus="timmy"
-      Date="1996-02-29">
+      Date="1996-02-29"
+      >
   <Participants>
     <participant
       id="CHI"

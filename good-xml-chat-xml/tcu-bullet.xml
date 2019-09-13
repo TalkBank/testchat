@@ -8,7 +8,7 @@
       Version="2.12.0"
       Lang="eng"
       Corpus="sample"
-      Date="1984-01-01">
+      >
   <Participants>
     <participant
       id="MOT"

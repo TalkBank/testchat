@@ -8,7 +8,8 @@
       Lang="fra spa"
       Options="heritage"
       Corpus="esf"
-      Date="1983-05-09">
+      Date="1983-05-09"
+      >
   <Participants>
     <participant
       id="SAL"

@@ -7,7 +7,8 @@
       Version="2.12.0"
       Lang="eng"
       Corpus="providence"
-      Date="2002-12-22">
+      Date="2002-12-22"
+      >
   <Participants>
     <participant
       id="CHI"

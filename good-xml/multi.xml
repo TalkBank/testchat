@@ -9,7 +9,7 @@
       Lang="eng"
       Options="multi"
       Corpus="sample"
-      Date="1984-01-01">
+      >
   <Participants>
     <participant
       id="MOT"

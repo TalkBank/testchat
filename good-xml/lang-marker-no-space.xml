@@ -6,7 +6,7 @@
       Version="2.12.0"
       Lang="eng spa"
       Corpus="samples"
-      Date="1984-01-01">
+      >
   <Participants>
     <participant
       id="MOT"

@@ -6,7 +6,8 @@
       Version="2.12.0"
       Lang="ind jav"
       Corpus="IDO"
-      Date="2000-06-23">
+      Date="2000-06-23"
+      >
   <Participants>
     <participant
       id="CHI"
