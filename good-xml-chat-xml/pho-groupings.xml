@@ -53,7 +53,7 @@
   <comment type="Generic">Test Brian's problem</comment>
   <u who="CHI" uID="u0">
     <pg><w>mais</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ɛ</ph></pw></actual></pg>
-    <pg><g><w>c'est</w><k type="retracing with correction"/></g><actual><pw><ph id="ph0">s</ph><ph id="ph1">ɛ</ph></pw></actual></pg>
+    <g><pg><w>c'est</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">ɛ</ph></pw></actual></pg><k type="retracing with correction"/></g>
     <g><pg><w>ce<wk type="cmp"/>qu'</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">k</ph></pw></actual></pg>
     <pg><w>y<wk type="cmp"/>a</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
     <pg><w>en</w>

@@ -17,16 +17,16 @@
 *EXP:	entar Tante nggak mo maen lagi deh .
 %pho:	‹a b› c ‹d e› f g ‹h i› j
 @Comment:	retrace without groups
-*EXP:	mon  [<] [/] non !
+*EXP:	<mon>  [<] [/] non !
 %pho:	mã nã
 @Comment:	retrace with groups
-*EXP:	‹ah non›  [<] [/] ‹ah non› !
+*EXP:	<‹ah non›>  [<] [/] ‹ah non› !
 %pho:	anã anã
 @Comment:	1-1 group on main line
 *EXP:	‹c' est› lait .
 %pho:	se le
 @Comment:	1-1 group on main line for &=cri
-*EXP:	&=cri lait .
+*EXP:	‹&=cri› lait .
 %pho:	se le
 @Comment:	1-1 group on npho line
 *EXP:	lait .
