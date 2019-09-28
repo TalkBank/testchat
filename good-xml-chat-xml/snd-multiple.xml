@@ -5,11 +5,11 @@
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="snd-multiple" Mediatypes="audio"
       Font="CAfont:12:0"
-      Version="2.12.0"
+      Version="2.14.0"
       Lang="eng"
       Options="multi"
       Corpus="sample"
-      Date="1984-01-01">
+      >
   <Participants>
     <participant
       id="MOT"

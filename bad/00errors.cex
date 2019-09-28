@@ -11,61 +11,61 @@
 *** File "mornumber-spanish.cha": line 10, column 133: parser: semantic failure: mor line is longer than main line
 *** File "form-marker-plural.cha": line 11, column 15: lexer: invalid form marker code: @ap
 *** File "form-marker-plural.cha": line 11, column 18: parser: extraneous input '-s' expecting END_WORD
-*** File "sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 208
-*** File "sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 208
-*** File "sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 208
-*** File "sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 208
+*** File "sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 202
+*** File "sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 202
+*** File "sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 202
+*** File "sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 202
 *** File "sign.cha": line 4, column 15: parser: missing OPTION at '\n'
 *** File "quotation-bad.cha": line 10, column 16: parser: semantic failure: saw a quote end, but there is no quote begin earlier
 *** File "quotation-bad.cha": line 11, column 7: parser: semantic failure: unclosed quote begin
-*** File "quotation-bad.cha": line 12, column 23: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
-*** File "quotation-bad.cha": line 13, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
-*** File "quotation-bad.cha": line 14, column 7: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
-*** File "quotation-bad.cha": line 14, column 27: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
-*** File "pho-repetition-bad.cha": line 2, column 13: lexer: skipping nonviable character 'x' in state 206
-*** File "pho-repetition-bad.cha": line 2, column 14: lexer: skipping nonviable character 'x' in state 206
-*** File "pho-repetition-bad.cha": line 2, column 15: lexer: skipping nonviable character 'x' in state 206
+*** File "quotation-bad.cha": line 12, column 23: lexer: skipping nonviable character '’' (Unicode \u2019) in state 52
+*** File "quotation-bad.cha": line 13, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 52
+*** File "quotation-bad.cha": line 14, column 7: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 52
+*** File "quotation-bad.cha": line 14, column 27: lexer: skipping nonviable character '’' (Unicode \u2019) in state 52
+*** File "pho-repetition-bad.cha": line 2, column 13: lexer: skipping nonviable character 'x' in state 200
+*** File "pho-repetition-bad.cha": line 2, column 14: lexer: skipping nonviable character 'x' in state 200
+*** File "pho-repetition-bad.cha": line 2, column 15: lexer: skipping nonviable character 'x' in state 200
 *** File "pho-repetition-bad.cha": line 2, column 16: parser: missing LANGUAGE_CODE at '\n'
 *** File "pho-repetition-bad.cha": line 3, column 21: parser: semantic failure: invalid role: Théo
-*** File "pho-repetition-bad.cha": line 4, column 6: lexer: skipping nonviable character 'x' in state 32
-*** File "pho-repetition-bad.cha": line 4, column 7: lexer: skipping nonviable character 'x' in state 32
-*** File "pho-repetition-bad.cha": line 4, column 8: lexer: skipping nonviable character 'x' in state 32
+*** File "pho-repetition-bad.cha": line 4, column 6: lexer: skipping nonviable character 'x' in state 30
+*** File "pho-repetition-bad.cha": line 4, column 7: lexer: skipping nonviable character 'x' in state 30
+*** File "pho-repetition-bad.cha": line 4, column 8: lexer: skipping nonviable character 'x' in state 30
 *** File "pho-repetition-bad.cha": line 4, column 9: parser: missing LANGUAGE_CODE at '|'
-*** File "pho-repetition-bad.cha": line 4, column 18: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 36
+*** File "pho-repetition-bad.cha": line 4, column 18: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 34
 *** File "pho-repetition-bad.cha": line 4, column 19: parser: extraneous input 'o' expecting ID_WHO_VERTBAR_TO_AGE
 *** File "pho-repetition-bad.cha": line 4, column 25: parser: semantic failure: Th has @ID role Child but already had @Participants role Théo
-*** File "pho-repetition-bad.cha": line 5, column 13: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 20
+*** File "pho-repetition-bad.cha": line 5, column 13: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 18
 *** File "pho-repetition-bad.cha": line 5, column 14: parser: extraneous input 'o' expecting COLON
 *** File "pho-repetition-bad.cha": line 8, column 4: lexer: null
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1518)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2587)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1416)
+	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1502)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2541)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1400)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2424)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2488)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5583)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2482)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2550)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5773)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "pho-repetition-bad.cha": line 8, column 4: lexer: null
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1518)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2587)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1416)
+	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1502)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2541)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1400)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -74,77 +74,77 @@ java.util.NoSuchElementException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5592)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5782)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "pho-repetition-bad.cha": line 8, column 4: parser: mismatched input '' expecting COLON
 *** File "ca-segment-repetition.cha": line 8, column 20: parser: no viable alternative at input ''
 *** File "ca-segment-repetition.cha": line 8, column 21: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9843)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9264)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9201)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9019)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8011)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7854)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7155)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5650)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9891)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9304)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9237)
+	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9051)
+	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8254)
+	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8100)
+	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7377)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5840)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9778)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9822)
 	... 15 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9778)
-	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9264)
-	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9201)
-	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9019)
-	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8011)
-	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:7854)
-	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7155)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5650)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.basicWord(ChatParser.java:9822)
+	at org.talkbank.chat.antlr.ChatParser.wordWithCompletionsWithAtts(ChatParser.java:9304)
+	at org.talkbank.chat.antlr.ChatParser.word(ChatParser.java:9237)
+	at org.talkbank.chat.antlr.ChatParser.pair(ChatParser.java:9051)
+	at org.talkbank.chat.antlr.ChatParser.content(ChatParser.java:8254)
+	at org.talkbank.chat.antlr.ChatParser.contents(ChatParser.java:8100)
+	at org.talkbank.chat.antlr.ChatParser.utterance(ChatParser.java:7377)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5840)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-enumeration-valid: Value 'language' is not facet-valid with respect to enumeration '[addressee, actions, alternative, coding, cohesion, comments, english translation, errcoding, explanation, flow, facial, target gloss, gesture, intonation, orthography, paralinguistics, SALT, situation, speech act, time stamp, extension]'. It must be a value from the enumeration.
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-attribute.3: The value 'language' of attribute 'type' on element 'a' is not valid with respect to its type, 'annotationTypeType'.
 *** org.talkbank.util.ValidatorTalkBankException
-	at org.talkbank.chatter.App.processTree(App.java:1054)
-	at org.talkbank.chatter.App.processFile(App.java:918)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
-*** File "options-caps.cha": line 4, column 11: lexer: skipping nonviable character 'c' in state 208
-*** File "options-caps.cha": line 4, column 12: lexer: skipping nonviable character 'a' in state 208
-*** File "options-caps.cha": line 4, column 13: lexer: skipping nonviable character 'p' in state 208
-*** File "options-caps.cha": line 4, column 14: lexer: skipping nonviable character 's' in state 208
+	at org.talkbank.chatter.App.processTree(App.java:1082)
+	at org.talkbank.chatter.App.processFile(App.java:946)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
+*** File "options-caps.cha": line 4, column 11: lexer: skipping nonviable character 'c' in state 202
+*** File "options-caps.cha": line 4, column 12: lexer: skipping nonviable character 'a' in state 202
+*** File "options-caps.cha": line 4, column 13: lexer: skipping nonviable character 'p' in state 202
+*** File "options-caps.cha": line 4, column 14: lexer: skipping nonviable character 's' in state 202
 *** File "options-caps.cha": line 4, column 15: parser: missing OPTION at '\n'
-*** File "sterminator-ca.cha": line 6, column 28: lexer: skipping nonviable character '+' in state 54
-*** File "sterminator-ca.cha": line 6, column 29: lexer: skipping nonviable character '=' in state 54
+*** File "sterminator-ca.cha": line 6, column 28: lexer: skipping nonviable character '+' in state 52
+*** File "sterminator-ca.cha": line 6, column 29: lexer: skipping nonviable character '=' in state 52
 *** File "media-unlinked-bullets.cha": line 8, column 17: parser: semantic failure: no bullets allowed when @Media marks transcript as unlinked
 *** File "media-unlinked-bullets.cha": line 6, column 1: parser: semantic failure: unlinked transcript cannot have bullets
 *** File "form-marker-junk.cha": line 7, column 14: lexer: invalid form marker code: @dima
@@ -158,16 +158,16 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "parens-full-bad.cha": line 21, column 59: parser: semantic failure: gra line is longer than mor line
 *** File "parens-full-bad.cha": line 21, column 68: parser: semantic failure: gra line is longer than mor line
 *** File "age-bad.cha": line 4, column 23: parser: semantic failure: months for age must be two digits
-*** File "idependent-ssx.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
-*** File "idependent-ssx.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
-*** File "idependent-ssx.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
+*** File "idependent-ssx.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
+*** File "idependent-ssx.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
+*** File "idependent-ssx.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 52
 *** File "frag-replacement.cha": line 6, column 12: parser: semantic failure: replacement is not allowed for a fragment
 *** File "frag-replacement.cha": line 6, column 38: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
-*** File "toneterminator.cha": line 7, column 33: lexer: skipping nonviable character '-' in state 54
-*** File "toneterminator.cha": line 8, column 33: lexer: skipping nonviable character '-' in state 54
-*** File "toneterminator.cha": line 9, column 33: lexer: skipping nonviable character '-' in state 54
-*** File "toneterminator.cha": line 10, column 33: lexer: skipping nonviable character '-' in state 54
-*** File "toneterminator.cha": line 11, column 33: lexer: skipping nonviable character '-' in state 54
+*** File "toneterminator.cha": line 7, column 33: lexer: skipping nonviable character '-' in state 52
+*** File "toneterminator.cha": line 8, column 33: lexer: skipping nonviable character '-' in state 52
+*** File "toneterminator.cha": line 9, column 33: lexer: skipping nonviable character '-' in state 52
+*** File "toneterminator.cha": line 10, column 33: lexer: skipping nonviable character '-' in state 52
+*** File "toneterminator.cha": line 11, column 33: lexer: skipping nonviable character '-' in state 52
 *** File "roles-different-speakers.cha": line 4, column 46: parser: semantic failure: CHI has @ID role Mother but already had @Participants role Child
 *** File "parens-all-word.cha": line 6, column 10: parser: semantic failure: word has no spoken content
 *** File "bullet-same-times.cha": line 8, column 21: parser: semantic failure: bullet start 2041689 should be earlier than end 2041689
@@ -192,13 +192,13 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "multiple-end.cha": line 10, column 1: parser: mismatched input '*' expecting EOF
 *** File "terminator-missing.cha": line 7, column 25: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "language-different-speakers.cha": line 8, column 7: parser: semantic failure: "hao3" is not a legal word in language "eng"
-*** File "language-code.cha": line 2, column 13: lexer: skipping nonviable character 'a' in state 206
-*** File "language-code.cha": line 2, column 14: lexer: skipping nonviable character 'a' in state 206
-*** File "language-code.cha": line 2, column 15: lexer: skipping nonviable character 'a' in state 206
+*** File "language-code.cha": line 2, column 13: lexer: skipping nonviable character 'a' in state 200
+*** File "language-code.cha": line 2, column 14: lexer: skipping nonviable character 'a' in state 200
+*** File "language-code.cha": line 2, column 15: lexer: skipping nonviable character 'a' in state 200
 *** File "language-code.cha": line 2, column 16: parser: missing LANGUAGE_CODE at '\n'
-*** File "language-code.cha": line 4, column 6: lexer: skipping nonviable character 'a' in state 32
-*** File "language-code.cha": line 4, column 7: lexer: skipping nonviable character 'a' in state 32
-*** File "language-code.cha": line 4, column 8: lexer: skipping nonviable character 'a' in state 32
+*** File "language-code.cha": line 4, column 6: lexer: skipping nonviable character 'a' in state 30
+*** File "language-code.cha": line 4, column 7: lexer: skipping nonviable character 'a' in state 30
+*** File "language-code.cha": line 4, column 8: lexer: skipping nonviable character 'a' in state 30
 *** File "language-code.cha": line 4, column 9: parser: missing LANGUAGE_CODE at '|'
 *** File "form-marker-letter.cha": line 8, column 6: parser: semantic failure: 'word' must be only a single letter
 *** File "media-needs-bullets.cha": line 6, column 1: parser: semantic failure: not 'unlinked' or 'missing' or 'notrans', but there are not bullets in transcript
@@ -207,58 +207,58 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule wordNet
 *** File "morweist.cha": line 8, column 18: parser: semantic failure: Unknown participant: FAT
 *** File "morweist.cha": line 8, column 32: parser: internal error: null
 InternalErrorRecognitionException(java.lang.NullPointerException)
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3781)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3439)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1430)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3895)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3545)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1442)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: java.lang.NullPointerException
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3711)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3821)
 	... 8 more
 java.lang.NullPointerException
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3711)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3439)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1430)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:3821)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3545)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1442)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "morweist.cha": line 11, column 14: parser: no viable alternative at input '+'
 *** File "morweist.cha": line 11, column 15: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 11, column 30: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 13, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1560)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1526)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1514)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1526)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
-*** File "mornumber-spanish-2.cha": line 9, column 17: lexer: skipping nonviable character '#' in state 54
+*** File "mornumber-spanish-2.cha": line 9, column 17: lexer: skipping nonviable character '#' in state 52
 *** File "mornumber-spanish-2.cha": line 9, column 27: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "mornumber-spanish-2.cha": line 11, column 33: parser: no viable alternative at input '&'
 *** File "mornumber-spanish-2.cha": line 11, column 39: parser: semantic failure: mor line is longer than main line
@@ -269,15 +269,15 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 *** File "mornumber-spanish-2.cha": line 14, column 56: parser: semantic failure: mor line is longer than main line
 *** File "terminators.cha": line 6, column 43: parser: no viable alternative at input '?'
 *** File "duptiers.cha": line 9, column 1: parser: semantic failure: duplicate dependent tier
-*** File "form-marker-compound-sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 208
-*** File "form-marker-compound-sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 208
-*** File "form-marker-compound-sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 208
-*** File "form-marker-compound-sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 208
+*** File "form-marker-compound-sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 202
+*** File "form-marker-compound-sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 202
+*** File "form-marker-compound-sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 202
+*** File "form-marker-compound-sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 202
 *** File "form-marker-compound-sign.cha": line 4, column 15: parser: missing OPTION at '\n'
 *** File "form-marker-compound-sign.cha": line 8, column 26: lexer: invalid form marker code: @m
 *** File "form-marker-compound-sign.cha": line 9, column 21: parser: no viable alternative at input 'black+board'
-*** File "ca-segment-repetition-bad-content.cha": line 8, column 7: lexer: skipping nonviable character '↫' (Unicode \u21ab) in state 54
-*** File "ca-segment-repetition-bad-content.cha": line 8, column 20: lexer: skipping nonviable character '↫' (Unicode \u21ab) in state 54
+*** File "ca-segment-repetition-bad-content.cha": line 8, column 7: lexer: skipping nonviable character '↫' (Unicode \u21ab) in state 52
+*** File "ca-segment-repetition-bad-content.cha": line 8, column 20: lexer: skipping nonviable character '↫' (Unicode \u21ab) in state 52
 *** File "latetalkers.cha": line 11, column 56: parser: semantic failure: gra line is longer than mor line
 *** File "code.cha": line 6, column 1: lexer: skipping nonviable character '@' in state 0
 *** File "code.cha": line 6, column 2: lexer: skipping nonviable character 'C' in state 0
@@ -300,62 +300,66 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 *** File "code.cha": line 6, column 19: lexer: skipping nonviable character 'r' in state 0
 *** File "code.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1560)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1534)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1534)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
+*** File "pho-without-group.cha": line 6, column 58: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
+*** File "pho-without-group.cha": line 8, column 40: parser: semantic failure: pho is longer than main line
+*** File "pho-without-group.cha": line 8, column 43: parser: semantic failure: pho is longer than main line
+*** File "pho-without-group.cha": line 8, column 45: parser: semantic failure: pho is longer than main line
 *** File "speaker.cha": line 3, column 21: parser: semantic failure: invalid role: Mei-Oanh
-*** File "speaker.cha": line 4, column 19: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 36
+*** File "speaker.cha": line 4, column 19: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 34
 *** File "speaker.cha": line 4, column 42: parser: semantic failure: CHI has @ID role Child but already had @Participants role Mei-Oanh
 *** File "speaker.cha": line 6, column 5: lexer: null
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1518)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2587)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1416)
+	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1502)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2541)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1400)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2424)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2488)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5583)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2482)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2550)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5773)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "speaker.cha": line 6, column 5: lexer: null
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1518)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2587)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1416)
+	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1502)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2541)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1400)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -364,58 +368,58 @@ java.util.NoSuchElementException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5592)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5095)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1455)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5782)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5265)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1467)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "speaker.cha": line 6, column 5: parser: mismatched input '' expecting COLON
 *** File "participants.cha": line 3, column 72: parser: semantic failure: 678 is missing a required @ID header
 *** File "participants.cha": line 10, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1560)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1515)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1515)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
-*** File "amp-equals-fraction.cha": line 5, column 15: lexer: skipping nonviable character '8' in state 54
-*** File "amp-equals-fraction.cha": line 5, column 16: lexer: skipping nonviable character '8' in state 54
+*** File "amp-equals-fraction.cha": line 5, column 15: lexer: skipping nonviable character '8' in state 52
+*** File "amp-equals-fraction.cha": line 5, column 16: lexer: skipping nonviable character '8' in state 52
 *** File "amp-equals-fraction.cha": line 5, column 18: parser: no viable alternative at input 'b'
 *** File "zho-f.cha": line 7, column 22: parser: semantic failure: fra is a tertiary language, so @s needs argument
 *** File "zho-f.cha": line 10, column 15: parser: semantic failure: "hao3" is not a legal word in language "fra"
-*** File "page-header-bad-number.cha": line 10, column 8: lexer: skipping nonviable character 'n' in state 158
-*** File "page-header-bad-number.cha": line 10, column 9: lexer: skipping nonviable character 'o' in state 158
-*** File "page-header-bad-number.cha": line 10, column 10: lexer: skipping nonviable character 't' in state 158
-*** File "page-header-bad-number.cha": line 10, column 11: lexer: skipping nonviable character 'a' in state 158
-*** File "page-header-bad-number.cha": line 10, column 12: lexer: skipping nonviable character 'n' in state 158
-*** File "page-header-bad-number.cha": line 10, column 13: lexer: skipping nonviable character 'u' in state 158
-*** File "page-header-bad-number.cha": line 10, column 14: lexer: skipping nonviable character 'm' in state 158
-*** File "page-header-bad-number.cha": line 10, column 15: lexer: skipping nonviable character 'b' in state 158
-*** File "page-header-bad-number.cha": line 10, column 16: lexer: skipping nonviable character 'e' in state 158
-*** File "page-header-bad-number.cha": line 10, column 17: lexer: skipping nonviable character 'r' in state 158
+*** File "page-header-bad-number.cha": line 10, column 8: lexer: skipping nonviable character 'n' in state 152
+*** File "page-header-bad-number.cha": line 10, column 9: lexer: skipping nonviable character 'o' in state 152
+*** File "page-header-bad-number.cha": line 10, column 10: lexer: skipping nonviable character 't' in state 152
+*** File "page-header-bad-number.cha": line 10, column 11: lexer: skipping nonviable character 'a' in state 152
+*** File "page-header-bad-number.cha": line 10, column 12: lexer: skipping nonviable character 'n' in state 152
+*** File "page-header-bad-number.cha": line 10, column 13: lexer: skipping nonviable character 'u' in state 152
+*** File "page-header-bad-number.cha": line 10, column 14: lexer: skipping nonviable character 'm' in state 152
+*** File "page-header-bad-number.cha": line 10, column 15: lexer: skipping nonviable character 'b' in state 152
+*** File "page-header-bad-number.cha": line 10, column 16: lexer: skipping nonviable character 'e' in state 152
+*** File "page-header-bad-number.cha": line 10, column 17: lexer: skipping nonviable character 'r' in state 152
 *** File "page-header-bad-number.cha": line 10, column 18: parser: missing PAGE_N at '\n'
 *** File "exceptions.cha": line 11, column 1: lexer: skipping nonviable character '@' in state 0
 *** File "exceptions.cha": line 11, column 2: lexer: skipping nonviable character 'E' in state 0
@@ -436,74 +440,75 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 *** File "exceptions.cha": line 11, column 18: lexer: null
 java.util.NoSuchElementException
 	at it.unimi.dsi.fastutil.ints.AbstractIntList.topInt(AbstractIntList.java:434)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:85)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1518)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2587)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1416)
+	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1502)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2541)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1400)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.consumeUntil(BaseRecognizer.java:690)
 	at org.antlr.runtime.BaseRecognizer.recover(BaseRecognizer.java:364)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1557)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1572)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "unintelligible-caps.cha": line 12, column 7: parser: semantic failure: "XXX" is not legal; did you mean to use "xxx" ?
 *** File "unintelligible-caps.cha": line 14, column 7: parser: semantic failure: "WWW" is not legal; did you mean to use "www" ?
-*** File "idependent-sch.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
-*** File "idependent-sch.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
-*** File "idependent-sch.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
-*** File "words-sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 208
-*** File "words-sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 208
-*** File "words-sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 208
-*** File "words-sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 208
+*** File "idependent-sch.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
+*** File "idependent-sch.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
+*** File "idependent-sch.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 52
+*** File "words-sign.cha": line 4, column 11: lexer: skipping nonviable character 's' in state 202
+*** File "words-sign.cha": line 4, column 12: lexer: skipping nonviable character 'i' in state 202
+*** File "words-sign.cha": line 4, column 13: lexer: skipping nonviable character 'g' in state 202
+*** File "words-sign.cha": line 4, column 14: lexer: skipping nonviable character 'n' in state 202
 *** File "words-sign.cha": line 4, column 15: parser: missing OPTION at '\n'
 *** File "role-Junk.cha": line 3, column 20: parser: semantic failure: invalid role: Junk
 *** File "role-Junk.cha": line 4, column 41: parser: semantic failure: invalid role: Junk
+*** File "pho-bracketed-as-group.cha": line 16, column 38: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "unintelligible-obsolete-yy.cha": line 12, column 7: parser: semantic failure: "yy" is not legal; did you mean to use "yyy" ?
-*** File "mor-commas.cha": line 7, column 27: lexer: skipping nonviable character ',' in state 102
-*** File "mor-commas.cha": line 7, column 28: lexer: skipping nonviable character ',' in state 102
+*** File "mor-commas.cha": line 7, column 27: lexer: skipping nonviable character ',' in state 96
+*** File "mor-commas.cha": line 7, column 28: lexer: skipping nonviable character ',' in state 96
 *** File "mor-commas.cha": line 6, column 26: parser: semantic failure: main line is longer than mor line
-*** File "idependent-sdi.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
-*** File "idependent-sdi.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
-*** File "idependent-sdi.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
+*** File "idependent-sdi.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
+*** File "idependent-sdi.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
+*** File "idependent-sdi.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 52
 *** File "greek-capital.cha": line 3, column 40: parser: semantic failure: MOT is missing a required @ID header
 *** File "greek-capital.cha": line 8, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1560)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1515)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1515)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:876)
-	at org.talkbank.chatter.App.processFile(App.java:880)
-	at org.talkbank.chatter.App.processRoot(App.java:683)
-	at org.talkbank.chatter.App.<init>(App.java:348)
-	at org.talkbank.chatter.App.<init>(App.java:202)
-	at org.talkbank.chatter.App.main(App.java:171)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:872)
+	at org.talkbank.chatter.App.processFile(App.java:908)
+	at org.talkbank.chatter.App.processRoot(App.java:711)
+	at org.talkbank.chatter.App.<init>(App.java:352)
+	at org.talkbank.chatter.App.<init>(App.java:206)
+	at org.talkbank.chatter.App.main(App.java:175)
 
 *** File "form-marker-compound.cha": line 8, column 18: parser: semantic failure: compound word may not have a form marker
-*** File "idependent-act.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 54
-*** File "idependent-act.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 54
-*** File "idependent-act.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 54
-*** File "quotation-nested.cha": line 9, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 54
-*** File "quotation-nested.cha": line 9, column 25: lexer: skipping nonviable character '’' (Unicode \u2019) in state 54
+*** File "idependent-act.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
+*** File "idependent-act.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
+*** File "idependent-act.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 52
+*** File "quotation-nested.cha": line 9, column 18: lexer: skipping nonviable character '‘' (Unicode \u2018) in state 52
+*** File "quotation-nested.cha": line 9, column 25: lexer: skipping nonviable character '’' (Unicode \u2019) in state 52
 *** File "page-header-missing-number.cha": line 10, column 1: lexer: skipping nonviable character '@' in state 0
 *** File "page-header-missing-number.cha": line 10, column 2: lexer: skipping nonviable character 'P' in state 0
 *** File "page-header-missing-number.cha": line 10, column 3: lexer: skipping nonviable character 'a' in state 0

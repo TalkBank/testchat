@@ -7,5 +7,5 @@
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
 @Media:	pause-with-explanation, video
 @Comment:	pause cannot have comment unless wrapped in group
-*CHI:	(0.4) [= WHO CHI TYPE walking] . 4818_5330
+*CHI:	<(0.4)> [= WHO CHI TYPE walking] . 4818_5330
 @End

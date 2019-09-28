@@ -4,10 +4,11 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="headers" Mediatypes="video unlinked"
-      Version="2.12.0"
+      Version="2.14.0"
       Lang="eng deu"
       Corpus="bates"
-      Date="2001-07-28">
+      Date="2001-07-28"
+      >
   <Participants>
     <participant
       id="CHI"
