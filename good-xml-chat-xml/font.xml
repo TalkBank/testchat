@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Font="Win:Foo Bar:14:25"
-      Version="2.14.0"
+      Version="2.15.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -25,6 +25,7 @@
 
     />
   </Participants>
+  <comment type="Generic">optional @Font header</comment>
   <u who="CHI" uID="u0">
     <w>hey</w>
     <w>man</w>
