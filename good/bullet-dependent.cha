@@ -1,4 +1,5 @@
 @UTF8
+@Window:	247_181_683_700_-1_-1_348_0_348_0
 @Begin
 @Languages:	eng
 @Participants:	MOT Mother, CHI Target_Child
@@ -7,6 +8,6 @@
 @Media:	bullet-dependent, video
 @Comment:	dependent tier bullet should not count in start checking
 *CHI:	<ryoote agete> [=! singing] . [+ bch] [+ foo] 2041689_2042652
-%act:	foo 2061689_2062652
+%act:	foo 2061689_2062652 bar 2061689_2062652
 *CHI:	<ryoote agete> [=! singing] . [+ bch] [+ foo] 2051689_2052652
 @End

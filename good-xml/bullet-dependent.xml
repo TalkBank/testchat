@@ -4,6 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="bullet-dependent" Mediatypes="video"
+      Window="247_181_683_700_-1_-1_348_0_348_0"
       Version="2.16.0"
       Lang="eng"
       Corpus="sample"
@@ -35,6 +36,10 @@
       unit="s"
     />
     <a type="actions">foo <media
+      start="2061.689"
+      end="2062.652"
+      unit="s"
+    /> bar <media
       start="2061.689"
       end="2062.652"
       unit="s"
