@@ -4,7 +4,7 @@
 @Participants:	MOT Mother, CHI Target_Child
 @ID:	eng|sample|MOT|||||Mother|||
 @ID:	eng|sample|CHI|1;10.04||||Target_Child|||
-@Media:	"https://media.talkbank.org/childes/Eng-NA/MacWhinney/000203a.mp3", video, missing
+@Media:	https://media.talkbank.org/childes/Eng-NA/MacWhinney/000203a.mp3, video, missing
 @Comment:	test media header missing, no bullets
 *CHI:	foo bar .
 @End
