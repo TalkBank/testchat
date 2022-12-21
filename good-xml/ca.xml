@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.18.0"
+      Version="2.19.0"
       Lang="eng"
       Options="CA"
       Corpus="bates"
@@ -194,12 +194,12 @@
   </u>
   <comment type="Generic">Segment repetition</comment>
   <u who="CHI" uID="u15">
-    <w><segment-repetition text="s-s-s"/>segment</w>
+    <w><ca-delimiter type="begin" label="repeated-segment"/>s-s-s<ca-delimiter type="end" label="repeated-segment"/>segment</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u16">
-    <w><segment-repetition text="s-s-s"/>seg<segment-repetition text="m-m-m-m"/>ments</w>
+    <w><ca-delimiter type="begin" label="repeated-segment"/>s-s-s<ca-delimiter type="end" label="repeated-segment"/>seg<ca-delimiter type="begin" label="repeated-segment"/>m-m-m-m<ca-delimiter type="end" label="repeated-segment"/>ments</w>
     <t type="p"></t>
 
   </u>
