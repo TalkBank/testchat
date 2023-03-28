@@ -1,4 +1,5 @@
 @UTF8
+@Window:	391_127_540_823_-1_-1_1433_0_1433_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Child, MOT Mother
@@ -43,7 +44,7 @@
 *CHI:	<a ∆faster∆> [= foo] .
 *CHI:	<a ∇slower∇> [= foo] .
 *CHI:	<a ⁎creaky⁎> [= foo] .
-*CHI:	<°softer° [/]> [= foo] .
+*CHI:	<°softer° [/] soft> [= foo] .
 *CHI:	<a °softer°> [= foo] .
 *CHI:	<a ▁lowpitch▁> [= foo] .
 *CHI:	<a ▔highpitch▔> [= foo] .

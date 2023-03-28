@@ -5,7 +5,7 @@
 @ID:	eng|bates|CHI|1;08.|female|normal||Child|||
 @ID:	eng|bates|MOT|||||Mother|||
 @Comment:	Simple example
-*MOT:	kɛstɰə˞@u [:: giftware] [* n:k] no [//] &in &=shakes:head
+*MOT:	kɛstɰə˞@u [:: giftware] [* n:k] no [//] &~in &=shakes:head
 	ɪnstlə@u [:: includes] [* n:k] +...
 %mor:	uni|kɛstɰə˞ uni|ɪnstlə +...
 @End

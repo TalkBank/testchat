@@ -7,7 +7,7 @@
 *CHI:	my car [x 3] is stupid .
 *CHI:	my+car [x 3] is stupid .
 *CHI:	<my car> [x 3] is stupid .
-*CHI:	my &car [x 3] is stupid .
+*CHI:	my &~car [x 3] is stupid .
 *CHI:	<my car [<]> [x 3] is stupid .
 *CHI:	<my car [x 3] [>]> [x 3] is stupid .
 *CHI:	<my car> [x 2] [>] . [+ noatt]

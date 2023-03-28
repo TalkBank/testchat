@@ -7,5 +7,5 @@
 @ID:	eng|timmy|WIN|||||Investigator|||
 @ID:	eng|timmy|GEM|||||Speaker|||
 @Comment:	nested quotation
-*CHI:	“ &foo and ‘ more ’ ” .
+*CHI:	“ &~foo and ‘ more ’ ” .
 @End

@@ -4,5 +4,6 @@
 @Participants:	CHI Child, MOT Mother
 @ID:	eng|bates|CHI|1;08.|female|normal||Child|||
 @ID:	eng|bates|MOT|||||Mother|||
-*CHI:	I am &~li:ing right &~woh: [>] now .
+@Comment:	Old & that has been removed.
+*CHI:	&nonvocal .
 @End

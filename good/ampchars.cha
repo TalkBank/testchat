@@ -5,5 +5,5 @@
 @ID:	eng|bates|CHI|1;08.|female|normal||Child|||
 @ID:	eng|bates|MOT|||||Mother|||
 @Comment:	phonological fragments
-*CHI:	foo &au^bg bar &foo::bar &foo:: .
+*CHI:	foo &~au^bg bar &~foo::bar &~foo:: .
 @End

@@ -16,7 +16,7 @@
 	&=points:picture_three and this is the older one . 277889_279746
 %mor:	pro:dem|that~v:cop|be&3S det|the n|father coord|and pro:dem|this v:cop|be&3S
 	det|the adj|old-CP pro:indef|one .
-*PAR:	&=points:picture_one let's [//] it's a [//] &ba the brain
+*PAR:	&=points:picture_one let's [//] it's a [//] &~ba the brain
 	[:: umbrella] [* s:ur] .  355535_357031
 %mor:	pro|it~v:cop|be&3S det|the n|brain .
 @End
