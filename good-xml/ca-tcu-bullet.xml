@@ -33,11 +33,12 @@
       unit="s"
     />
     <pause symbolic-length="simple" length="9.4"/>
-    <t type="missing CA terminator"></t>
-    <media
+    <internal-media
       start="2042.652"
       end="2043.652"
       unit="s"
     />
+    <t type="missing CA terminator"></t>
+
   </u>
 </CHAT>

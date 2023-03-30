@@ -8,7 +8,7 @@
 @Birthplace of CHI:	Taipei, Taiwan
 @L1 of CHI:	ara
 @Media:	headers, video, unlinked
-@Comment:	Test all headers FAKE_WORD = ({ALNUM} | [\_\@\&\;\-\!\?\.\,\'\"\+\<\>\(\)\/\=\~\*\#\`\\\%\^\$] | {TAG_CHAR})+
+@Comment:	Test all headers FAKE_WORD = ({ALNUM} | [\_\@\&~\;\-\!\?\.\,\'\"\+\<\>\(\)\/\=\~\*\#\`\\\%\^\$] | {TAG_CHAR})+
 *CHI:	foo .
 @Location:	foo
 @Number:	2

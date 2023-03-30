@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.19.0"
+      Version="2.20.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -49,7 +49,7 @@
   </u>
   <u who="CHI" uID="u3">
     <w>my</w>
-    <g><w type="fragment">car</w><r times="3"/></g>
+    <g><w type="nonword">car</w><r times="3"/></g>
     <w>is</w>
     <w>stupid</w>
     <t type="p"></t>

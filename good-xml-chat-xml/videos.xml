@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="videos" Mediatypes="video"
-      Version="2.19.0"
+      Version="2.20.0"
       Lang="eng"
       Corpus="Scale"
       >
@@ -211,7 +211,7 @@
   </u>
   <u who="PAR5" uID="u11">
     <linker type="lazy overlap mark"/>
-    <w type="fragment">d</w>
+    <w type="nonword">d</w>
     <w>did</w>
     <w>you</w>
     <w>pick</w>
@@ -261,7 +261,7 @@
   </u>
   <u who="PAR5" uID="u15">
     <e><happening>points:inv1</happening></e>
-    <w type="fragment">y</w>
+    <w type="nonword">y</w>
     <w>you</w>
     <t type="q"></t>
     <media
@@ -354,7 +354,7 @@
     <w>you</w>
     <w>can</w>
     <w>be</w>
-    <w type="fragment">sus</w>
+    <w type="nonword">sus</w>
     <w>as</w>
     <w>suspicious</w>
     <w>as</w>
@@ -459,7 +459,7 @@
   </u>
   <u who="PAR5" uID="u30">
     <e><happening>raises:hand</happening></e>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <w>where</w>
     <w>are</w>
     <w>you</w>
@@ -588,8 +588,8 @@
   </u>
   <u who="PAR5" uID="u40">
     <e><happening>fingers:four</happening></e>
-    <w type="fragment">f</w>
-    <w type="fragment">f</w>
+    <w type="nonword">f</w>
+    <w type="nonword">f</w>
     <pause symbolic-length="simple"/>
     <w>four</w>
     <w>times</w>
@@ -922,7 +922,7 @@
   <u who="INV1" uID="u63">
     <w>now</w>
     <tagMarker type="vocative"></tagMarker>
-    <w type="fragment">w</w>
+    <w type="nonword">w</w>
     <w>what</w>
     <w>does</w>
     <w>that</w>
@@ -1029,13 +1029,13 @@
     <a type="comments">also leaning in to read the paper.</a>
   </u>
   <u who="PAR3" uID="u72">
-    <w type="fragment">b</w>
+    <w type="nonword">b</w>
     <w>Bob</w>
     <e><happening>chuckles</happening></e>
     <w>and</w>
-    <w type="fragment">s<p type="drawl"/></w>
-    <w type="fragment">ste</w>
-    <w type="fragment">s</w>
+    <w type="nonword">s<p type="drawl"/></w>
+    <w type="nonword">ste</w>
+    <w type="nonword">s</w>
     <w>your</w>
     <w>stairs</w>
     <t type="p"></t>
@@ -1203,7 +1203,7 @@
     />
   </u>
   <u who="PAR1" uID="u86">
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <t type="trail off"></t>
     <media
       start="176.424"
@@ -1304,7 +1304,7 @@
     <linker type="quoted utterance next"/>
     <w>I</w>
     <w>put</w>
-    <w type="fragment">y</w>
+    <w type="nonword">y</w>
     <w>your</w>
     <t type="interruption"></t>
     <media
@@ -1438,7 +1438,7 @@
     />
   </u>
   <u who="PAR2" uID="u108">
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <t type="trail off"></t>
     <media
       start="208.523"
@@ -1552,7 +1552,7 @@
   <u who="PAR1" uID="u119">
     <linker type="lazy overlap mark"/>
     <w>what's</w>
-    <w type="fragment">t</w>
+    <w type="nonword">t</w>
     <t type="interruption question"></t>
     <media
       start="219.043"
@@ -1603,7 +1603,7 @@
     <tagMarker type="vocative"></tagMarker>
     <w>there's</w>
     <w>a</w>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <t type="trail off"></t>
     <media
       start="225.270"
@@ -1624,10 +1624,10 @@
   <u who="PAR3" uID="u125">
     <w>nails</w>
     <w>a<p type="drawl"/>nd</w>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <w>there's</w>
     <w>a</w>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <w>nineteen</w>
     <w>nine</w>
     <w>three</w>
@@ -1840,13 +1840,13 @@
     />
   </u>
   <u who="PAR5" uID="u145">
-    <w type="fragment">uh</w>
-    <w type="fragment">f</w>
+    <w type="nonword">uh</w>
+    <w type="nonword">f</w>
     <w>is</w>
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <pause symbolic-length="simple"/>
     <e><happening>points:document</happening></e>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <e><happening>ges</happening></e>
     <t type="trail off"></t>
     <media
@@ -1950,7 +1950,7 @@
     />
   </u>
   <u who="PAR5" uID="u154">
-    <w type="fragment">ich</w>
+    <w type="nonword">ich</w>
     <w>it's</w>
     <w>in</w>
     <w>Florida</w>
@@ -1976,7 +1976,7 @@
     <w>and</w>
     <w>it's</w>
     <w>in</w>
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <e><happening>ges</happening></e>
     <t type="trail off"></t>
     <media
@@ -1997,7 +1997,7 @@
   <u who="PAR3" uID="u158">
     <w>oh</w>
     <tagMarker type="vocative"></tagMarker>
-    <w type="fragment">th</w>
+    <w type="nonword">th</w>
     <w>this</w>
     <t type="interruption"></t>
     <media
@@ -2020,8 +2020,8 @@
     <linker type="lazy overlap mark"/>
     <w>this</w>
     <w>is</w>
-    <w type="fragment">n</w>
-    <w type="fragment">n</w>
+    <w type="nonword">n</w>
+    <w type="nonword">n</w>
     <w untranscribed="unintelligible">xxx</w>
     <t type="p"></t>
     <media
@@ -2109,7 +2109,7 @@
     <w untranscribed="unintelligible">xxx</w><k type="retracing with correction"/></g>
     <w>I've</w>
     <w>got</w>
-    <w type="fragment">th</w>
+    <w type="nonword">th</w>
     <w>the</w>
     <w>other</w>
     <t type="trail off"></t>
@@ -2142,7 +2142,7 @@
     />
   </u>
   <u who="PAR3" uID="u170">
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <w>sugar</w>
     <w>cookie</w>
     <t type="p"></t>
@@ -2198,10 +2198,10 @@
     <e><happening>points:par3</happening></e>
     <w>that</w>
     <w>is</w>
-    <w type="fragment">uh</w>
-    <w type="fragment">oh</w>
+    <w type="nonword">uh</w>
+    <w type="nonword">oh</w>
     <w>something</w>
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <w>water</w>
     <t type="p"></t>
     <media
@@ -2242,7 +2242,7 @@
   </u>
   <u who="PAR5" uID="u179">
     <g><w>in</w><k type="retracing"/></g>
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <w>in</w>
     <w>the</w>
     <w>golf</w>
@@ -2284,7 +2284,7 @@
   <u who="INV2" uID="u183">
     <linker type="lazy overlap mark"/>
     <w>and</w>
-    <w type="fragment">th</w>
+    <w type="nonword">th</w>
     <w>Sanford</w>
     <tagMarker type="comma"></tagMarker>
     <w>she</w>
@@ -2354,7 +2354,7 @@
   </u>
   <u who="PAR5" uID="u188">
     <e><happening>points:document</happening></e>
-    <w type="fragment">h</w>
+    <w type="nonword">h</w>
     <w>P_O</w>
     <w>box</w>
     <w>thirty</w>
@@ -2588,7 +2588,7 @@
     <a type="comments">reading document.</a>
   </u>
   <u who="PAR2" uID="u207">
-    <w type="fragment">uh</w>
+    <w type="nonword">uh</w>
     <e><happening>head:shakes</happening></e>
     <t type="p"></t>
     <media
@@ -2646,7 +2646,7 @@
     <w>this</w>
     <w>one</w>
     <w>is</w>
-    <w type="fragment">h</w>
+    <w type="nonword">h</w>
     <w>here</w>
     <t type="p"></t>
     <media
@@ -2675,7 +2675,7 @@
   </u>
   <u who="PAR2" uID="u215">
     <w>Private</w>
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <t type="interruption"></t>
     <media
       start="378.664"
@@ -2855,7 +2855,7 @@
     />
   </u>
   <u who="PAR1" uID="u233">
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <t type="trail off"></t>
     <media
       start="400.633"
@@ -2876,7 +2876,7 @@
     />
   </u>
   <u who="PAR1" uID="u235">
-    <w type="fragment">um</w>
+    <w type="nonword">um</w>
     <t type="trail off"></t>
     <media
       start="407.524"
@@ -2886,7 +2886,7 @@
     <a type="comments">shares the document with inv2.</a>
   </u>
   <u who="INV2" uID="u236">
-    <w type="fragment">l</w>
+    <w type="nonword">l</w>
     <t type="interruption"></t>
     <media
       start="410.901"
@@ -2907,7 +2907,7 @@
     />
   </u>
   <u who="INV2" uID="u238">
-    <w type="fragment">off</w>
+    <w type="nonword">off</w>
     <t type="interruption"></t>
     <media
       start="417.757"
@@ -3060,7 +3060,7 @@
   </u>
   <u who="PAR3" uID="u252">
     <linker type="lazy overlap mark"/>
-    <w type="fragment">l</w>
+    <w type="nonword">l</w>
     <w>London</w>
     <t type="p"></t>
     <media

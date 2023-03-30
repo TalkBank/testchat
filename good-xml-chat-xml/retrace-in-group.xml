@@ -3,26 +3,24 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.19.0"
+      Version="2.20.0"
       Lang="eng"
-      Options="notarget"
-      Corpus="bates"
+      Corpus="timmy"
       >
   <Participants>
     <participant
       id="CHI"
-    name="Mei-Oanh"
-      role="Partner"
+    name="Timmy"
+      role="Target_Child"
       language="eng"
-      age="P1Y08M"
-      sex="female"
-      group="normal"
+      age="P2Y"
 
     />
   </Participants>
-  <comment type="Generic">Test notarget</comment>
+  <comment type="Generic">retrace in a group can be followed by something after group</comment>
   <u who="CHI" uID="u0">
-    <w>word</w>
+    <g><g><w>ingroup</w><k type="retracing"/></g><overlap type="overlap precedes"/></g>
+    <w>after</w>
     <t type="p"></t>
 
   </u>

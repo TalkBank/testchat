@@ -1,4 +1,5 @@
 @UTF8
+@Window:	263_127_668_685_-1_-1_1797_0_1802_0
 @Begin
 @Languages:	ind, jav
 @Participants:	CHI Ido Target_Child, MOT Rimi Mother, EXP Bety Investigator, ABA Praba Brother
@@ -40,11 +41,11 @@
 *EXP:	‹est [/]› lait .
 %pho:	se le
 @Comment:	fragment retrace
-*EXP:	‹&est [/]› lait .
+*EXP:	‹&~est [/]› lait .
 %pho:	se le
 @Comment:	pho group around regular group, and vice versa
-*EXP:	‹est lait [/]› <est lait> [/] .
-%pho:	a b c
+*EXP:	‹est lait [/] la› <est lait> [/] la .
+%pho:	a b c d
 @Comment:	syllable stress
 *EXP:	hello world .
 %pho:	həˈloʊ ˈwʌɹld
@@ -55,7 +56,7 @@
 @Comment:	yyy has pho
 *EXP:	yyy .
 %pho:	a
-*EXP:	&notomitted .
+*EXP:	&~notomitted .
 %pho:	a
 *EXP:	&-notomitted .
 %pho:	a

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.0"
+      Lang="aaa"
+      Corpus="bates"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="aaa"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
+
+    />
+  </Participants>
+  <comment type="Generic">illegal language code not in ISO-639.cut</comment>
+  <u who="CHI" uID="u0">
+    <w>word</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>
