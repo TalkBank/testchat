@@ -31,7 +31,7 @@
 
   </u>
   <u who="CHI" uID="u1">
-    <w formType="letter">b</w>
+    <w formType="letter" formSuffix="-s">b</w>
     <t type="p"></t>
 
   </u>

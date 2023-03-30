@@ -11,7 +11,7 @@
     <participant
       id="CHI"
       role="Child"
-      language="eng zho"
+      language="zho eng"
       age="P1Y08M"
       sex="female"
       group="normal"
@@ -20,7 +20,7 @@
     <participant
       id="MOT"
       role="Mother"
-      language="eng zho"
+      language="zho eng"
 
     />
   </Participants>
