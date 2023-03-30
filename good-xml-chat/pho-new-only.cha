@@ -67,8 +67,4 @@
 @Comment:	xxx has *
 *EXP:	Yvan watched TV xxx .
 %pho:	a b c *
-@Comment:	2011-04-08 Brian discussion of how to handle x
-@Comment:	fmc should check for number of pho words in group
-*EXP:	‹foo [x 4]› .
-%pho:	‹a a a a›
 @End

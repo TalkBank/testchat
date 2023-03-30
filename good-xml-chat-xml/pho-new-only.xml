@@ -195,11 +195,4 @@
     <t type="p"></t>
 
   </u>
-  <comment type="Generic">2011-04-08 Brian discussion of how to handle x</comment>
-  <comment type="Generic">fmc should check for number of pho words in group</comment>
-  <u who="EXP" uID="u19">
-    <pg><g><w>foo</w><r times="4"/></g><actual><pw><ph id="ph0">a</ph></pw><pw><ph id="ph1">a</ph></pw><pw><ph id="ph2">a</ph></pw><pw><ph id="ph3">a</ph></pw></actual></pg>
-    <t type="p"></t>
-
-  </u>
 </CHAT>
