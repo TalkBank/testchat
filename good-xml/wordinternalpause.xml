@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.0"
+      Version="2.20.1"
       Lang="eng"
       Corpus="timmy"
       Date="1996-02-29"
@@ -39,14 +39,10 @@
 
     />
   </Participants>
-  <comment type="Tape Location">TI060 (side A)</comment>
   <comment type="Date">29-FEB-1996</comment>
-  <comment type="Time Duration">17:30-18:00</comment>
+  <comment type="Generic">^ in middle of a word for pause</comment>
   <u who="CHI" uID="u0">
     <w>foo<p type="pause"/>bar</w>
-    <w>is</w>
-    <w><p type="blocking"/>blocking</w>
-    <w>name</w>
     <t type="p"></t>
 
   </u>

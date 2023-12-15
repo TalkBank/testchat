@@ -6,8 +6,7 @@
 @ID:	eng|timmy|LIN|||||Investigator|||
 @ID:	eng|timmy|WIN|||||Investigator|||
 @ID:	eng|timmy|GEM|||||Speaker|||
-@Tape Location:	TI060 (side A)
 @Date:	29-FEB-1996
-@Time Duration:	17:30-18:00
-*CHI:	foo^bar is ^blocking name .
+@Comment:	^ in middle of a word for pause
+*CHI:	foo^bar .
 @End
