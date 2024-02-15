@@ -11,6 +11,8 @@
 *CHI:	more cookie . [+ IMP]
 %trn:	qn|more n|cookie .
 %grt:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+%umor:	qn|more n|cookie .
+%ugra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
 @Comment:	with postclitic
 *MOT:	where's your cup ?
 %mor:	adv:wh|where~v:cop|be&3S pro:poss:det|your n|cup ?

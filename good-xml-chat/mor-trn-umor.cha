@@ -1,15 +1,14 @@
 @UTF8
 @Begin
 @Languages:	eng
-@Participants:	CHI Courtney Target_Child, MOT Tracy Mother, INV Rose
-	Investigator, FAT Tom Father
+@Participants:	CHI Courtney Target_Child, MOT Tracy Mother, INV Rose Investigator, FAT Tom Father
 @ID:	eng|belfast|CHI|3;06.18|||UC|Target_Child|||
 @ID:	eng|belfast|MOT|||||Mother|||
 @ID:	eng|belfast|INV|||||Investigator|||
 @ID:	eng|belfast|FAT|||||Father|||
-@Comment:	Have %mor and %moru and %trn.
+@Comment:	Have %mor and %umor and %trn.
 *INV:	do you like having laces or buckles ? [+ bch]
 %mor:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
-%moru:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
 %trn:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
+%umor:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
 @End

@@ -43,9 +43,9 @@
   <comment type="Date">15-OCT-1962</comment>
   <comment type="Generic">simplest gra</comment>
   <u who="CHI" uID="u0">
-    <w>more<mor type="trn"><mw><pos><c>qn</c></pos><stem>more</stem></mw><gra type="grt" index="1" head="2" relation="QUANT"/></mor></w>
-    <w>cookie<mor type="trn"><mw><pos><c>n</c></pos><stem>cookie</stem></mw><gra type="grt" index="2" head="0" relation="ROOT"/></mor></w>
-    <t type="p"><mor type="trn"><mt type="p"/><gra type="grt" index="3" head="2" relation="PUNCT"/></mor></t>
+    <w>more<mor type="trn"><mw><pos><c>qn</c></pos><stem>more</stem></mw><gra type="grt" index="1" head="2" relation="QUANT"/></mor><mor type="umor"><mw><pos><c>qn</c></pos><stem>more</stem></mw><gra type="ugra" index="1" head="2" relation="QUANT"/></mor></w>
+    <w>cookie<mor type="trn"><mw><pos><c>n</c></pos><stem>cookie</stem></mw><gra type="grt" index="2" head="0" relation="ROOT"/></mor><mor type="umor"><mw><pos><c>n</c></pos><stem>cookie</stem></mw><gra type="ugra" index="2" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="trn"><mt type="p"/><gra type="grt" index="3" head="2" relation="PUNCT"/></mor><mor type="umor"><mt type="p"/><gra type="ugra" index="3" head="2" relation="PUNCT"/></mor></t>
     <postcode>IMP</postcode>
 
   </u>
