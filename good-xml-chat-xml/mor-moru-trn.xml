@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.1"
+      Lang="eng"
+      Corpus="belfast"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Courtney"
+      role="Target_Child"
+      language="eng"
+      age="P3Y06M18D"
+      SES="UC"
+
+    />
+    <participant
+      id="MOT"
+    name="Tracy"
+      role="Mother"
+      language="eng"
+
+    />
+    <participant
+      id="INV"
+    name="Rose"
+      role="Investigator"
+      language="eng"
+
+    />
+    <participant
+      id="FAT"
+    name="Tom"
+      role="Father"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Generic">Have %mor and %moru and %trn.</comment>
+  <u who="INV" uID="u0">
+    <w>do<mor type="mor"><mw><pos><c>aux</c></pos><stem>do</stem></mw></mor><mor type="trn"><mw><pos><c>aux</c></pos><stem>do</stem></mw></mor><mor type="moru"><mw><pos><c>aux</c></pos><stem>do</stem></mw></mor></w>
+    <w>you<mor type="mor"><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor><mor type="trn"><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor><mor type="moru"><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor></w>
+    <w>like<mor type="mor"><mw><pos><c>v</c></pos><stem>like</stem></mw></mor><mor type="trn"><mw><pos><c>v</c></pos><stem>like</stem></mw></mor><mor type="moru"><mw><pos><c>v</c></pos><stem>like</stem></mw></mor></w>
+    <w>having<mor type="mor"><mw><pos><c>part</c></pos><stem>have</stem><mk type="sfx">PROG</mk></mw></mor><mor type="trn"><mw><pos><c>part</c></pos><stem>have</stem><mk type="sfx">PROG</mk></mw></mor><mor type="moru"><mw><pos><c>part</c></pos><stem>have</stem><mk type="sfx">PROG</mk></mw></mor></w>
+    <w>laces<mor type="mor"><mw><pos><c>n</c></pos><stem>lace</stem><mk type="sfx">PL</mk></mw></mor><mor type="trn"><mw><pos><c>n</c></pos><stem>lace</stem><mk type="sfx">PL</mk></mw></mor><mor type="moru"><mw><pos><c>n</c></pos><stem>lace</stem><mk type="sfx">PL</mk></mw></mor></w>
+    <w>or<mor type="mor"><mw><pos><c>conj</c><s>coo</s></pos><stem>or</stem></mw></mor><mor type="trn"><mw><pos><c>conj</c><s>coo</s></pos><stem>or</stem></mw></mor><mor type="moru"><mw><pos><c>conj</c><s>coo</s></pos><stem>or</stem></mw></mor></w>
+    <w>buckles<mor type="mor"><mw><pos><c>n</c></pos><stem>buckle</stem><mk type="sfx">PL</mk></mw></mor><mor type="trn"><mw><pos><c>n</c></pos><stem>buckle</stem><mk type="sfx">PL</mk></mw></mor><mor type="moru"><mw><pos><c>n</c></pos><stem>buckle</stem><mk type="sfx">PL</mk></mw></mor></w>
+    <t type="q"><mor type="mor"><mt type="q"/></mor><mor type="trn"><mt type="q"/></mor><mor type="moru"><mt type="q"/></mor></t>
+    <postcode>bch</postcode>
+
+  </u>
+</CHAT>
