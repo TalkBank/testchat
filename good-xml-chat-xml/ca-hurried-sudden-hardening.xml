@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.1"
+      Lang="eng"
+      Corpus="change_me_later"
+      >
+  <Participants>
+    <participant
+      id="TXT"
+      role="Text"
+      language="eng"
+
+    />
+  </Participants>
+  <u who="TXT" uID="u0">
+    <w><ca-element type="hurried start"/>quick</w>
+    <w>start</w>
+    <w>and</w>
+    <w>then</w>
+    <w>a</w>
+    <w>sudden</w>
+    <w>cutoff<ca-element type="sudden stop"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TXT" uID="u1">
+    <w>also</w>
+    <w>hard<ca-element type="hardening"/>ening</w>
+    <w>inside</w>
+    <w>a</w>
+    <w>word</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>
