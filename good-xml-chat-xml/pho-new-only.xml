@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Window="263_127_668_685_-1_-1_1797_0_1802_0"
-      Version="2.20.1"
+      Version="2.20.3"
       Lang="ind jav"
       Corpus="IDO"
       Date="2000-06-23"
@@ -108,7 +108,7 @@
   </u>
   <comment type="Generic">1-1 group on npho line</comment>
   <u who="EXP" uID="u6">
-    <pg><w>lait</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph></pw><pw><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph></pw><pw><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>lait</w><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph></pw><pw><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></model><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph></pw><pw><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></actual></pg>
     <t type="p"></t>
 
     <a type="extension" flavor="pho">‹se le›</a>
@@ -147,8 +147,8 @@
   </u>
   <comment type="Generic">syllable stress</comment>
   <u who="EXP" uID="u11">
-    <pg><w>hello</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">o</ph><ph id="ph4">ʊ</ph></pw></actual><model><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">o</ph><ph id="ph4">ʊ</ph></pw></model></pg>
-    <pg><w>world</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">l</ph><ph id="ph4">d</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">l</ph><ph id="ph4">d</ph></pw></model></pg>
+    <pg><w>hello</w><model><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">o</ph><ph id="ph4">ʊ</ph></pw></model><actual><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">o</ph><ph id="ph4">ʊ</ph></pw></actual></pg>
+    <pg><w>world</w><model><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">l</ph><ph id="ph4">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">l</ph><ph id="ph4">d</ph></pw></actual></pg>
     <t type="p"></t>
 
   </u>

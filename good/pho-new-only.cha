@@ -30,8 +30,8 @@
 %pho:	se le
 @Comment:	1-1 group on npho line
 *EXP:	lait .
-%pho:	‹se le›
 %mod:	‹se le›
+%pho:	‹se le›
 %xpho:	‹se le›
 %xmod:	‹se le›
 @Comment:	compound
@@ -48,8 +48,8 @@
 %pho:	a b c d
 @Comment:	syllable stress
 *EXP:	hello world .
-%pho:	həˈloʊ ˈwʌɹld
 %mod:	həˈloʊ ˈwʌɹld
+%pho:	həˈloʊ ˈwʌɹld
 @Comment:	omission etc.
 *EXP:	hello 0omitted .
 %pho:	a

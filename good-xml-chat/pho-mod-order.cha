@@ -12,6 +12,6 @@
 @Date:	23-JUN-1992
 @Comment:	Test %mod and %pho order. TODO Round trip.
 *CHI:	oh ! 0_12286
-%pho:	oː
 %mod:	ɔ
+%pho:	oː
 @End

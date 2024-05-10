@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.1"
+      Version="2.20.3"
       Lang="eng"
       Corpus="Alex"
       Date="2002-05-02"
@@ -55,7 +55,7 @@
   <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts , Father Southeastern Massachusetts , Grandmother Southeastern Massachusetts</comment>
   <comment type="Date">02-MAY-2002</comment>
   <u who="CHI" uID="u0">
-    <pg><w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw></mor></w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">m</ph><ph id="ph2">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">i</ph><ph id="ph4">ː</ph></pw></model></pg>
+    <pg><w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw></mor></w><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">i</ph><ph id="ph4">ː</ph></pw></model><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">m</ph><ph id="ph2">ɪ</ph></pw></actual></pg>
     <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
 
   </u>
