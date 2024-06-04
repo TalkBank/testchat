@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -25,22 +25,22 @@
     />
   </Participants>
   <u who="CHI" uID="u0">
-    <pg><w>non<mor type="mor"><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor></w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ɑ</ph><ph id="ph2">̃</ph></pw></actual></pg>
+    <w>non<mor type="mor"><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>n</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw></pho></w>
     <pg><w type="omission">il<mor type="mor"><mw><pos><c>0pro</c><s>subj</s></pos><stem>il</stem></mw></mor></w>
     <w>y<mor type="mor"><mw><pos><c>pro</c><s>y</s></pos><stem>y</stem></mw></mor></w>
-    <w>a<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>avoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
-    <pg><w>pas<mor type="mor"><mw><pos><c>adv</c><s>neg</s></pos><stem>pas</stem></mw></mor></w><actual><pw><ph id="ph0">p</ph><ph id="ph1">a</ph></pw></actual></pg>
-    <pg><w>d'<mor type="mor"><mw><pos><c>adv</c></pos><stem>de</stem></mw></mor></w><actual><pw><ph id="ph0">d</ph></pw></actual></pg>
-    <pg><w>Anaé<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Anaé</stem></mw></mor></w><actual><pw><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">a</ph><ph id="ph3">h</ph><ph id="ph4">e</ph></pw></actual></pg>
-    <pg><w>dans<mor type="mor"><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor></w><actual><pw><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">̃</ph></pw></actual></pg>
-    <pg><w>ma<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>ma</stem><mk type="sfxf">sg</mk></mw></mor></w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph></pw></actual></pg>
-    <pg><w>classe<mor type="mor"><mw><pos><c>n</c></pos><stem>classe</stem><mk type="sfxf">f</mk></mw></mor></w><actual><pw><ph id="ph0">k</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">s</ph></pw></actual></pg>
+    <w>a<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>avoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw></pho></pg>
+    <w>pas<mor type="mor"><mw><pos><c>adv</c><s>neg</s></pos><stem>pas</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>p</base></ph><ph><base>a</base></ph></pw></pho></w>
+    <w>d'<mor type="mor"><mw><pos><c>adv</c></pos><stem>de</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>d</base></ph></pw></pho></w>
+    <w>Anaé<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Anaé</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base></ph><ph><base>h</base></ph><ph><base>e</base></ph></pw></pho></w>
+    <w>dans<mor type="mor"><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>d</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw></pho></w>
+    <w>ma<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>ma</stem><mk type="sfxf">sg</mk></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>m</base></ph><ph><base>a</base></ph></pw></pho></w>
+    <w>classe<mor type="mor"><mw><pos><c>n</c></pos><stem>classe</stem><mk type="sfxf">f</mk></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>k</base></ph><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>s</base></ph></pw></pho></w>
     <g><pg><w type="omission">il</w>
     <w>y</w>
-    <w>a</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg><k type="retracing with correction"/></g>
-    <pg><w>c'est<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>être</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw><mor-pre><mw><pos><c>pro</c><s>dem</s></pos><stem>ce</stem></mw></mor-pre></mor></w><actual><pw><ph id="ph0">s</ph><ph id="ph1">ɛ</ph></pw></actual></pg>
-    <pg><w>que<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>que</stem></mw></mor></w><actual><pw><ph id="ph0">k</ph></pw></actual></pg>
-    <pg><w>Anouk<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Anouk</stem></mw></mor></w><actual><pw><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">u</ph><ph id="ph3">k</ph></pw></actual></pg>
+    <w>a</w><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw></pho></pg><k type="retracing with correction"/></g>
+    <w>c'est<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>être</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw><mor-pre><mw><pos><c>pro</c><s>dem</s></pos><stem>ce</stem></mw></mor-pre></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw></pho></w>
+    <w>que<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>que</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>k</base></ph></pw></pho></w>
+    <w>Anouk<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Anouk</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>u</base></ph><ph><base>k</base></ph></pw></pho></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 
   </u>

@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="ind jav"
       Corpus="IDO"
       Date="2000-06-23"
@@ -52,12 +52,12 @@
   <comment type="Date">23-JUN-2000</comment>
   <comment type="Generic">Test Brian's problem</comment>
   <u who="CHI" uID="u0">
-    <pg><w>mais</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ɛ</ph></pw></actual></pg>
-    <g><pg><w>c'est</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">ɛ</ph></pw></actual></pg><k type="retracing with correction"/></g>
-    <g><pg><w>ce<wk type="cmp"/>qu'</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">k</ph></pw></actual></pg>
-    <pg><w>y<wk type="cmp"/>a</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <w>mais<pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>m</base></ph><ph><base>ɛ</base></ph></pw></pho></w>
+    <g><w>c'est<pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw></pho></w><k type="retracing with correction"/></g>
+    <g><w>ce<wk type="cmp"/>qu'<pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>s</base></ph><ph><base>k</base></ph></pw></pho></w>
+    <w>y<wk type="cmp"/>a<pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw></pho></w>
     <pg><w>en</w>
-    <w>haut</w><actual><pw><ph id="ph0">ɑ</ph><ph id="ph1">̃</ph><ph id="ph2">o</ph></pw></actual></pg><overlap type="overlap follows"/></g>
+    <w>haut</w><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>ɑ</base><combining>̃</combining></ph><ph><base>o</base></ph></pw></pho></pg><overlap type="overlap follows"/></g>
     <t type="interruption"></t>
 
   </u>

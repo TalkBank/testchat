@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="ind jav"
       Corpus="IDO"
       Date="2000-06-23"
@@ -22,9 +22,9 @@
   <comment type="Date">23-JUN-2000</comment>
   <comment type="Generic">Test new pho with mod</comment>
   <u who="CHI" uID="u0">
-    <pg><w>A</w><model><pw><ph id="ph0">d</ph></pw></model><actual><pw><ph id="ph0">a</ph></pw></actual></pg>
-    <pg><w>B</w><model><pw><ph id="ph0">e</ph></pw></model><actual><pw><ph id="ph0">b</ph></pw></actual></pg>
-    <pg><w>C</w><model><pw><ph id="ph0">f</ph></pw></model><actual><pw><ph id="ph0">c</ph></pw></actual></pg>
+    <pg><w>A</w><mod xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>d</base></ph></pw></mod><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>a</base></ph></pw></pho></pg>
+    <w>B<mod xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>e</base></ph></pw></mod><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>b</base></ph></pw></pho></w>
+    <w>C<mod xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>f</base></ph></pw></mod><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>c</base></ph></pw></pho></w>
     <t type="p"></t>
 
   </u>

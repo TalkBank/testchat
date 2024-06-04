@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -417,7 +417,7 @@
   </u>
   <u who="MOT" uID="u56">
     <w>here</w>
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>the</w>
     <w>dog's</w>
     <w>gon</w>
@@ -919,7 +919,7 @@
   </u>
   <u who="MOT" uID="u130">
     <w>uhoh</w>
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>where</w>
     <w>does</w>
     <g><w>that</w><k type="stressing"/></g>

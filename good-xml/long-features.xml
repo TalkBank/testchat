@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="long-features" Mediatypes="audio"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Corpus="SBCSAE"
       >
@@ -39,7 +39,7 @@
     />
   </Participants>
   <u who="REED" uID="u0">
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>Hey</w>
     <w>man</w>
     <t type="p"></t>
@@ -59,7 +59,7 @@
     />
   </u>
   <u who="REED" uID="u2">
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>Good</w>
     <w>to</w>
     <w>see</w>
@@ -76,14 +76,14 @@
       end="6.954"
       unit="s"
     />
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>we<p type="drawl"/>ll</w>
     <internal-media
       start="6.954"
       end="8.464"
       unit="s"
     />
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>I</w>
     <w>see</w>
     <w>you</w>
@@ -106,7 +106,7 @@
     />
   </u>
   <u who="DARRE" uID="u3">
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>I</w>
     <w>did</w>
     <t type="p"></t>
@@ -214,7 +214,7 @@
     />
   </u>
   <u who="DARRE" uID="u11">
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>Yeah</w>
     <internal-media
       start="18.591"
@@ -233,7 +233,7 @@
     />
   </u>
   <u who="DARRE" uID="u12">
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>I</w>
     <w>couldn't</w>
     <w>begin</w>
@@ -284,7 +284,7 @@
     />
   </u>
   <u who="DARRE" uID="u14">
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>Well</w>
     <internal-media
       start="23.930"

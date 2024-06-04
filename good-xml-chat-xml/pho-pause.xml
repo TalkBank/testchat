@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="3.0.0"
+      Lang="eng"
+      Corpus="sample"
+      >
+  <Participants>
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P1Y10M04D"
+
+    />
+  </Participants>
+  <comment type="Generic">pause align 1-1 to pho</comment>
+  <u who="CHI" uID="u0">
+    <pause symbolic-length="very long"><mod xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph><ph><base>w</base></ph><ph><base>o</base></ph><ph><base>r</base></ph><ph><base>d</base></ph></pw></mod><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph><ph><base>w</base></ph><ph><base>o</base></ph><ph><base>r</base></ph><ph><base>d</base></ph></pw></pho></pause>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

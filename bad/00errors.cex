@@ -100,17 +100,17 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2664)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2732)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5970)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2659)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2727)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5965)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "pho-repetition-bad.cha": line 8, column 4: lexer: null
 java.util.EmptyStackException
@@ -128,26 +128,26 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5979)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5974)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "pho-repetition-bad.cha": line 8, column 4: parser: mismatched input '' expecting COLON
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-enumeration-valid: Value 'language' is not facet-valid with respect to enumeration '[addressee, actions, alternative, coding, cohesion, comments, english translation, errcoding, explanation, flow, facial, target gloss, gesture, intonation, orthography, paralinguistics, SALT, situation, speech act, time stamp, extension]'. It must be a value from the enumeration.
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-attribute.3: The value 'language' of attribute 'type' on element 'a' is not valid with respect to its type, 'annotationTypeType'.
 *** org.talkbank.util.ValidatorTalkBankException
-	at org.talkbank.chatter.App.processTree(App.java:1090)
-	at org.talkbank.chatter.App.processFile(App.java:954)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chatter.App.processTree(App.java:1095)
+	at org.talkbank.chatter.App.processFile(App.java:959)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 *** File "old-blocking.cha": line 10, column 7: lexer: ^ not allowed at the beginning of a word
 *** File "options-caps.cha": line 4, column 11: lexer: skipping nonviable character 'c' in state 204
 *** File "options-caps.cha": line 4, column 12: lexer: skipping nonviable character 'a' in state 204
@@ -285,56 +285,56 @@ java.util.EmptyStackException
 *** File "morweist.cha": line 8, column 18: parser: semantic failure: Unknown participant: FAT
 *** File "morweist.cha": line 8, column 32: parser: internal error: null
 InternalErrorRecognitionException(java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null)
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4085)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3735)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1439)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4080)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3730)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1434)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4011)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4006)
 	... 8 more
 java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4011)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3735)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1439)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4006)
+	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3730)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1434)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "morweist.cha": line 11, column 14: parser: no viable alternative at input '+'
 *** File "morweist.cha": line 11, column 15: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 11, column 30: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 13, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1581)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1531)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1526)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1531)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1526)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "mornumber-spanish-2.cha": line 9, column 17: lexer: skipping nonviable character '#' in state 52
 *** File "mornumber-spanish-2.cha": line 9, column 27: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
@@ -392,28 +392,28 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 *** File "code.cha": line 6, column 19: lexer: skipping nonviable character 'r' in state 0
 *** File "code.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1581)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1539)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1534)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1539)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1534)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "heritage.cha": line 4, column 11: lexer: skipping nonviable character 'h' in state 204
 *** File "heritage.cha": line 4, column 12: lexer: skipping nonviable character 'e' in state 204
@@ -426,9 +426,9 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 *** File "heritage.cha": line 4, column 19: parser: missing OPTION at '\n'
 *** File "heritage.cha": line 15, column 40: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "pho-without-group.cha": line 6, column 58: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
-*** File "pho-without-group.cha": line 8, column 40: parser: semantic failure: pho is longer than main line
-*** File "pho-without-group.cha": line 8, column 43: parser: semantic failure: pho is longer than main line
-*** File "pho-without-group.cha": line 8, column 45: parser: semantic failure: pho is longer than main line
+*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
+*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
+*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
 *** File "speaker.cha": line 3, column 21: parser: semantic failure: invalid role: Mei-Oanh
 *** File "speaker.cha": line 4, column 19: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 34
 *** File "speaker.cha": line 4, column 42: parser: semantic failure: CHI has @ID role Child but already had @Participants role Mei-Oanh
@@ -444,17 +444,17 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2664)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2732)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5970)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2659)
+	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2727)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5965)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "speaker.cha": line 6, column 5: lexer: null
 java.util.EmptyStackException
@@ -472,42 +472,42 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5979)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5974)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "speaker.cha": line 6, column 5: parser: mismatched input '' expecting COLON
 *** File "participants.cha": line 3, column 72: parser: semantic failure: 678 is missing a required @ID header
 *** File "participants.cha": line 10, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1581)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1532)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1532)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "amp-equals-fraction.cha": line 5, column 15: lexer: skipping nonviable character '8' in state 52
 *** File "amp-equals-fraction.cha": line 5, column 16: lexer: skipping nonviable character '8' in state 52
@@ -555,13 +555,13 @@ java.util.EmptyStackException
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.consumeUntil(BaseRecognizer.java:690)
 	at org.antlr.runtime.BaseRecognizer.recover(BaseRecognizer.java:364)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1577)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1572)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "retrace-in-group-bad.cha": line 6, column 16: parser: semantic failure: retrace was not followed by un-retraced content
 *** File "unintelligible-caps.cha": line 12, column 7: parser: semantic failure: "XXX" is not legal; did you mean to use "xxx" ?
@@ -601,58 +601,58 @@ java.util.EmptyStackException
 *** File "mor-empty.cha": line 8, column 7: parser: semantic failure: mor line is longer than main line
 *** File "mor-empty.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6127)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6122)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6093)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6088)
 	... 8 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6093)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5462)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1464)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6088)
+	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5457)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1459)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "greek-capital.cha": line 3, column 40: parser: semantic failure: MOT is missing a required @ID header
 *** File "greek-capital.cha": line 8, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1581)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1576)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1532)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
 	... 6 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1532)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:903)
-	at org.talkbank.chatter.App.processFile(App.java:916)
-	at org.talkbank.chatter.App.processRoot(App.java:719)
-	at org.talkbank.chatter.App.<init>(App.java:369)
-	at org.talkbank.chatter.App.<init>(App.java:213)
-	at org.talkbank.chatter.App.main(App.java:182)
+	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1527)
+	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:898)
+	at org.talkbank.chatter.App.processFile(App.java:921)
+	at org.talkbank.chatter.App.processRoot(App.java:724)
+	at org.talkbank.chatter.App.<init>(App.java:374)
+	at org.talkbank.chatter.App.<init>(App.java:215)
+	at org.talkbank.chatter.App.main(App.java:184)
 
 *** File "form-marker-compound.cha": line 8, column 18: parser: semantic failure: compound word may not have a form marker
 *** File "idependent-act.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52

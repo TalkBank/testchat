@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="indent-overlap-in-word" Mediatypes="audio"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Options="CA"
       Corpus="SBCSAE"
@@ -89,7 +89,7 @@
   </u>
   <u who="JO" uID="u2">
     <overlap-point start-end="start" top-bottom="bottom"/>
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>Yeah<overlap-point start-end="end" top-bottom="bottom"/><overlap-point start-end="start" top-bottom="top" index="2"/><p type="drawl"/></w>
     <w>but</w>
     <t type="p"></t>

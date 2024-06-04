@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Corpus="sample"
       >
@@ -25,49 +25,49 @@
   <comment type="Generic">pauses</comment>
   <u who="CHI" uID="u0">
     <w>a</w>
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u1">
     <w>a</w>
-    <pause symbolic-length="long"/>
+    <pause symbolic-length="long"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u2">
     <w>a</w>
-    <pause symbolic-length="very long"/>
+    <pause symbolic-length="very long"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u3">
     <w>a</w>
-    <pause symbolic-length="simple" length="3"/>
+    <pause symbolic-length="simple" length="3"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u4">
     <w>a</w>
-    <pause symbolic-length="simple" length="123"/>
+    <pause symbolic-length="simple" length="123"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u5">
     <w>a</w>
-    <pause symbolic-length="simple" length="123.4"/>
+    <pause symbolic-length="simple" length="123.4"></pause>
     <w>b</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u6">
     <w>a</w>
-    <pause symbolic-length="simple" length="3.4"/>
+    <pause symbolic-length="simple" length="3.4"></pause>
     <w>b</w>
     <t type="p"></t>
 
@@ -75,7 +75,7 @@
   <comment type="Generic">pauses followed by stuff</comment>
   <u who="CHI" uID="u7">
     <w>a</w>
-    <pause symbolic-length="simple"/>
+    <pause symbolic-length="simple"></pause>
     <tagMarker type="comma"></tagMarker>
     <w>b</w>
     <t type="p"></t>
@@ -84,7 +84,7 @@
   <comment type="Generic">pauses with annotations</comment>
   <u who="CHI" uID="u8">
     <g><w>a</w>
-    <pause symbolic-length="simple" length="3.4"/><k type="retracing"/></g>
+    <pause symbolic-length="simple" length="3.4"></pause><k type="retracing"/></g>
     <w>a</w>
     <t type="p"></t>
 

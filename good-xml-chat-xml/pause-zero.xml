@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="pause-zero" Mediatypes="video"
-      Version="2.20.3"
+      Version="3.0.0"
       Lang="eng"
       Corpus="sample"
       >
@@ -25,7 +25,7 @@
   </Participants>
   <comment type="Generic">pause starting with 0.</comment>
   <u who="CHI" uID="u0">
-    <pause symbolic-length="simple" length="0.4"/>
+    <pause symbolic-length="simple" length="0.4"></pause>
     <t type="p"></t>
     <media
       start="0.000"
@@ -36,7 +36,7 @@
   <u who="CHI" uID="u1">
     <g><w>hey</w>
     <w>you</w>
-    <pause symbolic-length="simple"/><ga type="explanation">hey you</ga></g>
+    <pause symbolic-length="simple"></pause><ga type="explanation">hey you</ga></g>
     <t type="p"></t>
     <media
       start="4.818"

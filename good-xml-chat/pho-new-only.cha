@@ -17,10 +17,10 @@
 *EXP:	entar Tante nggak mo maen lagi deh .
 %pho:	‹a b› c ‹d e› f g ‹h i› j
 @Comment:	retrace without groups
-*EXP:	<mon>  [<] [/] non !
+*EXP:	mon [<] [/] non !
 %pho:	mã nã
 @Comment:	retrace with groups
-*EXP:	<‹ah non›>  [<] [/] ‹ah non› !
+*EXP:	<‹ah non›> [<] [/] ‹ah non› !
 %pho:	anã anã
 @Comment:	1-1 group on main line
 *EXP:	‹c' est› lait .
@@ -36,15 +36,15 @@
 %xmod:	‹se le›
 @Comment:	compound
 *EXP:	foo+bar .
-%pho:	foo+bar
+%pho:	foobar
 @Comment:	retrace of simple word
-*EXP:	‹est [/]› lait .
+*EXP:	est [/] lait .
 %pho:	se le
 @Comment:	fragment retrace
-*EXP:	‹&~est [/]› lait .
+*EXP:	&~est [/] lait .
 %pho:	se le
 @Comment:	pho group around regular group, and vice versa
-*EXP:	‹est lait [/] la› <est lait> [/] la .
+*EXP:	‹est lait [/] la› <est ‹lait›> [/] la .
 %pho:	a b c d
 @Comment:	syllable stress
 *EXP:	hello world .

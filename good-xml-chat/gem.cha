@@ -112,8 +112,8 @@
 %exp:	car noises
 *MOT:	0 [=! snoring noise] .
 %act:	picks up chair and puts on floor . puts man in chair, tilting
-*CHI:	0 [=! laughs]  [>] .
-*MOT:	0 [=! laughs]  [<] .
+*CHI:	0 [=! laughs] [>] .
+*MOT:	0 [=! laughs] [<] .
 %act:	pokes Amy in stomach
 *CHI:	0 [=! laughs louder] .
 %act:	pushes toys on floor, knocks ladder and puts hands on toys on floor
@@ -254,9 +254,9 @@
 %xpho:	<1w> ne
 *CHI:	no !
 %com:	<1w> spoken louder
-*MOT:	<what's this one>  [>] ?
+*MOT:	<what's this one> [>] ?
 %act:	holds block out to Amy
-*CHI:	no  [<] !
+*CHI:	no [<] !
 *CHI:	no !
 %act:	<aft> puts block in shape box but it sticks
 *CHI:	mine .
