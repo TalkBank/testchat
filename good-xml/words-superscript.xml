@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="3.0.0"
+      Lang="eng"
+      Corpus="bates"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+      role="Child"
+      language="eng"
+      age="P1Y08M"
+      sex="female"
+      group="normal"
+
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Generic">00b2</comment>
+  <u who="CHI" uID="u0">
+    <w>hey²</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">00b3</comment>
+  <u who="CHI" uID="u1">
+    <w>hey³</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2074</comment>
+  <u who="CHI" uID="u2">
+    <w>hey⁴</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2075</comment>
+  <u who="CHI" uID="u3">
+    <w>hey⁵</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2076</comment>
+  <u who="CHI" uID="u4">
+    <w>hey⁶</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2077</comment>
+  <u who="CHI" uID="u5">
+    <w>hey⁷</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2078</comment>
+  <u who="CHI" uID="u6">
+    <w>hey⁸</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">2079</comment>
+  <u who="CHI" uID="u7">
+    <w>hey⁹</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>
