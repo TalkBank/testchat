@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	heb, eng
+@Participants:	CHI Child, MOT Mother
+@ID:	eng|bates|CHI|1;08.|female|normal||Child|||
+@ID:	eng|bates|MOT|||||Mother|||
+@Comment:	test all the legal Hebrew form markers
+@Comment:	@b
+*CHI:	שלום׀ב .
+@Comment:	@c
+*CHI:	שלום׀צ .
+@Comment:	@d
+*CHI:	שלום׀ד .
+@Comment:	@f
+*CHI:	שלום׀ף .
+@Comment:	@g
+*CHI:	שלום׀ג .
+@Comment:	@i
+*CHI:	שלום׀ר .
+@Comment:	@k
+*CHI:	שלום׀כ .
+@Comment:	@l
+*CHI:	שלום׀ל .
+@Comment:	@n
+*CHI:	שלום׀נ .
+@Comment:	@o
+*CHI:	שלום׀א .
+@Comment:	@p
+*CHI:	שלום׀פ .
+@Comment:	@q
+*CHI:	שלום׀ק .
+@Comment:	@s
+*CHI:	שלום׀ס .
+@Comment:	@t
+*CHI:	שלום׀ת .
+@Comment:	@u
+*CHI:	שלום׀ש .
+@Comment:	@wp
+*CHI:	שלום׀ו .
+@Comment:	@x
+*CHI:	שלום׀ח:לך .
+@Comment:	@z
+*CHI:	שלום׀ז:לך .
+@End
