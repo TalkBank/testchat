@@ -10,6 +10,6 @@
 @Comment:	Have %mor and %umor and %trn.
 *INV:	do you like having laces or buckles ? [+ bch]
 %mor:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
-%umor:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
 %trn:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
+%umor:	aux|do pro|you v|like part|have-PROG n|lace-PL conj:coo|or n|buckle-PL ?
 @End

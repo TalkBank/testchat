@@ -2,8 +2,8 @@
 @Begin
 @Languages:	heb, eng
 @Participants:	CHI Child, MOT Mother
-@ID:	eng|bates|CHI|1;08.|female|normal||Child|||
-@ID:	eng|bates|MOT|||||Mother|||
+@ID:	heb, eng|bates|CHI|1;08.|female|normal||Child|||
+@ID:	heb, eng|bates|MOT|||||Mother|||
 @Comment:	test all the legal Hebrew form markers
 @Comment:	@b
 *CHI:	שלום׀ב .
@@ -20,7 +20,7 @@
 @Comment:	@k
 *CHI:	שלום׀כ .
 @Comment:	@l
-*CHI:	שלום׀ל .
+*CHI:	ש׀ל .
 @Comment:	@n
 *CHI:	שלום׀נ .
 @Comment:	@o
@@ -31,6 +31,8 @@
 *CHI:	שלום׀ק .
 @Comment:	@s
 *CHI:	שלום׀ס .
+@Comment:	@s:eng
+*CHI:	שלום׀ס:eng .
 @Comment:	@t
 *CHI:	שלום׀ת .
 @Comment:	@u
@@ -38,7 +40,7 @@
 @Comment:	@wp
 *CHI:	שלום׀ו .
 @Comment:	@x
-*CHI:	שלום׀ח:לך .
+*CHI:	שלום׀ח .
 @Comment:	@z
 *CHI:	שלום׀ז:לך .
 @End

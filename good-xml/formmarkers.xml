@@ -3,7 +3,8 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.0.0"
+      Window="243_127_688_700_-1_-1_240_0_240_0"
+      Version="3.0.1"
       Lang="eng"
       Corpus="bates"
       >
@@ -26,11 +27,9 @@
   </Participants>
   <comment type="Generic">test all the legal form markers</comment>
   <u who="CHI" uID="u0">
-    <w formType="addition">a</w>
     <w formType="babbling">a</w>
     <w formType="child-invented">a</w>
     <w formType="dialect">a</w>
-    <w formType="echolalia">a</w>
     <w formType="family-specific">a</w>
     <w formType="filled pause">a</w>
     <w formType="generic">a</w>
@@ -38,7 +37,6 @@
     <w formType="kana">a</w>
     <w formType="letter">a</w>
     <w formType="neologism">a</w>
-    <w formType="no voice">a</w>
     <w formType="onomatopoeia">a</w>
     <w formType="phonology consistent">a</w>
     <w formType="quoted metareference">a</w>
