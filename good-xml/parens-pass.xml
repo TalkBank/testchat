@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.0"
+      Version="3.2.1"
       Lang="eng"
       Corpus="change_me_later"
       >
@@ -24,6 +24,7 @@
 
     <a type="comments">this is okay because parens can mark parts of words, just not whole words</a>
   </u>
+  <comment type="Generic">&amp;=0</comment>
   <u who="CHI" uID="u1">
     <w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w>
     <w>want<mor type="mor"><mw><pos><c>v</c></pos><stem>want</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>

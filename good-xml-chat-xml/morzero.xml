@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.0"
+      Version="3.2.1"
       Lang="eng"
       Corpus="bates"
       >
@@ -24,6 +24,7 @@
 
     />
   </Participants>
+  <comment type="Generic">TODO &amp;=0</comment>
   <u who="CHI" uID="u0">
     <w>I'm<mor type="mor"><mw><pos><c>pro</c></pos><stem>I</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">1S</mk></mw></mor-post></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
