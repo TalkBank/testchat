@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.1"
+      Version="3.2.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -26,7 +26,7 @@
   </Participants>
   <u who="CHI" uID="u0">
     <w>non<mor type="mor"><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>n</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw></pho></w>
-    <pg><w type="omission">il<mor type="mor"><mw><pos><c>0pro</c><s>subj</s></pos><stem>il</stem></mw></mor></w>
+    <pg><w type="omission">il</w>
     <w>y<mor type="mor"><mw><pos><c>pro</c><s>y</s></pos><stem>y</stem></mw></mor></w>
     <w>a<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>avoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw></pho></pg>
     <w>pas<mor type="mor"><mw><pos><c>adv</c><s>neg</s></pos><stem>pas</stem></mw></mor><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>p</base></ph><ph><base>a</base></ph></pw></pho></w>

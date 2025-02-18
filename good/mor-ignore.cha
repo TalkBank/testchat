@@ -26,9 +26,8 @@
 %mor:	adv:loc|here v|be&3S det|a .
 *CHI:	here is a &~frag .
 %mor:	adv:loc|here v|be&3S det|a .
-@Comment:	TODO
-*CHI:	here is an &=0for word .
-%mor:	adv:loc|here v|be&3S det|a 0prep|for n|word .
+*CHI:	here is an 0for word .
+%mor:	adv:loc|here v|be&3S det|a n|word .
 @Comment:	The following have mor generating ?|0omitted etc.
 @Comment:	*CHI:here is an 0omitted word .
 @Comment:	*CHI:here is an 0*omitted word .

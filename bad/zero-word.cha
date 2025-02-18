@@ -4,6 +4,6 @@
 @Participants:	CHI Child, MOT Mother
 @ID:	eng|bates|CHI|1;08.|female|normal||Child|||
 @ID:	eng|bates|MOT|||||Mother|||
-@Comment:	0word is now &=0 word
-*CHI:	0word .
+@Comment:	&=0word is illegal
+*CHI:	&=0word .
 @End

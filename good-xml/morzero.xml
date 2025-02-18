@@ -3,7 +3,7 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.1"
+      Version="3.2.0"
       Lang="eng"
       Corpus="bates"
       >
@@ -24,12 +24,12 @@
 
     />
   </Participants>
-  <comment type="Generic">TODO &amp;=0</comment>
+  <comment type="Generic">0word is ignored for mor</comment>
   <u who="CHI" uID="u0">
     <w>I'm<mor type="mor"><mw><pos><c>pro</c></pos><stem>I</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">1S</mk></mw></mor-post></mor></w>
     <w>a<mor type="mor"><mw><pos><c>det</c></pos><stem>a</stem></mw></mor></w>
     <w>play<mor type="mor"><mw><pos><c>n</c></pos><stem>play</stem></mw></mor></w>
-    <w type="omission">the<mor type="mor"><mw><pos><c>0det</c></pos><stem>the</stem></mw></mor></w>
+    <w type="omission">the</w>
     <w>toys<mor type="mor"><mw><pos><c>n</c></pos><stem>toy</stem><mk type="sfx">PL</mk></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"/></mor></t>
 

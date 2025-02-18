@@ -1,3 +1,5 @@
+*** File "replacement-is-bad.cha": line 7, column 15: parser: semantic failure: a replacement word cannot be untranscribed
+*** File "replacement-is-bad.cha": line 8, column 15: parser: semantic failure: a replacement word cannot be an omission
 *** File "omitted-affix.cha": line 9, column 7: parser: semantic failure: "Ollie-0's" is not a legal word in language "eng"
 *** File "media-remote-no-quotes.cha": line 6, column 14: lexer: skipping nonviable character ':' in state 170
 *** File "media-remote-no-quotes.cha": line 6, column 15: lexer: skipping nonviable character '/' in state 170
@@ -91,9 +93,9 @@ java.util.EmptyStackException
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2539)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1440)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2546)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1338)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
@@ -115,9 +117,9 @@ java.util.EmptyStackException
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2539)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1440)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2546)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1338)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -207,16 +209,8 @@ java.util.EmptyStackException
 *** File "repetition.cha": line 19, column 25: lexer: skipping nonviable character '2' in state 52
 *** File "repetition.cha": line 19, column 26: lexer: skipping nonviable character ']' in state 52
 *** File "form-marker-junk.cha": line 7, column 14: lexer: invalid form marker code: @dima
-*** File "parens-full-bad.cha": line 5, column 14: parser: semantic failure: word has no spoken content
-*** File "parens-full-bad.cha": line 6, column 32: parser: semantic failure: mor line is longer than main line
-*** File "parens-full-bad.cha": line 6, column 44: parser: semantic failure: mor line is longer than main line
-*** File "parens-full-bad.cha": line 7, column 35: parser: semantic failure: gra line is longer than mor line
-*** File "parens-full-bad.cha": line 7, column 43: parser: semantic failure: gra line is longer than mor line
-*** File "parens-full-bad.cha": line 15, column 14: lexer: skipping nonviable character '0' in state 52
-*** File "parens-full-bad.cha": line 20, column 65: parser: semantic failure: mor line is longer than main line
-*** File "parens-full-bad.cha": line 20, column 71: parser: semantic failure: mor line is longer than main line
-*** File "parens-full-bad.cha": line 21, column 59: parser: semantic failure: gra line is longer than mor line
-*** File "parens-full-bad.cha": line 21, column 68: parser: semantic failure: gra line is longer than mor line
+*** File "parens-full-bad.cha": line 5, column 17: parser: missing TAB at 'words'
+*** File "parens-full-bad.cha": line 6, column 14: parser: semantic failure: word has no spoken content
 *** File "age-bad.cha": line 4, column 23: parser: semantic failure: months for age must be two digits
 *** File "idependent-ssx.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
 *** File "idependent-ssx.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
@@ -424,12 +418,6 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 *** File "heritage.cha": line 4, column 18: lexer: skipping nonviable character 'e' in state 204
 *** File "heritage.cha": line 4, column 19: parser: missing OPTION at '\n'
 *** File "heritage.cha": line 15, column 40: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
-*** File "pho-without-group.cha": line 6, column 12: lexer: skipping nonviable character '0' in state 52
-*** File "pho-without-group.cha": line 6, column 49: lexer: skipping nonviable character '0' in state 52
-*** File "pho-without-group.cha": line 6, column 58: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
-*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
-*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
-*** File "pho-without-group.cha": line 8, column 1: parser: semantic failure: pho is longer than main line
 *** File "speaker.cha": line 3, column 21: parser: semantic failure: invalid role: Mei-Oanh
 *** File "speaker.cha": line 4, column 19: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 34
 *** File "speaker.cha": line 4, column 42: parser: semantic failure: CHI has @ID role Child but already had @Participants role Mei-Oanh
@@ -438,9 +426,9 @@ java.util.EmptyStackException
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2539)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1440)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2546)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1338)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
@@ -462,9 +450,9 @@ java.util.EmptyStackException
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2539)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1440)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2546)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1338)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -548,9 +536,9 @@ java.util.EmptyStackException
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
 	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
 	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2539)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1440)
+	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2546)
+	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1338)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
@@ -578,8 +566,6 @@ java.util.EmptyStackException
 *** File "role-Junk.cha": line 3, column 20: parser: semantic failure: invalid role: Junk
 *** File "role-Junk.cha": line 4, column 41: parser: semantic failure: invalid role: Junk
 *** File "phono-old.cha": line 7, column 7: lexer: skipping nonviable character '&' in state 52
-*** File "pho-bracketed-as-group.cha": line 16, column 29: lexer: skipping nonviable character '0' in state 52
-*** File "pho-bracketed-as-group.cha": line 16, column 38: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "bs5.cha": line 5, column 11: lexer: skipping nonviable character 'h' in state 204
 *** File "bs5.cha": line 5, column 12: lexer: skipping nonviable character 'e' in state 204
 *** File "bs5.cha": line 5, column 13: lexer: skipping nonviable character 'r' in state 204
@@ -593,11 +579,11 @@ java.util.EmptyStackException
 *** File "bs5.cha": line 12, column 24: lexer: skipping nonviable character '[' in state 52
 *** File "bs5.cha": line 12, column 31: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "unintelligible-obsolete-yy.cha": line 12, column 7: parser: semantic failure: "yy" is not legal; did you mean to use "yyy" ?
-*** File "mor-commas.cha": line 6, column 21: lexer: skipping nonviable character '0' in state 52
 *** File "mor-commas.cha": line 7, column 27: lexer: skipping nonviable character ',' in state 96
 *** File "mor-commas.cha": line 7, column 28: lexer: skipping nonviable character ',' in state 96
-*** File "mor-commas.cha": line 6, column 26: parser: semantic failure: main line is longer than mor line
-*** File "zero-word.cha": line 7, column 7: lexer: skipping nonviable character '0' in state 52
+*** File "mor-commas.cha": line 6, column 16: parser: semantic failure: main line is longer than mor line
+*** File "zero-word.cha": line 7, column 7: lexer: skipping nonviable character '&' in state 52
+*** File "zero-word.cha": line 7, column 8: lexer: skipping nonviable character '=' in state 52
 *** File "idependent-sdi.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
 *** File "idependent-sdi.cha": line 7, column 12: lexer: skipping nonviable character '%' in state 52
 *** File "idependent-sdi.cha": line 7, column 20: lexer: skipping nonviable character ']' in state 52

@@ -4,7 +4,7 @@
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
       Media="pho-mod-order" Mediatypes="video"
-      Version="3.2.1"
+      Version="3.2.0"
       Lang="fra"
       Corpus="Paris-Corpus_Leonard"
       Date="1992-06-23"
@@ -49,7 +49,7 @@
     />
   </Participants>
   <comment type="Date">23-JUN-1992</comment>
-  <comment type="Generic">Test %mod and %pho order. TODO Round trip.</comment>
+  <comment type="Generic">Test %mod and %pho order.</comment>
   <u who="CHI" uID="u0">
     <w>oh<mod xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>ɔ</base></ph></pw></mod><pho xmlns="http://www.talkbank.org/ns/talkbank"><pw><ph><base>o</base><phlen>ː</phlen></ph></pw></pho></w>
     <t type="e"></t>

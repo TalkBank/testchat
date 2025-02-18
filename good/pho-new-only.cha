@@ -51,7 +51,7 @@
 %mod:	həˈloʊ ˈwʌɹld
 %pho:	həˈloʊ ˈwʌɹld
 @Comment:	omission etc.
-*EXP:	hello &=0omitted .
+*EXP:	hello 0omitted .
 %pho:	a
 @Comment:	yyy has pho
 *EXP:	yyy .
