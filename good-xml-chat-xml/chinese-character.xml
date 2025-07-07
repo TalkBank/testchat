@@ -3,16 +3,16 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.0"
-      Lang="eng"
-      Options="CA"
+      Version="3.2.1"
+      Lang="zho eng"
       Corpus="bates"
+      Date="1964-07-23"
       >
   <Participants>
     <participant
       id="CHI"
       role="Child"
-      language="eng"
+      language="zho eng"
       age="P1Y08M"
       sex="female"
       group="normal"
@@ -21,13 +21,14 @@
     <participant
       id="MOT"
       role="Mother"
-      language="eng"
+      language="zho eng"
 
     />
   </Participants>
-  <comment type="Generic">Segment repetition with bad content (colon)</comment>
+  <comment type="Date">23-JUL-1964</comment>
+  <comment type="Generic">Chinese word</comment>
   <u who="CHI" uID="u0">
-    <w><ca-delimiter type="begin" label="repeated-segment"/>s<p type="drawl"/>-s-segment<ca-delimiter type="end" label="repeated-segment"/></w>
+    <w>笑</w>
     <t type="p"></t>
 
   </u>

@@ -3,31 +3,34 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.0"
-      Lang="eng deu"
+      Version="3.2.1"
+      Lang="zho eng"
       Corpus="bates"
+      Date="1964-07-23"
       >
   <Participants>
     <participant
       id="CHI"
       role="Child"
-      language="eng deu"
-      age="P1Y08M02D"
+      language="zho eng"
+      age="P1Y08M"
       sex="female"
       group="normal"
-      SES="foo"
-      education="bleah"
 
     />
     <participant
       id="MOT"
       role="Mother"
-      language="eng deu"
+      language="zho eng"
 
     />
   </Participants>
+  <comment type="Date">23-JUL-1964</comment>
+  <comment type="Generic">happening with Chinese characters</comment>
   <u who="CHI" uID="u0">
-    <w>foo</w>
+    <w>a</w>
+    <w>foo3</w>
+    <e><happening>笑</happening></e>
     <t type="p"></t>
 
   </u>
