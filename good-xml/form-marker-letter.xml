@@ -3,7 +3,8 @@
 <CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.talkbank.org/ns/talkbank"
       xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
-      Version="3.2.1"
+      Window="239_127_688_700_-1_-1_187_0_190_0"
+      Version="3.2.2"
       Lang="eng"
       Corpus="bates"
       >
@@ -24,14 +25,14 @@
 
     />
   </Participants>
-  <comment type="Generic">test @l</comment>
+  <comment type="Generic">test @l and @ls</comment>
   <u who="CHI" uID="u0">
     <w formType="letter">a</w>
     <t type="p"></t>
 
   </u>
   <u who="CHI" uID="u1">
-    <w formType="letter" formSuffix="-s">b</w>
+    <w formType="letter plural">b</w>
     <t type="p"></t>
 
   </u>

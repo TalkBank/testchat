@@ -1,4 +1,5 @@
 @UTF8
+@Window:	239_127_688_700_-1_-1_282_0_282_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Child, MOT Mother
@@ -8,6 +9,6 @@
 @Comment:	Contrast with regular word plural with hyphen.
 *CHI:	boy-s .
 %mor:	n|boy-PL .
-*CHI:	a@l-s b@l-s .
+*CHI:	a@ls b@ls .
 %mor:	n:let|a-PL n:let|b-PL .
 @End
