@@ -89,38 +89,35 @@
 *** File "pho-repetition-bad.cha": line 4, column 25: parser: semantic failure: Th has @ID role Child but already had @Participants role Théo
 *** File "pho-repetition-bad.cha": line 5, column 13: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 18
 *** File "pho-repetition-bad.cha": line 5, column 14: parser: extraneous input 'o' expecting COLON
-*** File "pho-repetition-bad.cha": line 8, column 4: lexer: null
-java.util.EmptyStackException
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2545)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+*** File "pho-repetition-bad.cha": line 8, column 4: lexer: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+	at org.talkbank.parser.chat.jflex.LexicalStates.peek(LexicalStates.java:81)
+	at org.talkbank.parser.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1453)
+	at org.talkbank.parser.chat.jflex.ChatLexer.yylex(ChatLexer.java:2559)
+	at org.talkbank.parser.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1351)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2654)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2722)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5960)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.who(ChatParser.java:2656)
+	at org.talkbank.parser.chat.antlr.ChatParser.whoChecked(ChatParser.java:2724)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:5962)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
-*** File "pho-repetition-bad.cha": line 8, column 4: lexer: null
-java.util.EmptyStackException
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2545)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+*** File "pho-repetition-bad.cha": line 8, column 4: lexer: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+	at org.talkbank.parser.chat.jflex.LexicalStates.peek(LexicalStates.java:81)
+	at org.talkbank.parser.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1453)
+	at org.talkbank.parser.chat.jflex.ChatLexer.yylex(ChatLexer.java:2559)
+	at org.talkbank.parser.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1351)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -129,26 +126,28 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5969)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:5971)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "pho-repetition-bad.cha": line 8, column 4: parser: mismatched input '' expecting COLON
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-enumeration-valid: Value 'language' is not facet-valid with respect to enumeration '[addressee, actions, alternative, coding, cohesion, comments, english translation, errcoding, explanation, flow, facial, target gloss, gesture, intonation, orthography, paralinguistics, SALT, situation, speech act, time stamp, extension]'. It must be a value from the enumeration.
 *** File "dep-tier-lan.cha": line 39, column 24: internal validator error: error:: cvc-attribute.3: The value 'language' of attribute 'type' on element 'a' is not valid with respect to its type, 'annotationTypeType'.
-*** org.talkbank.util.ValidatorTalkBankException
-	at org.talkbank.chatter.App.processTree(App.java:1095)
-	at org.talkbank.chatter.App.processFile(App.java:959)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+*** org.talkbank.core.exception.ValidatorTalkBankException
+	at org.talkbank.transform.ChatterRunner.processTree(ChatterRunner.java:532)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:445)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 *** File "old-blocking.cha": line 10, column 7: lexer: ^ not allowed at the beginning of a word
 *** File "options-caps.cha": line 4, column 11: lexer: skipping nonviable character 'c' in state 204
 *** File "options-caps.cha": line 4, column 12: lexer: skipping nonviable character 'a' in state 204
@@ -279,56 +278,60 @@ java.util.EmptyStackException
 *** File "morweist.cha": line 8, column 18: parser: semantic failure: Unknown participant: FAT
 *** File "morweist.cha": line 8, column 32: parser: internal error: null
 InternalErrorRecognitionException(java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null)
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4075)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3725)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1429)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.id(ChatParser.java:4077)
+	at org.talkbank.parser.chat.antlr.ChatParser.ids(ChatParser.java:3727)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1431)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4001)
-	... 8 more
+	at org.talkbank.parser.chat.antlr.ChatParser.id(ChatParser.java:4003)
+	... 9 more
 java.lang.NullPointerException: Cannot invoke "org.antlr.runtime.tree.CommonTree.getText()" because "retval.w" is null
-	at org.talkbank.chat.antlr.ChatParser.id(ChatParser.java:4001)
-	at org.talkbank.chat.antlr.ChatParser.ids(ChatParser.java:3725)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1429)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.id(ChatParser.java:4003)
+	at org.talkbank.parser.chat.antlr.ChatParser.ids(ChatParser.java:3727)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1431)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "morweist.cha": line 11, column 14: parser: no viable alternative at input '+'
 *** File "morweist.cha": line 11, column 15: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 11, column 30: parser: semantic failure: mor line is longer than main line
 *** File "morweist.cha": line 13, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1571)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1573)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1521)
-	... 6 more
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1523)
+	... 7 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1521)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1523)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "mornumber-spanish-2.cha": line 9, column 27: parser: rule sterminator failed predicate: {$terminatorIsOptional}?
 *** File "mornumber-spanish-2.cha": line 11, column 33: parser: no viable alternative at input '&'
@@ -386,28 +389,30 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule participants
 *** File "code.cha": line 6, column 19: lexer: skipping nonviable character 'r' in state 0
 *** File "code.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1571)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1573)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1529)
-	... 6 more
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1531)
+	... 7 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1529)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1531)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "heritage.cha": line 4, column 11: lexer: skipping nonviable character 'h' in state 204
 *** File "heritage.cha": line 4, column 12: lexer: skipping nonviable character 'e' in state 204
@@ -422,38 +427,35 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule tiers
 *** File "speaker.cha": line 3, column 21: parser: semantic failure: invalid role: Mei-Oanh
 *** File "speaker.cha": line 4, column 19: lexer: skipping nonviable character 'é' (Unicode \u00e9) in state 34
 *** File "speaker.cha": line 4, column 42: parser: semantic failure: CHI has @ID role Child but already had @Participants role Mei-Oanh
-*** File "speaker.cha": line 6, column 5: lexer: null
-java.util.EmptyStackException
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2545)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+*** File "speaker.cha": line 6, column 5: lexer: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+	at org.talkbank.parser.chat.jflex.LexicalStates.peek(LexicalStates.java:81)
+	at org.talkbank.parser.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1453)
+	at org.talkbank.parser.chat.jflex.ChatLexer.yylex(ChatLexer.java:2559)
+	at org.talkbank.parser.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1351)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:106)
-	at org.talkbank.chat.antlr.ChatParser.who(ChatParser.java:2654)
-	at org.talkbank.chat.antlr.ChatParser.whoChecked(ChatParser.java:2722)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5960)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.who(ChatParser.java:2656)
+	at org.talkbank.parser.chat.antlr.ChatParser.whoChecked(ChatParser.java:2724)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:5962)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
-*** File "speaker.cha": line 6, column 5: lexer: null
-java.util.EmptyStackException
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2545)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+*** File "speaker.cha": line 6, column 5: lexer: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+	at org.talkbank.parser.chat.jflex.LexicalStates.peek(LexicalStates.java:81)
+	at org.talkbank.parser.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1453)
+	at org.talkbank.parser.chat.jflex.ChatLexer.yylex(ChatLexer.java:2559)
+	at org.talkbank.parser.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1351)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.skipOffTokenChannels(CommonTokenStream.java:113)
@@ -462,42 +464,45 @@ java.util.EmptyStackException
 	at org.antlr.runtime.BaseRecognizer.mismatchIsUnwantedToken(BaseRecognizer.java:127)
 	at org.antlr.runtime.BaseRecognizer.recoverFromMismatchedToken(BaseRecognizer.java:593)
 	at org.antlr.runtime.BaseRecognizer.match(BaseRecognizer.java:115)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:5969)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:5971)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "speaker.cha": line 6, column 5: parser: mismatched input '' expecting COLON
 *** File "participants.cha": line 3, column 72: parser: semantic failure: 678 is missing a required @ID header
 *** File "participants.cha": line 10, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1571)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1573)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
-	... 6 more
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1524)
+	... 7 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1524)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "q.cha": line 7, column 14: parser: extraneous input '-s' expecting END_WORD
 *** File "q.cha": line 7, column 22: parser: extraneous input '-s' expecting END_WORD
@@ -535,26 +540,25 @@ org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 *** File "exceptions.cha": line 11, column 15: lexer: skipping nonviable character 'o' in state 0
 *** File "exceptions.cha": line 11, column 16: lexer: skipping nonviable character 'o' in state 0
 *** File "exceptions.cha": line 11, column 13: parser: mismatched input '\t' expecting END
-*** File "exceptions.cha": line 11, column 18: lexer: null
-java.util.EmptyStackException
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.checkEmptyStack(AbstractIntStack.java:46)
-	at org.eclipse.collections.impl.stack.primitive.AbstractIntStack.peek(AbstractIntStack.java:53)
-	at org.talkbank.chat.jflex.LexicalStates.peek(LexicalStates.java:80)
-	at org.talkbank.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1439)
-	at org.talkbank.chat.jflex.ChatLexer.yylex(ChatLexer.java:2545)
-	at org.talkbank.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1337)
+*** File "exceptions.cha": line 11, column 18: lexer: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "java.util.Deque.peek()" is null
+	at org.talkbank.parser.chat.jflex.LexicalStates.peek(LexicalStates.java:81)
+	at org.talkbank.parser.chat.jflex.ChatLexer.enterTopState(ChatLexer.java:1453)
+	at org.talkbank.parser.chat.jflex.ChatLexer.yylex(ChatLexer.java:2559)
+	at org.talkbank.parser.chat.jflex.ChatLexer.nextToken(ChatLexer.java:1351)
 	at org.antlr.runtime.BufferedTokenStream.fetch(BufferedTokenStream.java:143)
 	at org.antlr.runtime.BufferedTokenStream.sync(BufferedTokenStream.java:137)
 	at org.antlr.runtime.CommonTokenStream.consume(CommonTokenStream.java:68)
 	at org.antlr.runtime.BaseRecognizer.consumeUntil(BaseRecognizer.java:690)
 	at org.antlr.runtime.BaseRecognizer.recover(BaseRecognizer.java:364)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1567)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1569)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "retrace-in-group-bad.cha": line 6, column 16: parser: semantic failure: retrace was not followed by un-retraced content
 *** File "unintelligible-caps.cha": line 12, column 7: parser: semantic failure: "XXX" is not legal; did you mean to use "xxx" ?
@@ -595,58 +599,62 @@ java.util.EmptyStackException
 *** File "mor-empty.cha": line 8, column 7: parser: semantic failure: mor line is longer than main line
 *** File "mor-empty.cha": line 9, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6122)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:6124)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6088)
-	... 8 more
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:6090)
+	... 9 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule utterance
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.tier(ChatParser.java:6088)
-	at org.talkbank.chat.antlr.ChatParser.tiers(ChatParser.java:5452)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1454)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.tier(ChatParser.java:6090)
+	at org.talkbank.parser.chat.antlr.ChatParser.tiers(ChatParser.java:5454)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1456)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "greek-capital.cha": line 3, column 40: parser: semantic failure: MOT is missing a required @ID header
 *** File "greek-capital.cha": line 8, column 1: parser: internal error: null
 InternalErrorRecognitionException(org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1571)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1573)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 Caused by: org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
-	... 6 more
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1524)
+	... 7 more
 org.antlr.runtime.tree.RewriteEmptyStreamException: rule ids
 	at org.antlr.runtime.tree.RewriteRuleElementStream._next(RewriteRuleElementStream.java:158)
 	at org.antlr.runtime.tree.RewriteRuleElementStream.nextTree(RewriteRuleElementStream.java:145)
-	at org.talkbank.chat.antlr.ChatParser.chat(ChatParser.java:1522)
-	at org.talkbank.chat.antlr.ChatParser.document(ChatParser.java:893)
-	at org.talkbank.chatter.App.processFile(App.java:921)
-	at org.talkbank.chatter.App.processRoot(App.java:724)
-	at org.talkbank.chatter.App.<init>(App.java:374)
-	at org.talkbank.chatter.App.<init>(App.java:215)
-	at org.talkbank.chatter.App.main(App.java:184)
+	at org.talkbank.parser.chat.antlr.ChatParser.chat(ChatParser.java:1524)
+	at org.talkbank.parser.chat.antlr.ChatParser.document(ChatParser.java:895)
+	at org.talkbank.transform.ChatterRunner.processFile(ChatterRunner.java:411)
+	at org.talkbank.transform.ChatterRunner.processRoot(ChatterRunner.java:300)
+	at org.talkbank.transform.ChatterRunner.processDirectory(ChatterRunner.java:76)
+	at org.talkbank.gui.MacChatter$2.construct(MacChatter.java:310)
+	at other.javax.swing.SwingWorker$2.run(SwingWorker.java:110)
+	at java.base/java.lang.Thread.run(Unknown Source)
 
 *** File "form-marker-compound.cha": line 8, column 18: parser: semantic failure: compound word may not have a form marker
 *** File "idependent-act.cha": line 7, column 11: lexer: skipping nonviable character '[' in state 52
